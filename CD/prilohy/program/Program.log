@@ -1,0 +1,54 @@
+29.8.2011 17:31:39 SOAP.Menu main
+INFO: Spusteni programu
+29.8.2011 17:31:40 SOAP.Menu main
+SEVERE: klic se neshoduje
+29.8.2011 19:00:25 SOAP.Menu main
+INFO: Spusteni programu
+29.8.2011 19:00:33 SOAP.Menu main
+SEVERE: Soubor serial.ser s licencnim cislem neexistuje, ukoncuji program, PC:s12038-12644-55-124
+29.8.2011 19:01:39 SOAP.Menu main
+INFO: Spusteni programu
+29.8.2011 19:01:59 SOAP.DB dbConnect
+SEVERE: Nepodarilo se napojit do databaze
+29.8.2011 19:03:34 SOAP.Menu main
+INFO: Spusteni programu
+29.8.2011 19:03:40 SOAP.DB dbConnect
+SEVERE: Nepodarilo se napojit do databaze
+29.8.2011 19:05:58 SOAP.Menu main
+INFO: Spusteni programu
+29.8.2011 19:05:59 SOAP.Menu main
+INFO: Spousteni po 10000 milisekundach
+29.8.2011 19:05:59 SOAP.Menu main
+INFO: Spusteni interface dle soap.properties
+29.8.2011 19:06:05 SOAP.IniciaceDB <init>
+INFO: Iniciace Databaze - Maze linky a detaily linky
+29.8.2011 19:06:06 SOAP.IniciaceDB spust
+INFO: Iniciace DB - zaplneni tabulky linky z ustredny
+29.8.2011 19:06:25 SOAP.Menu$10 actionPerformed
+INFO: Automat zastaven rucne
+29.8.2011 19:06:33 SOAP.Menu$11 actionPerformed
+INFO: Ukoncuji Program
+29.8.2011 19:14:31 SOAP.Menu main
+INFO: Spusteni programu
+29.8.2011 19:14:32 SOAP.Menu main
+INFO: Spousteni po 10000 milisekundach
+29.8.2011 19:14:32 SOAP.Menu main
+INFO: Spusteni interface dle soap.properties
+29.8.2011 19:18:11 SOAP.Menu$11 actionPerformed
+INFO: Ukoncuji Program
+30.8.2011 19:46:42 SOAP.Menu main
+INFO: Spusteni programu
+30.8.2011 19:47:16 SOAP.DB dbConnect
+SEVERE: Nepodarilo se napojit do databaze
+30.8.2011 19:47:53 SOAP.Menu main
+INFO: Spusteni programu
+30.8.2011 19:47:54 SOAP.Menu main
+INFO: Spousteni po 10000 milisekundach
+30.8.2011 19:47:54 SOAP.Menu main
+INFO: Spusteni interface dle soap.properties
+30.8.2011 19:57:23 SOAP.Menu$11 actionPerformed
+INFO: Ukoncuji Program
+5.9.2011 10:11:42 SOAP.Menu main
+INFO: Spusteni programu
+5.9.2011 10:28:34 SOAP.Menu main
+INFO: Spusteni programu

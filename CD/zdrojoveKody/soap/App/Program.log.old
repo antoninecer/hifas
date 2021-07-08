@@ -1,0 +1,3734 @@
+19.10.2010 17:37:15 SOAP.Menu main
+INFO: Spusteni programu
+19.10.2010 17:37:15 SOAP.Menu main
+INFO: Spousteni po 30000 milisekundach
+19.10.2010 17:37:15 SOAP.Menu main
+INFO: Spusteni interface dle soap.properties
+19.10.2010 18:08:16 SOAP.NactiVstup delej
+INFO: Buzeni: Ukoncuji buzeni na lince103, ktere jiz vice jak 22 minut proslo8
+19.10.2010 18:08:16 SOAP.NactiVstup delej
+INFO: Caracas: odesilam zpravu o nevzbuzeni linky 103
+19.10.2010 18:08:16 SOAP.NactiVstup delej
+INFO: Buzeni: Ukoncuji buzeni na lince104, ktere jiz vice jak 22 minut proslo9
+19.10.2010 18:08:16 SOAP.NactiVstup delej
+INFO: Caracas: odesilam zpravu o nevzbuzeni linky 104
+19.10.2010 22:44:34 SOAP.Menu$11 actionPerformed
+INFO: Ukoncuji Program
+19.10.2010 22:46:12 SOAP.Menu main
+INFO: Spusteni programu
+19.10.2010 22:46:12 SOAP.Menu main
+INFO: Spousteni po 30000 milisekundach
+19.10.2010 22:46:12 SOAP.Menu main
+INFO: Spusteni interface dle soap.properties
+19.10.2010 22:57:49 SOAP.Menu$11 actionPerformed
+INFO: Ukoncuji Program
+19.10.2010 22:57:53 SOAP.Menu main
+INFO: Spusteni programu
+19.10.2010 22:57:53 SOAP.Menu main
+INFO: Spousteni po 30000 milisekundach
+19.10.2010 22:57:53 SOAP.Menu main
+INFO: Spusteni interface dle soap.properties
+19.10.2010 23:44:53 SOAP.NactiVstup delej
+INFO: Buzeni: Ukoncuji buzeni na lince103, ktere jiz vice jak 22 minut proslo12
+19.10.2010 23:44:53 SOAP.NactiVstup delej
+INFO: Caracas: odesilam zpravu o nevzbuzeni linky 103
+19.10.2010 23:44:53 SOAP.NactiVstup delej
+INFO: Buzeni: Ukoncuji buzeni na lince104, ktere jiz vice jak 22 minut proslo13
+19.10.2010 23:44:53 SOAP.NactiVstup delej
+INFO: Caracas: odesilam zpravu o nevzbuzeni linky 104
+20.10.2010 0:10:40 SOAP.Menu$11 actionPerformed
+INFO: Ukoncuji Program
+20.10.2010 0:10:48 SOAP.Menu main
+INFO: Spusteni programu
+20.10.2010 0:10:48 SOAP.Menu main
+INFO: Spousteni po 30000 milisekundach
+20.10.2010 0:10:48 SOAP.Menu main
+INFO: Spusteni interface dle soap.properties
+20.10.2010 0:16:35 SOAP.Menu$11 actionPerformed
+INFO: Ukoncuji Program
+20.10.2010 0:16:39 SOAP.Menu main
+INFO: Spusteni programu
+20.10.2010 0:16:39 SOAP.Menu main
+INFO: Spousteni po 30000 milisekundach
+20.10.2010 0:16:39 SOAP.Menu main
+INFO: Spusteni interface dle soap.properties
+20.10.2010 0:17:39 SOAP.NactiVstup delej
+INFO: Buzeni: Ukoncuji buzeni na lince103, ktere jiz vice jak 22 minut proslo10
+20.10.2010 0:17:39 SOAP.NactiVstup delej
+INFO: Caracas: odesilam zpravu o nevzbuzeni linky 103
+20.10.2010 0:17:39 SOAP.NactiVstup delej
+INFO: Buzeni: Ukoncuji buzeni na lince104, ktere jiz vice jak 22 minut proslo11
+20.10.2010 0:17:39 SOAP.NactiVstup delej
+INFO: Caracas: odesilam zpravu o nevzbuzeni linky 104
+20.10.2010 0:35:31 SOAP.Menu$11 actionPerformed
+INFO: Ukoncuji Program
+20.10.2010 0:37:50 SOAP.Menu main
+INFO: Spusteni programu
+20.10.2010 0:37:50 SOAP.Menu main
+INFO: Spousteni po 30000 milisekundach
+20.10.2010 0:37:50 SOAP.Menu main
+INFO: Spusteni interface dle soap.properties
+20.10.2010 0:41:20 SOAP.Menu$10 actionPerformed
+INFO: Automat zastaven rucne
+20.10.2010 0:41:22 SOAP.Menu$11 actionPerformed
+INFO: Ukoncuji Program
+20.10.2010 0:41:25 SOAP.Menu main
+INFO: Spusteni programu
+20.10.2010 0:41:25 SOAP.Menu main
+INFO: Spousteni po 30000 milisekundach
+20.10.2010 0:41:25 SOAP.Menu main
+INFO: Spusteni interface dle soap.properties
+20.10.2010 0:42:25 SOAP.NactiVstup delej
+INFO: Buzeni: Ukoncuji buzeni na lince101, ktere jiz vice jak 17 minut proslo14
+20.10.2010 0:42:25 SOAP.NactiVstup delej
+INFO: Caracas: odesilam zpravu o nevzbuzeni linky 101
+20.10.2010 1:03:25 SOAP.NactiVstup delej
+INFO: Buzeni: Ukoncuji buzeni na lince104, ktere jiz vice jak 17 minut proslo15
+20.10.2010 1:03:25 SOAP.NactiVstup delej
+INFO: Caracas: odesilam zpravu o nevzbuzeni linky 104
+20.10.2010 9:26:33 SOAP.Menu$11 actionPerformed
+INFO: Ukoncuji Program
+20.10.2010 9:27:03 SOAP.Menu main
+INFO: Spusteni programu
+20.10.2010 9:27:03 SOAP.Menu main
+INFO: Spousteni po 30000 milisekundach
+20.10.2010 9:27:03 SOAP.Menu main
+INFO: Spusteni interface dle soap.properties
+20.10.2010 9:27:33 SOAP.Buzeni run
+INFO: Budim 105 volanim na899
+20.10.2010 9:33:46 SOAP.Menu$11 actionPerformed
+INFO: Ukoncuji Program
+20.10.2010 9:33:51 SOAP.Menu main
+INFO: Spusteni programu
+20.10.2010 9:33:51 SOAP.Menu main
+INFO: Spousteni po 30000 milisekundach
+20.10.2010 9:33:51 SOAP.Menu main
+INFO: Spusteni interface dle soap.properties
+20.10.2010 9:34:03 SOAP.Buzeni run
+INFO: Budim 105 volanim na899
+20.10.2010 9:35:06 SOAP.Buzeni run
+INFO: Vytacim cilovou linku 0602654814 pro linku 105
+20.10.2010 9:35:16 SOAP.Buzeni run
+INFO: Vytacim cilovou linku 0602654814 pro linku 105
+20.10.2010 9:35:18 SOAP.Buzeni run
+INFO: Vytacim cilovou linku 0602654814 pro linku 105
+20.10.2010 9:47:51 SOAP.NactiVstup delej
+INFO: Linka: Opravneni Linky 104 nastaveno na MZN
+20.10.2010 9:49:51 SOAP.NactiVstup delej
+INFO: Linka: Opravneni Linky 103 nastaveno na MZN
+20.10.2010 9:58:51 SOAP.NactiVstup delej
+INFO: Linka: Opravneni Linky 105 nastaveno na INT
+20.10.2010 9:59:51 SOAP.NactiVstup delej
+INFO: Linka: Opravneni Linky 105 nastaveno na MZN
+20.10.2010 10:01:51 SOAP.NactiVstup delej
+INFO: Linka: Opravneni Linky 105 nastaveno na INT
+20.10.2010 10:02:51 SOAP.NactiVstup delej
+INFO: Linka: Opravneni Linky 105 nastaveno na MZN
+20.10.2010 10:20:51 SOAP.Buzeni run
+INFO: Budim 103 volanim na899
+20.10.2010 10:26:46 SOAP.Buzeni run
+INFO: Vytacim cilovou linku 0602654814 pro linku 105
+20.10.2010 10:27:51 SOAP.Buzeni run
+INFO: Budim 104 volanim na899
+20.10.2010 10:32:51 SOAP.Buzeni run
+INFO: Budim 104 volanim na899
+20.10.2010 10:37:51 SOAP.Buzeni run
+INFO: Budim 104 volanim na899
+20.10.2010 10:42:51 SOAP.Buzeni run
+INFO: Budim 104 volanim na899
+20.10.2010 10:45:51 SOAP.NactiVstup delej
+INFO: Buzeni: Ukoncuji buzeni na lince104, ktere jiz vice jak 17 minut proslo28
+20.10.2010 10:45:51 SOAP.NactiVstup delej
+INFO: Caracas: odesilam zpravu o nevzbuzeni linky 104
+20.10.2010 12:30:15 SOAP.Menu$11 actionPerformed
+INFO: Ukoncuji Program
+21.10.2010 15:23:15 SOAP.Menu main
+INFO: Spusteni programu
+21.10.2010 15:23:15 SOAP.Menu main
+INFO: Spousteni po 30000 milisekundach
+21.10.2010 15:23:15 SOAP.Menu main
+INFO: Spusteni interface dle soap.properties
+21.10.2010 15:26:15 SOAP.Buzeni run
+INFO: Budim 104 volanim na899
+21.10.2010 15:27:46 SOAP.LinkyHandler1 endDocument
+INFO: Buzeni: linku 104 se nepodarilo vzbudit, nastavuji novy termin o 5 pozdeji
+21.10.2010 15:38:15 SOAP.NactiVstup delej
+INFO: Buzeni: Ukoncuji buzeni na lince104, ktere jiz vice jak 17 minut proslo29
+21.10.2010 15:38:15 SOAP.NactiVstup delej
+INFO: Caracas: odesilam zpravu o nevzbuzeni linky 104
+21.10.2010 17:55:15 SOAP.NactiVstup delej
+INFO: Buzeni: Ukoncuji buzeni na lince103, ktere jiz vice jak 17 minut proslo12
+21.10.2010 17:55:15 SOAP.NactiVstup delej
+INFO: Caracas: odesilam zpravu o nevzbuzeni linky 103
+21.10.2010 17:55:16 SOAP.NactiVstup delej
+INFO: Buzeni: Ukoncuji buzeni na lince104, ktere jiz vice jak 17 minut proslo13
+21.10.2010 17:55:16 SOAP.NactiVstup delej
+INFO: Caracas: odesilam zpravu o nevzbuzeni linky 104
+21.10.2010 17:55:16 SOAP.NactiVstup delej
+INFO: Buzeni: Ukoncuji buzeni na lince101, ktere jiz vice jak 17 minut proslo14
+21.10.2010 17:55:16 SOAP.NactiVstup delej
+INFO: Caracas: odesilam zpravu o nevzbuzeni linky 101
+21.10.2010 17:55:16 SOAP.NactiVstup delej
+INFO: Buzeni: Ukoncuji buzeni na lince104, ktere jiz vice jak 17 minut proslo15
+21.10.2010 17:55:16 SOAP.NactiVstup delej
+INFO: Caracas: odesilam zpravu o nevzbuzeni linky 104
+21.10.2010 17:55:16 SOAP.NactiVstup delej
+INFO: Buzeni: Ukoncuji buzeni na lince105, ktere jiz vice jak 17 minut proslo16
+21.10.2010 17:55:16 SOAP.NactiVstup delej
+INFO: Caracas: odesilam zpravu o nevzbuzeni linky 105
+21.10.2010 17:55:16 SOAP.NactiVstup delej
+INFO: Buzeni: Ukoncuji buzeni na lince104, ktere jiz vice jak 17 minut proslo17
+21.10.2010 17:55:16 SOAP.NactiVstup delej
+INFO: Caracas: odesilam zpravu o nevzbuzeni linky 104
+21.10.2010 17:55:16 SOAP.NactiVstup delej
+INFO: Buzeni: Ukoncuji buzeni na lince103, ktere jiz vice jak 17 minut proslo18
+21.10.2010 17:55:16 SOAP.NactiVstup delej
+INFO: Caracas: odesilam zpravu o nevzbuzeni linky 103
+21.10.2010 17:55:16 SOAP.NactiVstup delej
+INFO: Buzeni: Ukoncuji buzeni na lince103, ktere jiz vice jak 17 minut proslo27
+21.10.2010 17:55:16 SOAP.NactiVstup delej
+INFO: Caracas: odesilam zpravu o nevzbuzeni linky 103
+21.10.2010 17:55:16 SOAP.NactiVstup delej
+INFO: Buzeni: Ukoncuji buzeni na lince104, ktere jiz vice jak 17 minut proslo28
+21.10.2010 17:55:16 SOAP.NactiVstup delej
+INFO: Caracas: odesilam zpravu o nevzbuzeni linky 104
+21.10.2010 17:55:16 SOAP.NactiVstup delej
+INFO: Buzeni: Ukoncuji buzeni na lince104, ktere jiz vice jak 17 minut proslo29
+21.10.2010 17:55:16 SOAP.NactiVstup delej
+INFO: Caracas: odesilam zpravu o nevzbuzeni linky 104
+21.10.2010 17:57:15 SOAP.NactiVstup delej
+INFO: Buzeni: Ukoncuji buzeni na lince103, ktere jiz vice jak 17 minut proslo12
+21.10.2010 17:57:15 SOAP.NactiVstup delej
+INFO: Caracas: odesilam zpravu o nevzbuzeni linky 103
+21.10.2010 17:57:15 SOAP.NactiVstup delej
+INFO: Buzeni: Ukoncuji buzeni na lince104, ktere jiz vice jak 17 minut proslo13
+21.10.2010 17:57:15 SOAP.NactiVstup delej
+INFO: Caracas: odesilam zpravu o nevzbuzeni linky 104
+21.10.2010 17:57:15 SOAP.NactiVstup delej
+INFO: Buzeni: Ukoncuji buzeni na lince101, ktere jiz vice jak 17 minut proslo14
+21.10.2010 17:57:15 SOAP.NactiVstup delej
+INFO: Caracas: odesilam zpravu o nevzbuzeni linky 101
+21.10.2010 17:57:15 SOAP.NactiVstup delej
+INFO: Buzeni: Ukoncuji buzeni na lince104, ktere jiz vice jak 17 minut proslo15
+21.10.2010 17:57:15 SOAP.NactiVstup delej
+INFO: Caracas: odesilam zpravu o nevzbuzeni linky 104
+21.10.2010 17:57:15 SOAP.NactiVstup delej
+INFO: Buzeni: Ukoncuji buzeni na lince105, ktere jiz vice jak 17 minut proslo16
+21.10.2010 17:57:16 SOAP.NactiVstup delej
+INFO: Caracas: odesilam zpravu o nevzbuzeni linky 105
+21.10.2010 17:57:16 SOAP.NactiVstup delej
+INFO: Buzeni: Ukoncuji buzeni na lince104, ktere jiz vice jak 17 minut proslo17
+21.10.2010 17:57:16 SOAP.NactiVstup delej
+INFO: Caracas: odesilam zpravu o nevzbuzeni linky 104
+21.10.2010 17:57:16 SOAP.NactiVstup delej
+INFO: Buzeni: Ukoncuji buzeni na lince103, ktere jiz vice jak 17 minut proslo18
+21.10.2010 17:57:16 SOAP.NactiVstup delej
+INFO: Caracas: odesilam zpravu o nevzbuzeni linky 103
+21.10.2010 17:57:16 SOAP.NactiVstup delej
+INFO: Buzeni: Ukoncuji buzeni na lince103, ktere jiz vice jak 17 minut proslo27
+21.10.2010 17:57:16 SOAP.NactiVstup delej
+INFO: Caracas: odesilam zpravu o nevzbuzeni linky 103
+21.10.2010 17:57:16 SOAP.NactiVstup delej
+INFO: Buzeni: Ukoncuji buzeni na lince104, ktere jiz vice jak 17 minut proslo28
+21.10.2010 17:57:16 SOAP.NactiVstup delej
+INFO: Caracas: odesilam zpravu o nevzbuzeni linky 104
+21.10.2010 17:57:16 SOAP.NactiVstup delej
+INFO: Buzeni: Ukoncuji buzeni na lince104, ktere jiz vice jak 17 minut proslo29
+21.10.2010 17:57:16 SOAP.NactiVstup delej
+INFO: Caracas: odesilam zpravu o nevzbuzeni linky 104
+21.10.2010 17:57:23 SOAP.Menu$11 actionPerformed
+INFO: Ukoncuji Program
+21.10.2010 19:27:41 SOAP.Menu main
+INFO: Spusteni programu
+21.10.2010 19:27:41 SOAP.Menu main
+INFO: Spousteni po 30000 milisekundach
+21.10.2010 19:27:41 SOAP.Menu main
+INFO: Spusteni interface dle soap.properties
+21.10.2010 19:27:52 SOAP.Menu$10 actionPerformed
+INFO: Automat zastaven rucne
+21.10.2010 19:35:10 SOAP.Menu$11 actionPerformed
+INFO: Ukoncuji Program
+21.10.2010 19:36:03 SOAP.Menu main
+INFO: Spusteni programu
+21.10.2010 19:36:03 SOAP.Menu main
+INFO: Spousteni po 30000 milisekundach
+21.10.2010 19:36:03 SOAP.Menu main
+INFO: Spusteni interface dle soap.properties
+21.10.2010 19:36:07 SOAP.Menu$10 actionPerformed
+INFO: Automat zastaven rucne
+21.10.2010 19:37:43 SOAP.Menu$11 actionPerformed
+INFO: Ukoncuji Program
+21.10.2010 19:37:47 SOAP.Menu main
+INFO: Spusteni programu
+21.10.2010 19:37:47 SOAP.Menu main
+INFO: Spousteni po 30000 milisekundach
+21.10.2010 19:37:47 SOAP.Menu main
+INFO: Spusteni interface dle soap.properties
+21.10.2010 19:37:49 SOAP.Menu$10 actionPerformed
+INFO: Automat zastaven rucne
+21.10.2010 19:40:33 SOAP.Menu main
+INFO: Spusteni programu
+21.10.2010 19:40:33 SOAP.Menu main
+INFO: Spousteni po 30000 milisekundach
+21.10.2010 19:40:33 SOAP.Menu main
+INFO: Spusteni interface dle soap.properties
+21.10.2010 19:40:35 SOAP.Menu$10 actionPerformed
+INFO: Automat zastaven rucne
+21.10.2010 19:47:22 SOAP.Menu$11 actionPerformed
+INFO: Ukoncuji Program
+21.10.2010 19:49:15 SOAP.Menu main
+INFO: Spusteni programu
+21.10.2010 19:49:15 SOAP.Menu main
+INFO: Spousteni po 30000 milisekundach
+21.10.2010 19:49:15 SOAP.Menu main
+INFO: Spusteni interface dle soap.properties
+21.10.2010 19:50:58 SOAP.Menu$10 actionPerformed
+INFO: Automat zastaven rucne
+21.10.2010 19:51:31 SOAP.Menu$11 actionPerformed
+INFO: Ukoncuji Program
+21.10.2010 19:52:32 SOAP.Menu main
+INFO: Spusteni programu
+21.10.2010 19:52:32 SOAP.Menu main
+INFO: Spousteni po 30000 milisekundach
+21.10.2010 19:52:32 SOAP.Menu main
+INFO: Spusteni interface dle soap.properties
+21.10.2010 19:52:34 SOAP.Menu$10 actionPerformed
+INFO: Automat zastaven rucne
+21.10.2010 19:53:00 SOAP.Menu$11 actionPerformed
+INFO: Ukoncuji Program
+21.10.2010 19:54:21 SOAP.Menu main
+INFO: Spusteni programu
+21.10.2010 19:54:21 SOAP.Menu main
+INFO: Spousteni po 30000 milisekundach
+21.10.2010 19:54:21 SOAP.Menu main
+INFO: Spusteni interface dle soap.properties
+21.10.2010 19:55:21 SOAP.NactiVstup delej
+INFO: Buzeni: Ukoncuji buzeni na lince105, ktere jiz vice jak 17 minut proslo16
+21.10.2010 19:55:21 SOAP.NactiVstup delej
+INFO: Caracas: odesilam zpravu o nevzbuzeni linky 105
+21.10.2010 19:55:33 SOAP.Menu$11 actionPerformed
+INFO: Ukoncuji Program
+21.10.2010 19:56:37 SOAP.Menu main
+INFO: Spusteni programu
+21.10.2010 19:56:37 SOAP.Menu main
+INFO: Spousteni po 30000 milisekundach
+21.10.2010 19:56:37 SOAP.Menu main
+INFO: Spusteni interface dle soap.properties
+21.10.2010 19:56:40 SOAP.Menu$10 actionPerformed
+INFO: Automat zastaven rucne
+21.10.2010 19:57:16 SOAP.Menu$11 actionPerformed
+INFO: Ukoncuji Program
+21.10.2010 19:57:40 SOAP.Menu main
+INFO: Spusteni programu
+21.10.2010 19:57:40 SOAP.Menu main
+INFO: Spousteni po 30000 milisekundach
+21.10.2010 19:57:40 SOAP.Menu main
+INFO: Spusteni interface dle soap.properties
+21.10.2010 19:58:40 SOAP.NactiVstup delej
+INFO: Buzeni: Ukoncuji buzeni na lince105, ktere jiz vice jak 17 minut proslo16
+21.10.2010 19:58:40 SOAP.NactiVstup delej
+INFO: Caracas: odesilam zpravu o nevzbuzeni linky 105
+21.10.2010 20:00:51 SOAP.Menu$11 actionPerformed
+INFO: Ukoncuji Program
+21.10.2010 20:00:56 SOAP.Menu main
+INFO: Spusteni programu
+21.10.2010 20:00:56 SOAP.Menu main
+INFO: Spousteni po 30000 milisekundach
+21.10.2010 20:00:56 SOAP.Menu main
+INFO: Spusteni interface dle soap.properties
+21.10.2010 20:01:24 SOAP.Menu$10 actionPerformed
+INFO: Automat zastaven rucne
+21.10.2010 20:02:16 SOAP.Menu$11 actionPerformed
+INFO: Ukoncuji Program
+21.10.2010 20:02:18 SOAP.Menu main
+INFO: Spusteni programu
+21.10.2010 20:02:19 SOAP.Menu main
+INFO: Spousteni po 30000 milisekundach
+21.10.2010 20:02:19 SOAP.Menu main
+INFO: Spusteni interface dle soap.properties
+21.10.2010 20:02:21 SOAP.Menu$10 actionPerformed
+INFO: Automat zastaven rucne
+21.10.2010 20:02:41 SOAP.Menu$11 actionPerformed
+INFO: Ukoncuji Program
+21.10.2010 20:02:58 SOAP.Menu main
+INFO: Spusteni programu
+21.10.2010 20:02:58 SOAP.Menu main
+INFO: Spousteni po 30000 milisekundach
+21.10.2010 20:02:58 SOAP.Menu main
+INFO: Spusteni interface dle soap.properties
+21.10.2010 20:03:05 SOAP.Menu$10 actionPerformed
+INFO: Automat zastaven rucne
+21.10.2010 20:03:06 SOAP.Menu$11 actionPerformed
+INFO: Ukoncuji Program
+21.10.2010 20:03:25 SOAP.Menu main
+INFO: Spusteni programu
+21.10.2010 20:03:25 SOAP.Menu main
+INFO: Spousteni po 30000 milisekundach
+21.10.2010 20:03:25 SOAP.Menu main
+INFO: Spusteni interface dle soap.properties
+21.10.2010 20:03:32 SOAP.Menu$11 actionPerformed
+INFO: Ukoncuji Program
+21.10.2010 20:10:18 SOAP.Menu main
+INFO: Spusteni programu
+21.10.2010 20:10:18 SOAP.Menu main
+INFO: Spousteni po 30000 milisekundach
+21.10.2010 20:10:18 SOAP.Menu main
+INFO: Spusteni interface dle soap.properties
+21.10.2010 20:10:21 SOAP.Menu$10 actionPerformed
+INFO: Automat zastaven rucne
+21.10.2010 20:10:44 SOAP.Menu$11 actionPerformed
+INFO: Ukoncuji Program
+21.10.2010 20:14:30 SOAP.Menu main
+INFO: Spusteni programu
+21.10.2010 20:14:30 SOAP.Menu main
+INFO: Spousteni po 30000 milisekundach
+21.10.2010 20:14:30 SOAP.Menu main
+INFO: Spusteni interface dle soap.properties
+21.10.2010 20:14:32 SOAP.Menu$10 actionPerformed
+INFO: Automat zastaven rucne
+21.10.2010 20:15:19 SOAP.Menu$11 actionPerformed
+INFO: Ukoncuji Program
+21.10.2010 20:15:22 SOAP.Menu main
+INFO: Spusteni programu
+21.10.2010 20:15:22 SOAP.Menu main
+INFO: Spousteni po 30000 milisekundach
+21.10.2010 20:15:22 SOAP.Menu main
+INFO: Spusteni interface dle soap.properties
+21.10.2010 20:15:24 SOAP.Menu$10 actionPerformed
+INFO: Automat zastaven rucne
+21.10.2010 20:15:49 SOAP.Menu$11 actionPerformed
+INFO: Ukoncuji Program
+21.10.2010 20:15:52 SOAP.Menu main
+INFO: Spusteni programu
+21.10.2010 20:15:52 SOAP.Menu main
+INFO: Spousteni po 30000 milisekundach
+21.10.2010 20:15:52 SOAP.Menu main
+INFO: Spusteni interface dle soap.properties
+21.10.2010 20:16:01 SOAP.Menu$11 actionPerformed
+INFO: Ukoncuji Program
+21.10.2010 20:16:16 SOAP.Menu main
+INFO: Spusteni programu
+21.10.2010 20:16:16 SOAP.Menu main
+INFO: Spousteni po 30000 milisekundach
+21.10.2010 20:16:16 SOAP.Menu main
+INFO: Spusteni interface dle soap.properties
+21.10.2010 20:16:40 SOAP.Menu$11 actionPerformed
+INFO: Ukoncuji Program
+21.10.2010 20:53:49 SOAP.Menu main
+INFO: Spusteni programu
+21.10.2010 20:53:49 SOAP.Menu main
+INFO: Spousteni po 30000 milisekundach
+21.10.2010 20:53:49 SOAP.Menu main
+INFO: Spusteni interface dle soap.properties
+21.10.2010 20:54:19 SOAP.Caracas nacti
+INFO: Nacitam soubor C:\data\Hotel\IF-DATA\caracas.ftp
+21.10.2010 20:54:19 SOAP.Caracas kontroluj
+INFO: Caracas vstup - nastaveni buzeni. Linka: 103 datum:2010-10-21 21:11:00.000
+21.10.2010 20:54:20 SOAP.Caracas kontroluj
+INFO: Caracas vstup - nastaveni buzeni. Linka: 104 datum:2010-10-21 21:11:00.000
+21.10.2010 20:54:20 SOAP.Caracas kontroluj
+INFO: Caracas vstup - nastaveni buzeni. Linka: 105 datum:2010-10-21 21:11:00.000
+21.10.2010 20:54:50 SOAP.Buzeni run
+INFO: Budim 103 volanim na899
+21.10.2010 20:54:50 SOAP.Buzeni run
+INFO: Budim 104 volanim na899
+21.10.2010 20:54:50 SOAP.Buzeni run
+INFO: Budim 105 volanim na899
+21.10.2010 20:55:17 SOAP.Menu$10 actionPerformed
+INFO: Automat zastaven rucne
+21.10.2010 20:55:21 SOAP.Menu$11 actionPerformed
+INFO: Ukoncuji Program
+21.10.2010 21:00:12 SOAP.Menu main
+INFO: Spusteni programu
+21.10.2010 21:00:12 SOAP.Menu main
+INFO: Spousteni po 30000 milisekundach
+21.10.2010 21:00:12 SOAP.Menu main
+INFO: Spusteni interface dle soap.properties
+21.10.2010 21:00:42 SOAP.Caracas nacti
+INFO: Nacitam soubor C:\data\Hotel\IF-DATA\caracas.ftp
+21.10.2010 21:00:42 SOAP.Caracas kontroluj
+INFO: Caracas vstup - nastaveni buzeni. Linka: 103 datum:2010-10-21 21:11:00.000
+21.10.2010 21:00:43 SOAP.Caracas kontroluj
+INFO: Caracas vstup - nastaveni buzeni. Linka: 104 datum:2010-10-21 21:11:00.000
+21.10.2010 21:00:43 SOAP.Caracas kontroluj
+INFO: Caracas vstup - nastaveni buzeni. Linka: 105 datum:2010-10-21 21:11:00.000
+21.10.2010 21:01:13 SOAP.Buzeni run
+INFO: Budim 103 volanim na899
+21.10.2010 21:01:13 SOAP.Buzeni run
+INFO: Budim 104 volanim na899
+21.10.2010 21:01:13 SOAP.Buzeni run
+INFO: Budim 105 volanim na899
+21.10.2010 21:02:44 SOAP.LinkyHandler1 endDocument
+INFO: Buzeni: linku 105 se nepodarilo vzbudit, nastavuji novy termin o 5 pozdeji
+21.10.2010 21:02:44 SOAP.LinkyHandler1 endDocument
+INFO: Buzeni: linku 103 se nepodarilo vzbudit, nastavuji novy termin o 5 pozdeji
+21.10.2010 21:02:44 SOAP.LinkyHandler1 endDocument
+INFO: Buzeni: linku 104 se nepodarilo vzbudit, nastavuji novy termin o 5 pozdeji
+21.10.2010 21:04:13 SOAP.Buzeni run
+INFO: Budim 103 volanim na899
+21.10.2010 21:04:13 SOAP.Buzeni run
+INFO: Budim 104 volanim na899
+21.10.2010 21:04:13 SOAP.Buzeni run
+INFO: Budim 105 volanim na899
+21.10.2010 21:04:40 SOAP.Menu$11 actionPerformed
+INFO: Ukoncuji Program
+21.10.2010 21:04:49 SOAP.Menu main
+INFO: Spusteni programu
+21.10.2010 21:04:49 SOAP.Menu main
+INFO: Spousteni po 30000 milisekundach
+21.10.2010 21:04:49 SOAP.Menu main
+INFO: Spusteni interface dle soap.properties
+21.10.2010 21:05:19 SOAP.Caracas nacti
+INFO: Nacitam soubor C:\data\Hotel\IF-DATA\caracas.ftp
+21.10.2010 21:05:19 SOAP.Caracas kontroluj
+INFO: Caracas vstup - nastaveni buzeni. Linka: 103 datum:2010-10-21 21:11:00.000
+21.10.2010 21:05:19 SOAP.Caracas kontroluj
+INFO: Caracas vstup - nastaveni buzeni. Linka: 104 datum:2010-10-21 21:11:00.000
+21.10.2010 21:05:19 SOAP.Caracas kontroluj
+INFO: Caracas vstup - nastaveni buzeni. Linka: 105 datum:2010-10-21 21:11:00.000
+21.10.2010 21:11:49 SOAP.Buzeni run
+INFO: Budim 103 volanim na899
+21.10.2010 21:11:49 SOAP.Buzeni run
+INFO: Budim 104 volanim na899
+21.10.2010 21:11:49 SOAP.Buzeni run
+INFO: Budim 105 volanim na899
+21.10.2010 21:13:20 SOAP.LinkyHandler1 endDocument
+INFO: Buzeni: linku 104 se nepodarilo vzbudit, nastavuji novy termin o 5 pozdeji
+21.10.2010 21:13:20 SOAP.LinkyHandler1 endDocument
+INFO: Buzeni: linku 103 se nepodarilo vzbudit, nastavuji novy termin o 5 pozdeji
+21.10.2010 21:13:20 SOAP.LinkyHandler1 endDocument
+INFO: Buzeni: linku 105 se nepodarilo vzbudit, nastavuji novy termin o 5 pozdeji
+21.10.2010 21:18:19 SOAP.Caracas nacti
+INFO: Nacitam soubor C:\data\Hotel\IF-DATA\caracas.ftp
+21.10.2010 21:18:19 SOAP.Caracas kontroluj
+INFO: Caracas vstup - uzavri linku: 104
+21.10.2010 21:18:19 SOAP.Caracas nacti
+SEVERE: chyba v nacteni souboru caracas
+21.10.2010 21:18:49 SOAP.Buzeni run
+INFO: Budim 103 volanim na899
+21.10.2010 21:18:49 SOAP.Buzeni run
+INFO: Budim 104 volanim na899
+21.10.2010 21:18:49 SOAP.Buzeni run
+INFO: Budim 105 volanim na899
+21.10.2010 21:19:19 SOAP.Caracas nacti
+INFO: Nacitam soubor C:\data\Hotel\IF-DATA\caracas.ftp
+21.10.2010 21:19:19 SOAP.Caracas kontroluj
+INFO: Caracas vstup - uzavri linku: 104
+21.10.2010 21:19:19 SOAP.Caracas nacti
+SEVERE: chyba v nacteni souboru caracas
+21.10.2010 21:20:17 SOAP.Menu$10 actionPerformed
+INFO: Automat zastaven rucne
+21.10.2010 21:20:19 SOAP.Menu$11 actionPerformed
+INFO: Ukoncuji Program
+21.10.2010 21:22:46 SOAP.Menu main
+INFO: Spusteni programu
+21.10.2010 21:22:46 SOAP.Menu main
+INFO: Spousteni po 30000 milisekundach
+21.10.2010 21:22:46 SOAP.Menu main
+INFO: Spusteni interface dle soap.properties
+21.10.2010 21:23:16 SOAP.Caracas nacti
+INFO: Nacitam soubor C:\data\Hotel\IF-DATA\caracas.ftp
+21.10.2010 21:23:16 SOAP.Caracas kontroluj
+INFO: Caracas vstup - uzavri linku: 104
+21.10.2010 21:23:17 SOAP.Caracas nacti
+SEVERE: chyba v nacteni souboru caracas
+21.10.2010 21:23:27 SOAP.Menu$10 actionPerformed
+INFO: Automat zastaven rucne
+21.10.2010 21:24:32 SOAP.Menu$11 actionPerformed
+INFO: Ukoncuji Program
+21.10.2010 21:24:35 SOAP.Menu main
+INFO: Spusteni programu
+21.10.2010 21:24:35 SOAP.Menu main
+INFO: Spousteni po 30000 milisekundach
+21.10.2010 21:24:35 SOAP.Menu main
+INFO: Spusteni interface dle soap.properties
+21.10.2010 21:25:05 SOAP.Caracas nacti
+INFO: Nacitam soubor C:\data\Hotel\IF-DATA\caracas.ftp
+21.10.2010 21:25:05 SOAP.Caracas kontroluj
+INFO: Caracas vstup - uzavri linku: 104
+21.10.2010 21:25:05 SOAP.Caracas kontroluj
+INFO: Caracas vstup - otevri linku: 105
+21.10.2010 21:25:36 SOAP.NactiVstup delej
+INFO: Linka: Opravneni Linky 104 nastaveno na INT
+21.10.2010 21:25:39 SOAP.NactiVstup delej
+INFO: Linka: Opravneni Linky 105 nastaveno na MZN
+21.10.2010 21:26:35 SOAP.Buzeni run
+INFO: Budim 103 volanim na899
+21.10.2010 21:26:35 SOAP.Buzeni run
+INFO: Budim 104 volanim na899
+21.10.2010 21:26:35 SOAP.Buzeni run
+INFO: Budim 105 volanim na899
+21.10.2010 21:27:35 SOAP.Buzeni run
+INFO: Budim 103 volanim na899
+21.10.2010 21:27:35 SOAP.Buzeni run
+INFO: Budim 104 volanim na899
+21.10.2010 21:27:35 SOAP.Buzeni run
+INFO: Budim 105 volanim na899
+21.10.2010 21:28:05 SOAP.LinkyHandler1 endDocument
+INFO: Buzeni: linku 103 se nepodarilo vzbudit, nastavuji novy termin o 5 pozdeji
+21.10.2010 21:28:05 SOAP.LinkyHandler1 endDocument
+INFO: Buzeni: linku 105 se nepodarilo vzbudit, nastavuji novy termin o 5 pozdeji
+21.10.2010 21:28:05 SOAP.LinkyHandler1 endDocument
+INFO: Buzeni: linku 104 se nepodarilo vzbudit, nastavuji novy termin o 5 pozdeji
+21.10.2010 21:29:05 SOAP.LinkyHandler1 endDocument
+INFO: Buzeni: linku 103 se nepodarilo vzbudit, nastavuji novy termin o 5 pozdeji
+21.10.2010 21:29:05 SOAP.LinkyHandler1 endDocument
+INFO: Buzeni: linku 104 se nepodarilo vzbudit, nastavuji novy termin o 5 pozdeji
+21.10.2010 21:29:05 SOAP.LinkyHandler1 endDocument
+INFO: Buzeni: linku 105 se nepodarilo vzbudit, nastavuji novy termin o 5 pozdeji
+21.10.2010 21:29:35 SOAP.NactiVstup delej
+INFO: Buzeni: Ukoncuji buzeni na lince103, ktere jiz vice jak 17 minut proslo36
+21.10.2010 21:29:35 SOAP.NactiVstup delej
+INFO: Caracas: odesilam zpravu o nevzbuzeni linky 103
+21.10.2010 21:29:35 SOAP.NactiVstup delej
+INFO: Buzeni: Ukoncuji buzeni na lince104, ktere jiz vice jak 17 minut proslo37
+21.10.2010 21:29:35 SOAP.NactiVstup delej
+INFO: Caracas: odesilam zpravu o nevzbuzeni linky 104
+21.10.2010 21:29:35 SOAP.NactiVstup delej
+INFO: Buzeni: Ukoncuji buzeni na lince105, ktere jiz vice jak 17 minut proslo38
+21.10.2010 21:29:35 SOAP.NactiVstup delej
+INFO: Caracas: odesilam zpravu o nevzbuzeni linky 105
+21.10.2010 21:44:35 SOAP.NactiVstup delej
+INFO: Buzeni: Ukoncuji buzeni na lince103, ktere jiz vice jak 17 minut proslo36
+21.10.2010 21:44:35 SOAP.NactiVstup delej
+INFO: Caracas: odesilam zpravu o nevzbuzeni linky 103
+21.10.2010 21:44:35 SOAP.NactiVstup delej
+INFO: Buzeni: Ukoncuji buzeni na lince104, ktere jiz vice jak 17 minut proslo37
+21.10.2010 21:44:35 SOAP.NactiVstup delej
+INFO: Caracas: odesilam zpravu o nevzbuzeni linky 104
+21.10.2010 21:44:35 SOAP.NactiVstup delej
+INFO: Buzeni: Ukoncuji buzeni na lince105, ktere jiz vice jak 17 minut proslo38
+21.10.2010 21:44:35 SOAP.NactiVstup delej
+INFO: Caracas: odesilam zpravu o nevzbuzeni linky 105
+21.10.2010 21:46:05 SOAP.Caracas nacti
+INFO: Nacitam soubor C:\data\Hotel\IF-DATA\caracas.ftp
+21.10.2010 21:46:05 SOAP.Caracas kontroluj
+INFO: Caracas vstup - nastaveni buzeni. Linka: 103 datum:2010-10-21 21:47:00.000
+21.10.2010 21:46:35 SOAP.NactiVstup delej
+INFO: Buzeni: Ukoncuji buzeni na lince105, ktere jiz vice jak 17 minut proslo38
+21.10.2010 21:46:35 SOAP.NactiVstup delej
+INFO: Caracas: odesilam zpravu o nevzbuzeni linky 105
+21.10.2010 21:47:35 SOAP.NactiVstup delej
+INFO: Buzeni: Ukoncuji buzeni na lince105, ktere jiz vice jak 17 minut proslo38
+21.10.2010 21:47:35 SOAP.NactiVstup delej
+INFO: Caracas: odesilam zpravu o nevzbuzeni linky 105
+21.10.2010 21:47:35 SOAP.Buzeni run
+INFO: Budim 103 volanim na899
+21.10.2010 21:48:35 SOAP.NactiVstup delej
+INFO: Buzeni: Ukoncuji buzeni na lince105, ktere jiz vice jak 17 minut proslo38
+21.10.2010 21:48:35 SOAP.NactiVstup delej
+INFO: Caracas: odesilam zpravu o nevzbuzeni linky 105
+21.10.2010 21:48:35 SOAP.Buzeni run
+INFO: Budim 103 volanim na899
+21.10.2010 21:49:05 SOAP.LinkyHandler1 endDocument
+INFO: Buzeni: linku 103 se nepodarilo vzbudit, nastavuji novy termin o 5 pozdeji
+21.10.2010 21:49:12 SOAP.Menu$11 actionPerformed
+INFO: Ukoncuji Program
+21.10.2010 21:51:11 SOAP.Menu main
+INFO: Spusteni programu
+21.10.2010 21:51:11 SOAP.Menu main
+INFO: Spousteni po 30000 milisekundach
+21.10.2010 21:51:11 SOAP.Menu main
+INFO: Spusteni interface dle soap.properties
+21.10.2010 21:51:17 SOAP.Menu$11 actionPerformed
+INFO: Ukoncuji Program
+21.10.2010 21:51:40 SOAP.Menu main
+INFO: Spusteni programu
+21.10.2010 21:51:40 SOAP.Menu main
+INFO: Spousteni po 30000 milisekundach
+21.10.2010 21:51:40 SOAP.Menu main
+INFO: Spusteni interface dle soap.properties
+21.10.2010 21:52:20 SOAP.Menu$11 actionPerformed
+INFO: Ukoncuji Program
+21.10.2010 21:52:23 SOAP.Menu main
+INFO: Spusteni programu
+21.10.2010 21:52:23 SOAP.Menu main
+INFO: Spousteni po 30000 milisekundach
+21.10.2010 21:52:23 SOAP.Menu main
+INFO: Spusteni interface dle soap.properties
+21.10.2010 21:53:24 SOAP.Buzeni run
+INFO: Budim 103 volanim na899
+21.10.2010 21:53:57 SOAP.Menu$11 actionPerformed
+INFO: Ukoncuji Program
+21.10.2010 21:56:09 SOAP.Menu main
+INFO: Spusteni programu
+21.10.2010 21:56:09 SOAP.Menu main
+INFO: Spousteni po 30000 milisekundach
+21.10.2010 21:56:09 SOAP.Menu main
+INFO: Spusteni interface dle soap.properties
+21.10.2010 21:57:09 SOAP.Buzeni run
+INFO: Budim 103 volanim na899
+21.10.2010 21:58:41 SOAP.LinkyHandler1 endDocument
+INFO: Buzeni: linku 103 se nepodarilo vzbudit, nastavuji novy termin o 5 pozdeji
+21.10.2010 22:05:09 SOAP.NactiVstup delej
+INFO: Buzeni: Ukoncuji buzeni na lince103, ktere jiz vice jak 17 minut proslo41
+21.10.2010 22:05:09 SOAP.NactiVstup delej
+INFO: Caracas: odesilam zpravu o nevzbuzeni linky 103
+21.10.2010 22:42:08 SOAP.Menu$11 actionPerformed
+INFO: Ukoncuji Program
+21.10.2010 23:07:36 SOAP.Menu main
+INFO: Spusteni programu
+21.10.2010 23:07:36 SOAP.Menu main
+INFO: Spousteni po 30000 milisekundach
+21.10.2010 23:07:36 SOAP.Menu main
+INFO: Spusteni interface dle soap.properties
+21.10.2010 23:09:06 SOAP.Caracas nacti
+INFO: Nacitam soubor C:\data\Hotel\IF-DATA\caracas.ftp
+21.10.2010 23:09:06 SOAP.Caracas kontroluj
+INFO: Caracas vstup - nastaveni buzeni. Linka: 103 datum:2010-10-21 23:09:00.000
+21.10.2010 23:09:06 SOAP.Caracas kontroluj
+INFO: Caracas vstup - nastaveni buzeni. Linka: 101 datum:2010-10-21 23:10:00.000
+21.10.2010 23:09:06 SOAP.Caracas kontroluj
+INFO: Caracas vstup - nastaveni buzeni. Linka: 104 datum:2010-10-21 23:11:00.000
+21.10.2010 23:09:06 SOAP.Caracas kontroluj
+INFO: Caracas vstup - nastaveni buzeni. Linka: 105 datum:2010-10-21 23:12:00.000
+21.10.2010 23:09:36 SOAP.Buzeni run
+INFO: Budim 103 volanim na899
+21.10.2010 23:10:36 SOAP.Buzeni run
+INFO: Budim 101 volanim na899
+21.10.2010 23:11:06 SOAP.LinkyHandler1 endDocument
+INFO: Buzeni: linku 103 se nepodarilo vzbudit, nastavuji novy termin o 5 pozdeji
+21.10.2010 23:11:36 SOAP.Buzeni run
+INFO: Budim 104 volanim na899
+21.10.2010 23:11:47 SOAP.LinkyHandler1 endDocument
+INFO: Buzeni: linka 101 uspesne vzbuzena
+21.10.2010 23:12:36 SOAP.Buzeni run
+INFO: Budim 105 volanim na899
+21.10.2010 23:12:54 SOAP.Menu$11 actionPerformed
+INFO: Ukoncuji Program
+21.10.2010 23:12:58 SOAP.Menu main
+INFO: Spusteni programu
+21.10.2010 23:12:58 SOAP.Menu main
+INFO: Spousteni po 30000 milisekundach
+21.10.2010 23:12:58 SOAP.Menu main
+INFO: Spusteni interface dle soap.properties
+21.10.2010 23:13:58 SOAP.Buzeni run
+INFO: Budim 103 volanim na899
+21.10.2010 23:13:58 SOAP.Buzeni run
+INFO: Budim 104 volanim na899
+21.10.2010 23:13:58 SOAP.Buzeni run
+INFO: Budim 105 volanim na899
+21.10.2010 23:15:29 SOAP.LinkyHandler1 endDocument
+INFO: Buzeni: linku 103 se nepodarilo vzbudit, nastavuji novy termin o 5 pozdeji
+21.10.2010 23:15:29 SOAP.LinkyHandler1 endDocument
+INFO: Buzeni: linku 105 se nepodarilo vzbudit, nastavuji novy termin o 5 pozdeji
+21.10.2010 23:15:29 SOAP.LinkyHandler1 endDocument
+INFO: Buzeni: linku 104 se nepodarilo vzbudit, nastavuji novy termin o 5 pozdeji
+21.10.2010 23:29:44 SOAP.Menu$11 actionPerformed
+INFO: Ukoncuji Program
+21.10.2010 23:29:50 SOAP.Menu main
+INFO: Spusteni programu
+21.10.2010 23:29:50 SOAP.Menu main
+INFO: Spousteni po 30000 milisekundach
+21.10.2010 23:29:50 SOAP.Menu main
+INFO: Spusteni interface dle soap.properties
+21.10.2010 23:30:40 SOAP.Menu$11 actionPerformed
+INFO: Ukoncuji Program
+21.10.2010 23:31:06 SOAP.Menu main
+INFO: Spusteni programu
+21.10.2010 23:31:06 SOAP.Menu main
+INFO: Spousteni po 30000 milisekundach
+21.10.2010 23:31:06 SOAP.Menu main
+INFO: Spusteni interface dle soap.properties
+21.10.2010 23:32:06 SOAP.NactiVstup delej
+INFO: Buzeni: Ukoncuji buzeni na lince105, ktere jiz vice jak 17 minut proslo45
+21.10.2010 23:32:06 SOAP.NactiVstup delej
+INFO: Caracas: odesilam zpravu o nevzbuzeni linky 105
+21.10.2010 23:44:31 SOAP.Menu$11 actionPerformed
+INFO: Ukoncuji Program
+21.10.2010 23:44:37 SOAP.Menu main
+INFO: Spusteni programu
+21.10.2010 23:44:37 SOAP.Menu main
+INFO: Spousteni po 30000 milisekundach
+21.10.2010 23:44:37 SOAP.Menu main
+INFO: Spusteni interface dle soap.properties
+21.10.2010 23:46:57 SOAP.Menu$11 actionPerformed
+INFO: Ukoncuji Program
+21.10.2010 23:55:05 SOAP.Menu main
+INFO: Spusteni programu
+21.10.2010 23:55:05 SOAP.Menu main
+INFO: Spousteni po 30000 milisekundach
+21.10.2010 23:55:05 SOAP.Menu main
+INFO: Spusteni interface dle soap.properties
+21.10.2010 23:56:35 SOAP.Caracas nacti
+INFO: Nacitam soubor C:\data\Hotel\IF-DATA\caracas.ftp
+21.10.2010 23:56:35 SOAP.Caracas kontroluj
+INFO: Caracas vstup - nastaveni buzeni. Linka: 103 datum:2010-10-21 23:57:00.000
+21.10.2010 23:56:35 SOAP.Caracas kontroluj
+INFO: Caracas vstup - nastaveni buzeni. Linka: 101 datum:2010-10-21 23:58:00.000
+21.10.2010 23:56:35 SOAP.Caracas kontroluj
+INFO: Caracas vstup - nastaveni buzeni. Linka: 104 datum:2010-10-21 23:58:00.000
+21.10.2010 23:56:35 SOAP.Caracas kontroluj
+INFO: Caracas vstup - nastaveni buzeni. Linka: 105 datum:2010-10-21 23:59:00.000
+21.10.2010 23:57:05 SOAP.Buzeni run
+INFO: Budim 103 volanim na899
+21.10.2010 23:58:05 SOAP.Buzeni run
+INFO: Budim 101 volanim na899
+21.10.2010 23:58:05 SOAP.Buzeni run
+INFO: Budim 104 volanim na899
+21.10.2010 23:58:35 SOAP.LinkyHandler1 endDocument
+INFO: Buzeni: linku 103 se nepodarilo vzbudit, nastavuji novy termin o 5 pozdeji
+21.10.2010 23:59:05 SOAP.Buzeni run
+INFO: Budim 105 volanim na899
+21.10.2010 23:59:13 SOAP.LinkyHandler1 endDocument
+INFO: Buzeni: linka 101 uspesne vzbuzena
+21.10.2010 23:59:35 SOAP.LinkyHandler1 endDocument
+INFO: Buzeni: linku 104 se nepodarilo vzbudit, nastavuji novy termin o 5 pozdeji
+22.10.2010 0:00:35 SOAP.LinkyHandler1 endDocument
+INFO: Buzeni: linku 105 se nepodarilo vzbudit, nastavuji novy termin o 5 pozdeji
+22.10.2010 0:15:05 SOAP.NactiVstup delej
+INFO: Buzeni: Ukoncuji buzeni na lince103, ktere jiz vice jak 17 minut proslo46
+22.10.2010 0:15:05 SOAP.NactiVstup delej
+INFO: Caracas: odesilam zpravu o nevzbuzeni linky 103
+22.10.2010 0:16:05 SOAP.NactiVstup delej
+INFO: Buzeni: Ukoncuji buzeni na lince104, ktere jiz vice jak 17 minut proslo48
+22.10.2010 0:16:05 SOAP.NactiVstup delej
+INFO: Caracas: odesilam zpravu o nevzbuzeni linky 104
+22.10.2010 0:17:05 SOAP.NactiVstup delej
+INFO: Buzeni: Ukoncuji buzeni na lince105, ktere jiz vice jak 17 minut proslo49
+22.10.2010 0:17:05 SOAP.NactiVstup delej
+INFO: Caracas: odesilam zpravu o nevzbuzeni linky 105
+22.10.2010 9:30:36 SOAP.Caracas nacti
+INFO: Nacitam soubor C:\data\Hotel\IF-DATA\caracas.ftp
+22.10.2010 9:30:36 SOAP.Caracas kontroluj
+INFO: Caracas vstup - nastaveni buzeni. Linka: 103 datum:2010-10-22 09:32:00.000
+22.10.2010 9:30:36 SOAP.Caracas kontroluj
+INFO: Caracas vstup - nastaveni buzeni. Linka: 104 datum:2010-10-22 09:32:00.000
+22.10.2010 9:30:36 SOAP.Caracas kontroluj
+INFO: Caracas vstup - nastaveni buzeni. Linka: 105 datum:2010-10-22 09:32:00.000
+22.10.2010 9:30:38 SOAP.Menu$11 actionPerformed
+INFO: Ukoncuji Program
+22.10.2010 9:38:56 SOAP.Menu main
+INFO: Spusteni programu
+22.10.2010 9:38:56 SOAP.Menu main
+INFO: Spousteni po 30000 milisekundach
+22.10.2010 9:38:56 SOAP.Menu main
+INFO: Spusteni interface dle soap.properties
+22.10.2010 9:39:56 SOAP.Buzeni run
+INFO: Budim 103 volanim na899
+22.10.2010 9:39:56 SOAP.Buzeni run
+INFO: Budim 104 volanim na899
+22.10.2010 9:39:56 SOAP.Buzeni run
+INFO: Budim 105 volanim na899
+22.10.2010 9:41:02 SOAP.LinkyHandler1 endDocument
+INFO: Buzeni: linka 105 uspesne vzbuzena
+22.10.2010 9:41:04 SOAP.LinkyHandler1 endDocument
+INFO: Buzeni: linka 104 uspesne vzbuzena
+22.10.2010 9:41:08 SOAP.LinkyHandler1 endDocument
+INFO: Buzeni: linka 103 uspesne vzbuzena
+22.10.2010 9:42:09 SOAP.Menu$11 actionPerformed
+INFO: Ukoncuji Program
+22.10.2010 9:43:12 SOAP.Menu main
+INFO: Spusteni programu
+22.10.2010 9:43:12 SOAP.Menu main
+INFO: Spousteni po 30000 milisekundach
+22.10.2010 9:43:12 SOAP.Menu main
+INFO: Spusteni interface dle soap.properties
+22.10.2010 9:43:50 SOAP.Menu$11 actionPerformed
+INFO: Ukoncuji Program
+22.10.2010 9:45:24 SOAP.Menu main
+INFO: Spusteni programu
+22.10.2010 9:45:24 SOAP.Menu main
+INFO: Spousteni po 30000 milisekundach
+22.10.2010 9:45:24 SOAP.Menu main
+INFO: Spusteni interface dle soap.properties
+22.10.2010 10:11:03 SOAP.Menu$11 actionPerformed
+INFO: Ukoncuji Program
+22.10.2010 10:11:19 SOAP.Menu main
+INFO: Spusteni programu
+22.10.2010 10:11:19 SOAP.Menu main
+INFO: Spousteni po 30000 milisekundach
+22.10.2010 10:11:19 SOAP.Menu main
+INFO: Spusteni interface dle soap.properties
+22.10.2010 10:11:40 SOAP.Menu$11 actionPerformed
+INFO: Ukoncuji Program
+22.10.2010 10:20:17 SOAP.Menu main
+INFO: Spusteni programu
+22.10.2010 10:20:17 SOAP.Menu main
+INFO: Spousteni po 30000 milisekundach
+22.10.2010 10:20:17 SOAP.Menu main
+INFO: Spusteni interface dle soap.properties
+22.10.2010 10:20:44 SOAP.Menu$11 actionPerformed
+INFO: Ukoncuji Program
+22.10.2010 10:24:46 SOAP.Menu main
+INFO: Spusteni programu
+22.10.2010 10:24:46 SOAP.Menu main
+INFO: Spousteni po 30000 milisekundach
+22.10.2010 10:24:46 SOAP.Menu main
+INFO: Spusteni interface dle soap.properties
+22.10.2010 10:25:33 SOAP.Buzeni run
+INFO: Budim 103 volanim na899
+22.10.2010 10:25:51 SOAP.Buzeni run
+INFO: Vytacim cilovou linku 0602654814 pro linku 103
+22.10.2010 10:26:32 SOAP.Buzeni run
+INFO: Vytacim cilovou linku 0602654814 pro linku 103
+22.10.2010 10:26:37 SOAP.LinkyHandler1 endDocument
+INFO: Buzeni: linka 103 uspesne vzbuzena
+22.10.2010 10:26:45 SOAP.Buzeni run
+INFO: Vytacim cilovou linku 0602654814 pro linku 105
+22.10.2010 10:34:46 SOAP.LinkyHandler endElement
+INFO: Tarifikace: linka 105 cil 602654814 datum 2010-10-22 10:33:55 delka0
+22.10.2010 10:34:54 SOAP.Buzeni run
+INFO: Vytacim cilovou linku 0602654814 pro linku 105
+22.10.2010 10:51:16 SOAP.Caracas nacti
+INFO: Nacitam soubor C:\data\Hotel\IF-DATA\caracas.ftp
+22.10.2010 10:51:16 SOAP.Caracas kontroluj
+INFO: Caracas vstup - nastaveni buzeni. Linka: 103 datum:2010-10-22 10:53:00.000
+22.10.2010 10:51:16 SOAP.Caracas kontroluj
+INFO: Caracas vstup - nastaveni buzeni. Linka: 104 datum:2010-10-22 10:52:00.000
+22.10.2010 10:51:16 SOAP.Caracas kontroluj
+INFO: Caracas vstup - nastaveni buzeni. Linka: 105 datum:2010-10-22 10:52:00.000
+22.10.2010 10:52:46 SOAP.Buzeni run
+INFO: Budim 104 volanim na899
+22.10.2010 10:52:46 SOAP.Buzeni run
+INFO: Budim 105 volanim na899
+22.10.2010 10:53:46 SOAP.Buzeni run
+INFO: Budim 103 volanim na899
+22.10.2010 10:54:00 SOAP.LinkyHandler1 endDocument
+INFO: Buzeni: linka 105 uspesne vzbuzena
+22.10.2010 10:54:16 SOAP.LinkyHandler1 endDocument
+INFO: Buzeni: linku 104 se nepodarilo vzbudit, nastavuji novy termin o 5 pozdeji
+22.10.2010 10:54:53 SOAP.LinkyHandler1 endDocument
+INFO: Buzeni: linka 103 uspesne vzbuzena
+22.10.2010 11:09:02 SOAP.Menu$11 actionPerformed
+INFO: Ukoncuji Program
+22.10.2010 11:09:42 SOAP.Menu main
+INFO: Spusteni programu
+22.10.2010 11:09:42 SOAP.Menu main
+INFO: Spousteni po 30000 milisekundach
+22.10.2010 11:09:42 SOAP.Menu main
+INFO: Spusteni interface dle soap.properties
+22.10.2010 11:10:00 SOAP.Menu$10 actionPerformed
+INFO: Automat zastaven rucne
+22.10.2010 11:10:03 SOAP.Menu$11 actionPerformed
+INFO: Ukoncuji Program
+22.10.2010 11:10:37 SOAP.Menu main
+INFO: Spusteni programu
+22.10.2010 11:10:37 SOAP.Menu main
+INFO: Spousteni po 30000 milisekundach
+22.10.2010 11:10:37 SOAP.Menu main
+INFO: Spusteni interface dle soap.properties
+22.10.2010 11:11:37 SOAP.NactiVstup delej
+INFO: Buzeni: Ukoncuji buzeni na lince104, ktere jiz vice jak 17 minut proslo54
+22.10.2010 11:11:37 SOAP.NactiVstup delej
+INFO: Caracas: odesilam zpravu o nevzbuzeni linky 104
+22.10.2010 11:25:25 SOAP.Menu$11 actionPerformed
+INFO: Ukoncuji Program
+22.10.2010 11:26:22 SOAP.Menu main
+INFO: Spusteni programu
+22.10.2010 11:26:22 SOAP.Menu main
+INFO: Spousteni po 30000 milisekundach
+22.10.2010 11:26:22 SOAP.Menu main
+INFO: Spusteni interface dle soap.properties
+22.10.2010 11:26:34 SOAP.Menu$11 actionPerformed
+INFO: Ukoncuji Program
+22.10.2010 11:31:10 SOAP.Menu main
+INFO: Spusteni programu
+22.10.2010 11:31:10 SOAP.Menu main
+INFO: Spousteni po 30000 milisekundach
+22.10.2010 11:31:10 SOAP.Menu main
+INFO: Spusteni interface dle soap.properties
+22.10.2010 11:31:37 SOAP.Menu$11 actionPerformed
+INFO: Ukoncuji Program
+22.10.2010 11:31:56 SOAP.Menu main
+INFO: Spusteni programu
+22.10.2010 11:31:56 SOAP.Menu main
+INFO: Spousteni po 30000 milisekundach
+22.10.2010 11:31:56 SOAP.Menu main
+INFO: Spusteni interface dle soap.properties
+22.10.2010 11:34:29 SOAP.Menu$11 actionPerformed
+INFO: Ukoncuji Program
+22.10.2010 11:34:57 SOAP.Menu main
+INFO: Spusteni programu
+22.10.2010 11:34:57 SOAP.Menu main
+INFO: Spousteni po 30000 milisekundach
+22.10.2010 11:34:57 SOAP.Menu main
+INFO: Spusteni interface dle soap.properties
+22.10.2010 11:38:58 SOAP.Menu$11 actionPerformed
+INFO: Ukoncuji Program
+22.10.2010 11:39:02 SOAP.Menu main
+INFO: Spusteni programu
+22.10.2010 11:39:02 SOAP.Menu main
+INFO: Spousteni po 30000 milisekundach
+22.10.2010 11:39:02 SOAP.Menu main
+INFO: Spusteni interface dle soap.properties
+22.10.2010 11:42:23 SOAP.Menu$11 actionPerformed
+INFO: Ukoncuji Program
+22.10.2010 11:42:26 SOAP.Menu main
+INFO: Spusteni programu
+22.10.2010 11:42:26 SOAP.Menu main
+INFO: Spousteni po 30000 milisekundach
+22.10.2010 11:42:26 SOAP.Menu main
+INFO: Spusteni interface dle soap.properties
+22.10.2010 11:43:27 SOAP.Menu$11 actionPerformed
+INFO: Ukoncuji Program
+22.10.2010 11:43:30 SOAP.Menu main
+INFO: Spusteni programu
+22.10.2010 11:43:30 SOAP.Menu main
+INFO: Spousteni po 30000 milisekundach
+22.10.2010 11:43:30 SOAP.Menu main
+INFO: Spusteni interface dle soap.properties
+22.10.2010 11:44:17 SOAP.Menu$11 actionPerformed
+INFO: Ukoncuji Program
+22.10.2010 11:44:21 SOAP.Menu main
+INFO: Spusteni programu
+22.10.2010 11:44:21 SOAP.Menu main
+INFO: Spousteni po 30000 milisekundach
+22.10.2010 11:44:21 SOAP.Menu main
+INFO: Spusteni interface dle soap.properties
+22.10.2010 11:47:11 SOAP.Menu$11 actionPerformed
+INFO: Ukoncuji Program
+22.10.2010 11:47:16 SOAP.Menu main
+INFO: Spusteni programu
+22.10.2010 11:47:16 SOAP.Menu main
+INFO: Spousteni po 30000 milisekundach
+22.10.2010 11:47:16 SOAP.Menu main
+INFO: Spusteni interface dle soap.properties
+22.10.2010 11:52:17 SOAP.Menu$11 actionPerformed
+INFO: Ukoncuji Program
+22.10.2010 11:52:18 SOAP.Menu main
+INFO: Spusteni programu
+22.10.2010 11:52:18 SOAP.Menu main
+INFO: Spousteni po 30000 milisekundach
+22.10.2010 11:52:18 SOAP.Menu main
+INFO: Spusteni interface dle soap.properties
+22.10.2010 11:54:22 SOAP.Menu$11 actionPerformed
+INFO: Ukoncuji Program
+22.10.2010 11:54:24 SOAP.Menu main
+INFO: Spusteni programu
+22.10.2010 11:54:24 SOAP.Menu main
+INFO: Spousteni po 30000 milisekundach
+22.10.2010 11:54:24 SOAP.Menu main
+INFO: Spusteni interface dle soap.properties
+22.10.2010 11:55:55 SOAP.Menu$11 actionPerformed
+INFO: Ukoncuji Program
+22.10.2010 11:55:57 SOAP.Menu main
+INFO: Spusteni programu
+22.10.2010 11:55:57 SOAP.Menu main
+INFO: Spousteni po 30000 milisekundach
+22.10.2010 11:55:57 SOAP.Menu main
+INFO: Spusteni interface dle soap.properties
+22.10.2010 11:57:22 SOAP.Menu$11 actionPerformed
+INFO: Ukoncuji Program
+22.10.2010 11:58:08 SOAP.Menu main
+INFO: Spusteni programu
+22.10.2010 11:58:08 SOAP.Menu main
+INFO: Spousteni po 30000 milisekundach
+22.10.2010 11:58:08 SOAP.Menu main
+INFO: Spusteni interface dle soap.properties
+22.10.2010 12:00:54 SOAP.Menu$11 actionPerformed
+INFO: Ukoncuji Program
+22.10.2010 12:00:56 SOAP.Menu main
+INFO: Spusteni programu
+22.10.2010 12:00:56 SOAP.Menu main
+INFO: Spousteni po 30000 milisekundach
+22.10.2010 12:00:56 SOAP.Menu main
+INFO: Spusteni interface dle soap.properties
+22.10.2010 12:02:00 SOAP.Menu$11 actionPerformed
+INFO: Ukoncuji Program
+22.10.2010 12:03:12 SOAP.Menu main
+INFO: Spusteni programu
+22.10.2010 12:03:12 SOAP.Menu main
+INFO: Spousteni po 30000 milisekundach
+22.10.2010 12:03:12 SOAP.Menu main
+INFO: Spusteni interface dle soap.properties
+22.10.2010 12:03:35 SOAP.Menu$11 actionPerformed
+INFO: Ukoncuji Program
+22.10.2010 12:04:26 SOAP.Menu main
+INFO: Spusteni programu
+22.10.2010 12:04:26 SOAP.Menu main
+INFO: Spousteni po 30000 milisekundach
+22.10.2010 12:04:26 SOAP.Menu main
+INFO: Spusteni interface dle soap.properties
+22.10.2010 12:04:56 SOAP.Caracas nacti
+INFO: Nacitam soubor C:\data\Hotel\IF-DATA\caracas.ftp
+22.10.2010 12:04:56 SOAP.Caracas kontroluj
+INFO: Caracas vstup - nastaveni buzeni. Linka: 103 datum:2010-10-22 10:53:00.000
+22.10.2010 12:04:56 SOAP.Caracas kontroluj
+INFO: Caracas vstup - nastaveni buzeni. Linka: 104 datum:2010-10-22 10:52:00.000
+22.10.2010 12:04:56 SOAP.Caracas kontroluj
+INFO: Caracas vstup - nastaveni buzeni. Linka: 105 datum:2010-10-22 10:52:00.000
+22.10.2010 12:05:26 SOAP.NactiVstup delej
+INFO: Buzeni: Ukoncuji buzeni na lince103, ktere jiz vice jak 17 minut proslo56
+22.10.2010 12:05:26 SOAP.NactiVstup delej
+INFO: Caracas: odesilam zpravu o nevzbuzeni linky 103
+22.10.2010 12:05:26 SOAP.NactiVstup delej
+INFO: Buzeni: Ukoncuji buzeni na lince104, ktere jiz vice jak 17 minut proslo57
+22.10.2010 12:05:26 SOAP.NactiVstup delej
+INFO: Caracas: odesilam zpravu o nevzbuzeni linky 104
+22.10.2010 12:05:26 SOAP.NactiVstup delej
+INFO: Buzeni: Ukoncuji buzeni na lince105, ktere jiz vice jak 17 minut proslo58
+22.10.2010 12:05:26 SOAP.NactiVstup delej
+INFO: Caracas: odesilam zpravu o nevzbuzeni linky 105
+22.10.2010 12:05:56 SOAP.Menu$11 actionPerformed
+INFO: Ukoncuji Program
+22.10.2010 12:06:26 SOAP.Menu main
+INFO: Spusteni programu
+22.10.2010 12:06:26 SOAP.Menu main
+INFO: Spousteni po 30000 milisekundach
+22.10.2010 12:06:26 SOAP.Menu main
+INFO: Spusteni interface dle soap.properties
+22.10.2010 12:09:26 SOAP.Menu$11 actionPerformed
+INFO: Ukoncuji Program
+22.10.2010 12:14:01 SOAP.Menu main
+INFO: Spusteni programu
+22.10.2010 12:14:01 SOAP.Menu main
+INFO: Spousteni po 30000 milisekundach
+22.10.2010 12:14:01 SOAP.Menu main
+INFO: Spusteni interface dle soap.properties
+22.10.2010 12:14:56 SOAP.Menu$11 actionPerformed
+INFO: Ukoncuji Program
+22.10.2010 12:15:03 SOAP.Menu main
+INFO: Spusteni programu
+22.10.2010 12:15:03 SOAP.Menu main
+INFO: Spousteni po 30000 milisekundach
+22.10.2010 12:15:03 SOAP.Menu main
+INFO: Spusteni interface dle soap.properties
+22.10.2010 12:15:33 SOAP.Caracas nacti
+INFO: Nacitam soubor C:\data\Hotel\IF-DATA\caracas.ftp
+22.10.2010 12:15:33 SOAP.Caracas kontroluj
+INFO: Caracas vstup - nastaveni buzeni. Linka: 103 datum:2010-10-22 10:53:00.000
+22.10.2010 12:15:33 SOAP.Caracas kontroluj
+INFO: Caracas vstup - nastaveni buzeni. Linka: 104 datum:2010-10-22 10:52:00.000
+22.10.2010 12:15:33 SOAP.Caracas kontroluj
+INFO: Caracas vstup - nastaveni buzeni. Linka: 105 datum:2010-10-22 10:52:00.000
+22.10.2010 12:16:03 SOAP.NactiVstup delej
+INFO: Buzeni: Ukoncuji buzeni na lince104, ktere jiz vice jak 17 minut proslo60
+22.10.2010 12:16:03 SOAP.NactiVstup delej
+INFO: Caracas: odesilam zpravu o nevzbuzeni linky 104
+22.10.2010 12:16:03 SOAP.NactiVstup delej
+INFO: Buzeni: Ukoncuji buzeni na lince105, ktere jiz vice jak 17 minut proslo61
+22.10.2010 12:16:03 SOAP.NactiVstup delej
+INFO: Caracas: odesilam zpravu o nevzbuzeni linky 105
+22.10.2010 12:16:35 SOAP.Menu$11 actionPerformed
+INFO: Ukoncuji Program
+22.10.2010 12:16:37 SOAP.Menu main
+INFO: Spusteni programu
+22.10.2010 12:16:37 SOAP.Menu main
+INFO: Spousteni po 30000 milisekundach
+22.10.2010 12:16:37 SOAP.Menu main
+INFO: Spusteni interface dle soap.properties
+22.10.2010 12:17:07 SOAP.Caracas nacti
+INFO: Nacitam soubor C:\data\Hotel\IF-DATA\caracas.ftp
+22.10.2010 12:17:07 SOAP.Caracas kontroluj
+INFO: Caracas vstup - nastaveni buzeni. Linka: 103 datum:2010-10-22 10:53:00.000
+22.10.2010 12:17:07 SOAP.Caracas kontroluj
+INFO: Caracas vstup - nastaveni buzeni. Linka: 104 datum:2010-10-22 10:52:00.000
+22.10.2010 12:17:07 SOAP.Caracas kontroluj
+INFO: Caracas vstup - nastaveni buzeni. Linka: 105 datum:2010-10-22 10:52:00.000
+22.10.2010 12:17:37 SOAP.NactiVstup delej
+INFO: Buzeni: Ukoncuji buzeni na lince103, ktere jiz vice jak 17 minut proslo62
+22.10.2010 12:17:37 SOAP.NactiVstup delej
+INFO: Caracas: odesilam zpravu o nevzbuzeni linky 103
+22.10.2010 12:17:37 SOAP.NactiVstup delej
+INFO: Buzeni: Ukoncuji buzeni na lince104, ktere jiz vice jak 17 minut proslo63
+22.10.2010 12:17:37 SOAP.NactiVstup delej
+INFO: Caracas: odesilam zpravu o nevzbuzeni linky 104
+22.10.2010 12:17:37 SOAP.NactiVstup delej
+INFO: Buzeni: Ukoncuji buzeni na lince105, ktere jiz vice jak 17 minut proslo64
+22.10.2010 12:17:37 SOAP.NactiVstup delej
+INFO: Caracas: odesilam zpravu o nevzbuzeni linky 105
+22.10.2010 12:18:44 SOAP.Menu$11 actionPerformed
+INFO: Ukoncuji Program
+22.10.2010 12:18:48 SOAP.Menu main
+INFO: Spusteni programu
+22.10.2010 12:18:48 SOAP.Menu main
+INFO: Spousteni po 30000 milisekundach
+22.10.2010 12:18:48 SOAP.Menu main
+INFO: Spusteni interface dle soap.properties
+22.10.2010 12:19:26 SOAP.Menu$11 actionPerformed
+INFO: Ukoncuji Program
+22.10.2010 12:21:18 SOAP.Menu main
+INFO: Spusteni programu
+22.10.2010 12:21:18 SOAP.Menu main
+INFO: Spousteni po 30000 milisekundach
+22.10.2010 12:21:18 SOAP.Menu main
+INFO: Spusteni interface dle soap.properties
+22.10.2010 12:22:46 SOAP.Menu$11 actionPerformed
+INFO: Ukoncuji Program
+22.10.2010 12:23:55 SOAP.Menu main
+INFO: Spusteni programu
+22.10.2010 12:23:55 SOAP.Menu main
+INFO: Spousteni po 30000 milisekundach
+22.10.2010 12:23:55 SOAP.Menu main
+INFO: Spusteni interface dle soap.properties
+22.10.2010 12:24:01 SOAP.Caracas nacti
+INFO: Nacitam soubor C:\data\Hotel\IF-DATA\caracas.ftp
+22.10.2010 12:24:01 SOAP.Caracas kontroluj
+INFO: Caracas vstup - nastaveni buzeni. Linka: 103 datum:2010-10-22 12:23:00.000
+22.10.2010 12:24:01 SOAP.Caracas kontroluj
+INFO: Caracas vstup - nastaveni buzeni. Linka: 104 datum:2010-10-22 12:32:00.000
+22.10.2010 12:24:01 SOAP.Caracas kontroluj
+INFO: Caracas vstup - nastaveni buzeni. Linka: 105 datum:2010-10-22 12:42:00.000
+22.10.2010 12:24:53 SOAP.Menu$11 actionPerformed
+INFO: Ukoncuji Program
+22.10.2010 13:13:52 SOAP.Menu main
+INFO: Spusteni programu
+22.10.2010 13:13:52 SOAP.Menu main
+INFO: Spousteni po 30000 milisekundach
+22.10.2010 13:13:52 SOAP.Menu main
+INFO: Spusteni interface dle soap.properties
+22.10.2010 13:14:47 SOAP.Menu$11 actionPerformed
+INFO: Ukoncuji Program
+22.10.2010 13:14:49 SOAP.Menu main
+INFO: Spusteni programu
+22.10.2010 13:14:49 SOAP.Menu main
+INFO: Spousteni po 30000 milisekundach
+22.10.2010 13:14:49 SOAP.Menu main
+INFO: Spusteni interface dle soap.properties
+22.10.2010 13:15:15 SOAP.Menu$11 actionPerformed
+INFO: Ukoncuji Program
+22.10.2010 13:15:18 SOAP.Menu main
+INFO: Spusteni programu
+22.10.2010 13:15:18 SOAP.Menu main
+INFO: Spousteni po 30000 milisekundach
+22.10.2010 13:15:18 SOAP.Menu main
+INFO: Spusteni interface dle soap.properties
+22.10.2010 13:16:13 SOAP.Menu$11 actionPerformed
+INFO: Ukoncuji Program
+22.10.2010 13:17:09 SOAP.Menu main
+INFO: Spusteni programu
+22.10.2010 13:17:09 SOAP.Menu main
+INFO: Spousteni po 30000 milisekundach
+22.10.2010 13:17:09 SOAP.Menu main
+INFO: Spusteni interface dle soap.properties
+22.10.2010 13:18:28 SOAP.Menu$11 actionPerformed
+INFO: Ukoncuji Program
+22.10.2010 13:18:30 SOAP.Menu main
+INFO: Spusteni programu
+22.10.2010 13:18:30 SOAP.Menu main
+INFO: Spousteni po 30000 milisekundach
+22.10.2010 13:18:30 SOAP.Menu main
+INFO: Spusteni interface dle soap.properties
+22.10.2010 13:18:33 SOAP.Menu$10 actionPerformed
+INFO: Automat zastaven rucne
+22.10.2010 13:18:35 SOAP.Caracas nacti
+INFO: Nacitam soubor C:\data\Hotel\IF-DATA\caracas.ftp
+22.10.2010 13:18:35 SOAP.Caracas kontroluj
+INFO: Caracas vstup - nastaveni buzeni. Linka: 103 datum:2010-10-22 13:23:00.000
+22.10.2010 13:18:36 SOAP.Caracas kontroluj
+INFO: Caracas vstup - nastaveni buzeni. Linka: 104 datum:2010-10-22 13:32:00.000
+22.10.2010 13:18:36 SOAP.Caracas kontroluj
+INFO: Caracas vstup - nastaveni buzeni. Linka: 105 datum:2010-10-22 13:42:00.000
+22.10.2010 13:18:36 SOAP.Caracas kontroluj
+INFO: Caracas vstup - nastaveni buzeni. Linka: 105 datum:2010-10-29 13:42:00.000
+22.10.2010 13:19:09 SOAP.Menu$11 actionPerformed
+INFO: Ukoncuji Program
+22.10.2010 13:19:40 SOAP.Menu main
+INFO: Spusteni programu
+22.10.2010 13:19:40 SOAP.Menu main
+INFO: Spousteni po 30000 milisekundach
+22.10.2010 13:19:40 SOAP.Menu main
+INFO: Spusteni interface dle soap.properties
+22.10.2010 13:19:58 SOAP.Menu$10 actionPerformed
+INFO: Automat zastaven rucne
+22.10.2010 13:20:00 SOAP.Menu$9 actionPerformed
+INFO: Automat nastartovan rucne
+22.10.2010 13:23:00 SOAP.Buzeni run
+INFO: Budim 103 volanim na899
+22.10.2010 13:24:09 SOAP.LinkyHandler1 endDocument
+INFO: Buzeni: linka 103 uspesne vzbuzena
+22.10.2010 13:24:47 SOAP.Menu$11 actionPerformed
+INFO: Ukoncuji Program
+22.10.2010 13:24:56 SOAP.Menu main
+INFO: Spusteni programu
+22.10.2010 13:24:56 SOAP.Menu main
+INFO: Spousteni po 30000 milisekundach
+22.10.2010 13:24:56 SOAP.Menu main
+INFO: Spusteni interface dle soap.properties
+22.10.2010 13:29:57 SOAP.LinkyHandler endElement
+INFO: Tarifikace: linka 105 cil 602654814 datum 2010-10-22 13:28:48 delka0
+22.10.2010 13:30:25 SOAP.Menu$11 actionPerformed
+INFO: Ukoncuji Program
+22.10.2010 13:46:47 SOAP.Menu main
+INFO: Spusteni programu
+22.10.2010 13:46:47 SOAP.Menu main
+INFO: Spousteni po 30000 milisekundach
+22.10.2010 13:46:47 SOAP.Menu main
+INFO: Spusteni interface dle soap.properties
+22.10.2010 13:47:47 SOAP.Buzeni run
+INFO: Budim 104 volanim na899
+22.10.2010 13:47:47 SOAP.Buzeni run
+INFO: Budim 105 volanim na899
+22.10.2010 13:49:04 SOAP.LinkyHandler1 endDocument
+INFO: Buzeni: linka 105 uspesne vzbuzena
+22.10.2010 13:49:20 SOAP.LinkyHandler1 endDocument
+INFO: Buzeni: linku 104 se nepodarilo vzbudit, nastavuji novy termin o 5 pozdeji
+22.10.2010 13:49:47 SOAP.Buzeni run
+INFO: Budim 103 volanim na899
+22.10.2010 13:50:07 SOAP.Buzeni run
+INFO: Vytacim cilovou linku 0602654814 pro linku 103
+22.10.2010 13:50:47 SOAP.NactiVstup delej
+INFO: Buzeni: Ukoncuji buzeni na lince104, ktere jiz vice jak 17 minut proslo69
+22.10.2010 13:50:47 SOAP.NactiVstup delej
+INFO: Caracas: odesilam zpravu o nevzbuzeni linky 104
+22.10.2010 13:50:51 SOAP.LinkyHandler1 endDocument
+INFO: Buzeni: linka 103 uspesne vzbuzena
+22.10.2010 13:59:55 SOAP.Menu$11 actionPerformed
+INFO: Ukoncuji Program
+22.10.2010 14:10:51 SOAP.Menu main
+INFO: Spusteni programu
+22.10.2010 14:10:51 SOAP.Menu main
+INFO: Spousteni po 30000 milisekundach
+22.10.2010 14:10:51 SOAP.Menu main
+INFO: Spusteni interface dle soap.properties
+22.10.2010 15:05:25 SOAP.Menu$11 actionPerformed
+INFO: Ukoncuji Program
+25.10.2010 17:21:35 SOAP.Menu main
+INFO: Spusteni programu
+25.10.2010 17:21:35 SOAP.Menu main
+INFO: Spousteni po 30000 milisekundach
+25.10.2010 17:21:35 SOAP.Menu main
+INFO: Spusteni interface dle soap.properties
+25.10.2010 17:34:47 SOAP.IniciaceDB <init>
+INFO: Iniciace Databaze - Maze linky a detaily linky
+25.10.2010 17:34:47 SOAP.IniciaceDB spust
+INFO: Iniciace DB - zaplneni tabulky linky z ustredny
+25.10.2010 17:39:05 SOAP.Menu$11 actionPerformed
+INFO: Ukoncuji Program
+25.10.2010 18:35:13 SOAP.Menu main
+INFO: Spusteni programu
+25.10.2010 18:35:13 SOAP.Menu main
+INFO: Spousteni po 30000 milisekundach
+25.10.2010 18:35:13 SOAP.Menu main
+INFO: Spusteni interface dle soap.properties
+25.10.2010 18:36:43 SOAP.Caracas nacti
+INFO: Nacitam soubor C:\data\Hotel\IF-DATA\caracas.ftp
+25.10.2010 18:36:43 SOAP.Caracas kontroluj
+INFO: Caracas vstup - nastaveni buzeni. Linka: 103 datum:2010-10-22 13:23:00.000
+25.10.2010 18:36:43 SOAP.Caracas kontroluj
+INFO: Caracas vstup - nastaveni buzeni. Linka: 104 datum:2010-10-22 13:32:00.000
+25.10.2010 18:36:43 SOAP.Caracas kontroluj
+INFO: Caracas vstup - nastaveni buzeni. Linka: 105 datum:2010-10-22 13:42:00.000
+25.10.2010 18:36:43 SOAP.Caracas kontroluj
+INFO: Caracas vstup - nastaveni buzeni. Linka: 105 datum:2010-10-29 13:42:00.000
+25.10.2010 18:37:13 SOAP.NactiVstup delej
+INFO: Buzeni: Ukoncuji buzeni na lince103, ktere jiz vice jak 17 minut proslo72
+25.10.2010 18:37:13 SOAP.NactiVstup delej
+INFO: Caracas: odesilam zpravu o nevzbuzeni linky 103
+25.10.2010 18:37:13 SOAP.NactiVstup delej
+INFO: Buzeni: Ukoncuji buzeni na lince104, ktere jiz vice jak 17 minut proslo73
+25.10.2010 18:37:13 SOAP.NactiVstup delej
+INFO: Caracas: odesilam zpravu o nevzbuzeni linky 104
+25.10.2010 18:37:13 SOAP.NactiVstup delej
+INFO: Buzeni: Ukoncuji buzeni na lince105, ktere jiz vice jak 17 minut proslo74
+25.10.2010 18:37:13 SOAP.NactiVstup delej
+INFO: Caracas: odesilam zpravu o nevzbuzeni linky 105
+25.10.2010 18:44:47 SOAP.Menu$11 actionPerformed
+INFO: Ukoncuji Program
+25.10.2010 18:44:55 SOAP.Menu main
+INFO: Spusteni programu
+25.10.2010 18:44:55 SOAP.Menu main
+INFO: Spousteni po 30000 milisekundach
+25.10.2010 18:44:55 SOAP.Menu main
+INFO: Spusteni interface dle soap.properties
+25.10.2010 18:50:25 SOAP.Caracas nacti
+INFO: Nacitam soubor C:\data\Hotel\IF-DATA\caracas.ftp
+25.10.2010 18:50:25 SOAP.Caracas kontroluj
+INFO: Caracas vstup - nastaveni buzeni. Linka: 103 datum:2010-10-22 13:23:00.000
+25.10.2010 18:50:25 SOAP.Caracas kontroluj
+INFO: Caracas vstup - nastaveni buzeni. Linka: 104 datum:2010-10-22 13:32:00.000
+25.10.2010 18:50:25 SOAP.Caracas kontroluj
+INFO: Caracas vstup - nastaveni buzeni. Linka: 105 datum:2010-10-22 13:42:00.000
+25.10.2010 18:50:25 SOAP.Caracas kontroluj
+INFO: Caracas vstup - nastaveni buzeni. Linka: 105 datum:2010-10-29 13:42:00.000
+25.10.2010 18:53:35 SOAP.Menu$11 actionPerformed
+INFO: Ukoncuji Program
+25.10.2010 18:53:48 SOAP.Menu main
+INFO: Spusteni programu
+25.10.2010 18:53:48 SOAP.Menu main
+INFO: Spousteni po 30000 milisekundach
+25.10.2010 18:53:48 SOAP.Menu main
+INFO: Spusteni interface dle soap.properties
+25.10.2010 18:55:05 SOAP.Menu$11 actionPerformed
+INFO: Ukoncuji Program
+25.10.2010 18:55:25 SOAP.Menu main
+INFO: Spusteni programu
+25.10.2010 18:55:25 SOAP.Menu main
+INFO: Spousteni po 30000 milisekundach
+25.10.2010 18:55:25 SOAP.Menu main
+INFO: Spusteni interface dle soap.properties
+25.10.2010 18:55:27 SOAP.Menu$11 actionPerformed
+INFO: Ukoncuji Program
+25.10.2010 18:55:46 SOAP.Menu main
+INFO: Spusteni programu
+25.10.2010 18:55:46 SOAP.Menu main
+INFO: Spousteni po 30000 milisekundach
+25.10.2010 18:55:46 SOAP.Menu main
+INFO: Spusteni interface dle soap.properties
+25.10.2010 18:55:50 SOAP.Caracas nacti
+INFO: Nacitam soubor C:\data\Hotel\IF-DATA\caracas.ftp
+25.10.2010 18:55:50 SOAP.Caracas kontroluj
+INFO: Caracas vstup - nastaveni buzeni. Linka: 103 datum:2010-10-22 13:23:00.000
+25.10.2010 18:55:50 SOAP.Caracas kontroluj
+INFO: Caracas vstup - nastaveni buzeni. Linka: 104 datum:2010-10-22 13:32:00.000
+25.10.2010 18:55:50 SOAP.Caracas kontroluj
+INFO: Caracas vstup - nastaveni buzeni. Linka: 105 datum:2010-10-22 13:42:00.000
+25.10.2010 18:55:50 SOAP.Caracas kontroluj
+INFO: Caracas vstup - nastaveni buzeni. Linka: 105 datum:2010-10-29 13:42:00.000
+25.10.2010 18:56:46 SOAP.NactiVstup delej
+INFO: Buzeni: Ukoncuji buzeni na lince103, ktere jiz vice jak 17 minut proslo80
+25.10.2010 18:56:46 SOAP.NactiVstup delej
+INFO: Caracas: odesilam zpravu o nevzbuzeni linky 103
+25.10.2010 18:56:46 SOAP.NactiVstup delej
+INFO: Buzeni: Ukoncuji buzeni na lince105, ktere jiz vice jak 17 minut proslo82
+25.10.2010 18:56:46 SOAP.NactiVstup delej
+INFO: Caracas: odesilam zpravu o nevzbuzeni linky 105
+26.10.2010 11:27:47 SOAP.Menu$11 actionPerformed
+INFO: Ukoncuji Program
+26.10.2010 11:27:50 SOAP.Menu main
+INFO: Spusteni programu
+26.10.2010 11:27:50 SOAP.Menu main
+INFO: Spousteni po 30000 milisekundach
+26.10.2010 11:27:50 SOAP.Menu main
+INFO: Spusteni interface dle soap.properties
+26.10.2010 11:29:44 SOAP.Menu$11 actionPerformed
+INFO: Ukoncuji Program
+26.10.2010 12:06:45 SOAP.Menu main
+INFO: Spusteni programu
+26.10.2010 12:06:45 SOAP.Menu main
+INFO: Spousteni po 30000 milisekundach
+26.10.2010 12:06:45 SOAP.Menu main
+INFO: Spusteni interface dle soap.properties
+26.10.2010 12:06:54 SOAP.Menu$11 actionPerformed
+INFO: Ukoncuji Program
+26.10.2010 12:07:58 SOAP.Menu main
+INFO: Spusteni programu
+26.10.2010 12:07:58 SOAP.Menu main
+INFO: Spousteni po 30000 milisekundach
+26.10.2010 12:07:58 SOAP.Menu main
+INFO: Spusteni interface dle soap.properties
+26.10.2010 12:08:57 SOAP.IniciaceDB <init>
+INFO: Iniciace Databaze - Maze linky a detaily linky
+26.10.2010 12:08:57 SOAP.IniciaceDB spust
+INFO: Iniciace DB - zaplneni tabulky linky z ustredny
+26.10.2010 12:11:29 SOAP.Menu$11 actionPerformed
+INFO: Ukoncuji Program
+26.10.2010 12:12:32 SOAP.Menu main
+INFO: Spusteni programu
+26.10.2010 12:12:32 SOAP.Menu main
+INFO: Spousteni po 30000 milisekundach
+26.10.2010 12:12:33 SOAP.Menu main
+INFO: Spusteni interface dle soap.properties
+26.10.2010 12:12:54 SOAP.Menu$11 actionPerformed
+INFO: Ukoncuji Program
+26.10.2010 15:22:40 SOAP.Menu main
+INFO: Spusteni programu
+26.10.2010 15:22:42 SOAP.Menu main
+INFO: Spousteni po 30000 milisekundach
+26.10.2010 15:22:42 SOAP.Menu main
+INFO: Spusteni interface dle soap.properties
+26.10.2010 15:22:49 SOAP.IniciaceDB <init>
+INFO: Iniciace Databaze - Maze linky a detaily linky
+26.10.2010 15:22:50 SOAP.IniciaceDB spust
+INFO: Iniciace DB - zaplneni tabulky linky z ustredny
+26.10.2010 15:42:19 SOAP.Menu$11 actionPerformed
+INFO: Ukoncuji Program
+29.10.2010 9:48:00 SOAP.Menu main
+INFO: Spusteni programu
+29.10.2010 9:48:01 SOAP.Menu main
+INFO: Spousteni po 30000 milisekundach
+29.10.2010 9:48:01 SOAP.Menu main
+INFO: Spusteni interface dle soap.properties
+29.10.2010 9:52:14 SOAP.Menu$11 actionPerformed
+INFO: Ukoncuji Program
+29.10.2010 9:52:21 SOAP.Menu main
+INFO: Spusteni programu
+29.10.2010 9:52:21 SOAP.Menu main
+INFO: Spousteni po 30000 milisekundach
+29.10.2010 9:52:21 SOAP.Menu main
+INFO: Spusteni interface dle soap.properties
+29.10.2010 9:54:50 SOAP.Menu$11 actionPerformed
+INFO: Ukoncuji Program
+29.10.2010 9:55:58 SOAP.Menu main
+INFO: Spusteni programu
+29.10.2010 9:55:58 SOAP.Menu main
+INFO: Spousteni po 30000 milisekundach
+29.10.2010 9:55:58 SOAP.Menu main
+INFO: Spusteni interface dle soap.properties
+29.10.2010 9:56:49 SOAP.Menu$11 actionPerformed
+INFO: Ukoncuji Program
+29.10.2010 9:56:51 SOAP.Menu main
+INFO: Spusteni programu
+29.10.2010 9:56:51 SOAP.Menu main
+INFO: Spousteni po 30000 milisekundach
+29.10.2010 9:56:51 SOAP.Menu main
+INFO: Spusteni interface dle soap.properties
+29.10.2010 9:57:55 SOAP.Menu$11 actionPerformed
+INFO: Ukoncuji Program
+29.10.2010 9:58:00 SOAP.Menu main
+INFO: Spusteni programu
+29.10.2010 9:58:00 SOAP.Menu main
+INFO: Spousteni po 30000 milisekundach
+29.10.2010 9:58:00 SOAP.Menu main
+INFO: Spusteni interface dle soap.properties
+29.10.2010 10:11:18 SOAP.Menu$11 actionPerformed
+INFO: Ukoncuji Program
+29.10.2010 10:56:13 SOAP.Menu main
+INFO: Spusteni programu
+29.10.2010 10:56:14 SOAP.Menu main
+INFO: Spousteni po 30000 milisekundach
+29.10.2010 10:56:14 SOAP.Menu main
+INFO: Spusteni interface dle soap.properties
+29.10.2010 10:57:38 SOAP.Menu$11 actionPerformed
+INFO: Ukoncuji Program
+29.10.2010 11:00:59 SOAP.Menu main
+INFO: Spusteni programu
+29.10.2010 11:01:00 SOAP.Menu main
+INFO: Spousteni po 30000 milisekundach
+29.10.2010 11:01:00 SOAP.Menu main
+INFO: Spusteni interface dle soap.properties
+29.10.2010 11:11:15 SOAP.Menu$11 actionPerformed
+INFO: Ukoncuji Program
+29.10.2010 11:24:41 SOAP.Menu main
+INFO: Spusteni programu
+29.10.2010 11:24:41 SOAP.Menu main
+INFO: Spousteni po 30000 milisekundach
+29.10.2010 11:24:41 SOAP.Menu main
+INFO: Spusteni interface dle soap.properties
+29.10.2010 11:27:39 SOAP.Menu$11 actionPerformed
+INFO: Ukoncuji Program
+29.10.2010 11:27:41 SOAP.Menu main
+INFO: Spusteni programu
+29.10.2010 11:27:41 SOAP.Menu main
+INFO: Spousteni po 30000 milisekundach
+29.10.2010 11:27:41 SOAP.Menu main
+INFO: Spusteni interface dle soap.properties
+29.10.2010 11:29:12 SOAP.IniciaceDB <init>
+INFO: Iniciace Databaze - Maze linky a detaily linky
+29.10.2010 11:29:12 SOAP.IniciaceDB spust
+INFO: Iniciace DB - zaplneni tabulky linky z ustredny
+29.10.2010 11:30:51 SOAP.Menu$11 actionPerformed
+INFO: Ukoncuji Program
+29.10.2010 11:31:17 SOAP.Menu main
+INFO: Spusteni programu
+29.10.2010 11:31:18 SOAP.Menu main
+INFO: Spousteni po 30000 milisekundach
+29.10.2010 11:31:18 SOAP.Menu main
+INFO: Spusteni interface dle soap.properties
+29.10.2010 11:32:29 SOAP.IniciaceDB <init>
+INFO: Iniciace Databaze - Maze linky a detaily linky
+29.10.2010 11:32:29 SOAP.IniciaceDB spust
+INFO: Iniciace DB - zaplneni tabulky linky z ustredny
+29.10.2010 11:33:07 SOAP.Buzeni run
+INFO: Vytacim cilovou linku 602654814 pro linku 101
+29.10.2010 11:33:13 SOAP.Buzeni run
+INFO: Vytacim cilovou linku 602654814 pro linku 105
+29.10.2010 11:33:31 SOAP.Buzeni run
+INFO: Vytacim cilovou linku 602654814 pro linku 105
+29.10.2010 11:33:58 SOAP.Buzeni run
+INFO: Vytacim cilovou linku 602654814 pro linku 105
+29.10.2010 11:34:31 SOAP.Buzeni run
+INFO: Budim 105 volanim na899
+29.10.2010 11:34:46 SOAP.Buzeni run
+INFO: Vytacim cilovou linku 602654814 pro linku 105
+29.10.2010 11:34:58 SOAP.Buzeni run
+INFO: Vytacim cilovou linku 0602654814 pro linku 105
+29.10.2010 11:35:33 SOAP.LinkyHandler1 endDocument
+INFO: Buzeni: linka 105 uspesne vzbuzena
+29.10.2010 11:35:37 SOAP.Menu$11 actionPerformed
+INFO: Ukoncuji Program
+29.10.2010 11:35:57 SOAP.Menu main
+INFO: Spusteni programu
+29.10.2010 11:35:58 SOAP.Menu main
+INFO: Spousteni po 30000 milisekundach
+29.10.2010 11:35:58 SOAP.Menu main
+INFO: Spusteni interface dle soap.properties
+29.10.2010 11:37:06 SOAP.Menu$11 actionPerformed
+INFO: Ukoncuji Program
+29.10.2010 11:37:11 SOAP.Menu main
+INFO: Spusteni programu
+29.10.2010 11:37:11 SOAP.Menu main
+INFO: Spousteni po 30000 milisekundach
+29.10.2010 11:37:11 SOAP.Menu main
+INFO: Spusteni interface dle soap.properties
+29.10.2010 11:37:27 SOAP.Menu$11 actionPerformed
+INFO: Ukoncuji Program
+29.10.2010 11:37:45 SOAP.Menu main
+INFO: Spusteni programu
+29.10.2010 11:37:45 SOAP.Menu main
+INFO: Spousteni po 30000 milisekundach
+29.10.2010 11:37:45 SOAP.Menu main
+INFO: Spusteni interface dle soap.properties
+29.10.2010 11:38:58 SOAP.Menu$11 actionPerformed
+INFO: Ukoncuji Program
+29.10.2010 11:42:08 SOAP.Menu main
+INFO: Spusteni programu
+29.10.2010 11:42:08 SOAP.Menu main
+INFO: Spousteni po 30000 milisekundach
+29.10.2010 11:42:08 SOAP.Menu main
+INFO: Spusteni interface dle soap.properties
+29.10.2010 11:42:33 SOAP.IniciaceDB <init>
+INFO: Iniciace Databaze - Maze linky a detaily linky
+29.10.2010 11:42:33 SOAP.IniciaceDB spust
+INFO: Iniciace DB - zaplneni tabulky linky z ustredny
+29.10.2010 11:43:07 SOAP.Menu$10 actionPerformed
+INFO: Automat zastaven rucne
+29.10.2010 11:43:46 SOAP.Menu$11 actionPerformed
+INFO: Ukoncuji Program
+29.10.2010 11:46:53 SOAP.Menu main
+INFO: Spusteni programu
+29.10.2010 11:46:53 SOAP.Menu main
+INFO: Spousteni po 30000 milisekundach
+29.10.2010 11:46:53 SOAP.Menu main
+INFO: Spusteni interface dle soap.properties
+29.10.2010 11:51:29 SOAP.Menu$11 actionPerformed
+INFO: Ukoncuji Program
+29.10.2010 12:14:01 SOAP.Menu main
+INFO: Spusteni programu
+29.10.2010 12:14:01 SOAP.Menu main
+INFO: Spousteni po 30000 milisekundach
+29.10.2010 12:14:01 SOAP.Menu main
+INFO: Spusteni interface dle soap.properties
+29.10.2010 12:14:31 SOAP.Caracas nacti
+INFO: Nacitam soubor C:\data\Hotel\IF-DATA\caracas.ftp
+29.10.2010 12:14:31 SOAP.Caracas kontroluj
+INFO: Caracas vstup - nastaveni buzeni. Linka: 103 datum:2010-10-29 12:15:00.000
+29.10.2010 12:14:31 SOAP.Caracas kontroluj
+INFO: Caracas vstup - nastaveni buzeni. Linka: 104 datum:2010-10-29 12:16:00.000
+29.10.2010 12:14:31 SOAP.Caracas kontroluj
+INFO: Caracas vstup - nastaveni buzeni. Linka: 105 datum:2010-10-29 12:15:00.000
+29.10.2010 12:15:02 SOAP.Buzeni run
+INFO: Budim 103 volanim na899
+29.10.2010 12:15:02 SOAP.Buzeni run
+INFO: Budim 105 volanim na899
+29.10.2010 12:16:01 SOAP.Buzeni run
+INFO: Budim 104 volanim na899
+29.10.2010 12:16:14 SOAP.LinkyHandler1 endDocument
+INFO: Buzeni: linka 105 uspesne vzbuzena
+29.10.2010 12:16:37 SOAP.LinkyHandler1 endDocument
+INFO: Buzeni: linku 103 se nepodarilo vzbudit, nastavuji novy termin o 5 pozdeji
+29.10.2010 12:17:32 SOAP.LinkyHandler1 endDocument
+INFO: Buzeni: linku 104 se nepodarilo vzbudit, nastavuji novy termin o 5 pozdeji
+29.10.2010 12:23:31 SOAP.Caracas nacti
+INFO: Nacitam soubor C:\data\Hotel\IF-DATA\caracas.ftp
+29.10.2010 12:23:31 SOAP.Caracas kontroluj
+INFO: Caracas vstup - nastaveni buzeni. Linka: 103 datum:2010-10-29 14:15:00.000
+29.10.2010 12:25:31 SOAP.Caracas nacti
+INFO: Nacitam soubor C:\data\Hotel\IF-DATA\caracas.ftp
+29.10.2010 12:25:31 SOAP.Caracas kontroluj
+INFO: Caracas vstup - nastaveni buzeni. Linka: 103 datum:2010-10-29 14:15:00.000
+29.10.2010 12:33:01 SOAP.NactiVstup delej
+INFO: Buzeni: Ukoncuji buzeni na lince103, ktere jiz vice jak 17 minut proslo84
+29.10.2010 12:33:01 SOAP.NactiVstup delej
+INFO: Caracas: odesilam zpravu o nevzbuzeni linky 103
+29.10.2010 12:34:01 SOAP.NactiVstup delej
+INFO: Buzeni: Ukoncuji buzeni na lince104, ktere jiz vice jak 17 minut proslo85
+29.10.2010 12:34:01 SOAP.NactiVstup delej
+INFO: Caracas: odesilam zpravu o nevzbuzeni linky 104
+29.10.2010 12:34:28 SOAP.Menu$11 actionPerformed
+INFO: Ukoncuji Program
+29.10.2010 12:35:33 SOAP.Menu main
+INFO: Spusteni programu
+29.10.2010 12:35:33 SOAP.Menu main
+INFO: Spousteni po 30000 milisekundach
+29.10.2010 12:35:33 SOAP.Menu main
+INFO: Spusteni interface dle soap.properties
+29.10.2010 12:39:03 SOAP.Caracas nacti
+INFO: Nacitam soubor C:\data\Hotel\IF-DATA\caracas.ftp
+29.10.2010 12:39:03 SOAP.Caracas kontroluj
+INFO: Caracas vstup - otevri linku: 103
+29.10.2010 12:39:33 SOAP.NactiVstup delej
+INFO: Linka: Opravneni Linky 103 nastaveno na MZN
+29.10.2010 12:43:16 SOAP.Menu$11 actionPerformed
+INFO: Ukoncuji Program
+29.10.2010 14:04:12 SOAP.Menu main
+INFO: Spusteni programu
+29.10.2010 14:04:13 SOAP.Menu main
+INFO: Spousteni po 30000 milisekundach
+29.10.2010 14:04:13 SOAP.Menu main
+INFO: Spusteni interface dle soap.properties
+29.10.2010 14:12:34 SOAP.Menu$11 actionPerformed
+INFO: Ukoncuji Program
+29.10.2010 14:12:40 SOAP.Menu main
+INFO: Spusteni programu
+29.10.2010 14:12:40 SOAP.Menu main
+INFO: Spousteni po 30000 milisekundach
+29.10.2010 14:12:40 SOAP.Menu main
+INFO: Spusteni interface dle soap.properties
+29.10.2010 14:13:37 SOAP.Menu$11 actionPerformed
+INFO: Ukoncuji Program
+29.10.2010 14:13:39 SOAP.Menu main
+INFO: Spusteni programu
+29.10.2010 14:13:39 SOAP.Menu main
+INFO: Spousteni po 30000 milisekundach
+29.10.2010 14:13:39 SOAP.Menu main
+INFO: Spusteni interface dle soap.properties
+29.10.2010 14:15:39 SOAP.Buzeni run
+INFO: Budim 104 volanim na899
+29.10.2010 14:15:39 SOAP.Buzeni run
+INFO: Budim 103 volanim na899
+29.10.2010 14:16:46 SOAP.LinkyHandler1 endDocument
+INFO: Buzeni: linka 104 uspesne vzbuzena
+29.10.2010 14:17:10 SOAP.LinkyHandler1 endDocument
+INFO: Buzeni: linku 103 se nepodarilo vzbudit, nastavuji novy termin o 5 pozdeji
+29.10.2010 14:17:51 SOAP.Menu$11 actionPerformed
+INFO: Ukoncuji Program
+29.10.2010 14:18:26 SOAP.Menu main
+INFO: Spusteni programu
+29.10.2010 14:18:26 SOAP.Menu main
+INFO: Spousteni po 30000 milisekundach
+29.10.2010 14:18:26 SOAP.Menu main
+INFO: Spusteni interface dle soap.properties
+29.10.2010 14:19:26 SOAP.Buzeni run
+INFO: Budim 103 volanim na899
+29.10.2010 14:20:58 SOAP.LinkyHandler1 endDocument
+INFO: Buzeni: linku 103 se nepodarilo vzbudit, nastavuji novy termin o 5 pozdeji
+29.10.2010 14:25:58 SOAP.Buzeni run
+INFO: Budim 103 volanim na899
+29.10.2010 14:27:28 SOAP.LinkyHandler1 endDocument
+INFO: Buzeni: linku 103 se nepodarilo vzbudit, nastavuji novy termin o 5 pozdeji
+29.10.2010 14:32:28 SOAP.Buzeni run
+INFO: Budim 103 volanim na899
+29.10.2010 14:33:58 SOAP.LinkyHandler1 endDocument
+INFO: Buzeni: linku 103 se nepodarilo vzbudit, nastavuji novy termin o 5 pozdeji
+29.10.2010 14:36:26 SOAP.NactiVstup delej
+INFO: Buzeni: Ukoncuji buzeni na lince103, ktere jiz vice jak 20 minut proslo88
+29.10.2010 14:36:26 SOAP.NactiVstup delej
+INFO: Caracas: odesilam zpravu o nevzbuzeni linky 103
+29.10.2010 14:38:58 SOAP.Buzeni run
+INFO: Budim 103 volanim na899
+29.10.2010 14:40:28 SOAP.LinkyHandler1 endDocument
+INFO: Buzeni: linku 103 se nepodarilo vzbudit, nastavuji novy termin o 5 pozdeji
+29.10.2010 14:41:26 SOAP.NactiVstup delej
+INFO: Buzeni: Ukoncuji buzeni na lince103, ktere jiz vice jak 20 minut proslo88
+29.10.2010 14:41:26 SOAP.NactiVstup delej
+INFO: Caracas: odesilam zpravu o nevzbuzeni linky 103
+29.10.2010 14:45:28 SOAP.Buzeni run
+INFO: Budim 103 volanim na899
+29.10.2010 14:46:15 SOAP.Menu$11 actionPerformed
+INFO: Ukoncuji Program
+29.10.2010 14:55:52 SOAP.Menu main
+INFO: Spusteni programu
+29.10.2010 14:55:52 SOAP.Menu main
+INFO: Spousteni po 30000 milisekundach
+29.10.2010 14:55:52 SOAP.Menu main
+INFO: Spusteni interface dle soap.properties
+29.10.2010 14:57:22 SOAP.Caracas nacti
+INFO: Nacitam soubor C:\data\Hotel\IF-DATA\caracas.ftp
+29.10.2010 14:57:22 SOAP.Caracas kontroluj
+INFO: Caracas vstup - nastaveni buzeni. Linka: 103 datum:2010-10-29 14:58:00.000
+29.10.2010 14:57:22 SOAP.Caracas kontroluj
+INFO: Caracas vstup - nastaveni buzeni. Linka: 104 datum:2010-10-29 14:58:00.000
+29.10.2010 14:58:52 SOAP.Buzeni run
+INFO: Budim 103 volanim na899
+29.10.2010 14:58:52 SOAP.Buzeni run
+INFO: Budim 104 volanim na899
+29.10.2010 14:59:34 SOAP.Menu$11 actionPerformed
+INFO: Ukoncuji Program
+29.10.2010 14:59:39 SOAP.Menu main
+INFO: Spusteni programu
+29.10.2010 14:59:39 SOAP.Menu main
+INFO: Spousteni po 30000 milisekundach
+29.10.2010 14:59:39 SOAP.Menu main
+INFO: Spusteni interface dle soap.properties
+29.10.2010 15:00:39 SOAP.Buzeni run
+INFO: Budim 103 volanim na899
+29.10.2010 15:00:39 SOAP.Buzeni run
+INFO: Budim 104 volanim na899
+29.10.2010 15:01:44 SOAP.LinkyHandler1 endDocument
+INFO: Buzeni: linka 104 uspesne vzbuzena
+29.10.2010 15:02:11 SOAP.LinkyHandler1 endDocument
+INFO: Buzeni: linku 103 se nepodarilo vzbudit, nastavuji novy termin o 2 pozdeji
+29.10.2010 15:04:11 SOAP.Buzeni run
+INFO: Budim 103 volanim na899
+29.10.2010 15:05:41 SOAP.LinkyHandler1 endDocument
+INFO: Buzeni: linku 103 se nepodarilo vzbudit, nastavuji novy termin o 2 pozdeji
+29.10.2010 15:07:41 SOAP.Buzeni run
+INFO: Budim 103 volanim na899
+29.10.2010 15:09:11 SOAP.LinkyHandler1 endDocument
+INFO: Buzeni: linku 103 se nepodarilo vzbudit, nastavuji novy termin o 2 pozdeji
+29.10.2010 15:09:39 SOAP.NactiVstup delej
+INFO: Buzeni: Ukoncuji buzeni na lince103, ktere jiz vice jak 10 minut proslo90
+29.10.2010 15:09:39 SOAP.NactiVstup delej
+INFO: Caracas: odesilam zpravu o nevzbuzeni linky 103
+29.10.2010 15:11:11 SOAP.Buzeni run
+INFO: Budim 103 volanim na899
+29.10.2010 15:12:41 SOAP.LinkyHandler1 endDocument
+INFO: Buzeni: linku 103 se nepodarilo vzbudit, nastavuji novy termin o 2 pozdeji
+29.10.2010 15:13:39 SOAP.NactiVstup delej
+INFO: Buzeni: Ukoncuji buzeni na lince103, ktere jiz vice jak 10 minut proslo90
+29.10.2010 15:13:39 SOAP.NactiVstup delej
+INFO: Caracas: odesilam zpravu o nevzbuzeni linky 103
+29.10.2010 15:14:41 SOAP.Buzeni run
+INFO: Budim 103 volanim na899
+29.10.2010 15:16:12 SOAP.LinkyHandler1 endDocument
+INFO: Buzeni: linku 103 se nepodarilo vzbudit, nastavuji novy termin o 2 pozdeji
+29.10.2010 15:16:39 SOAP.NactiVstup delej
+INFO: Buzeni: Ukoncuji buzeni na lince103, ktere jiz vice jak 10 minut proslo90
+29.10.2010 15:16:39 SOAP.NactiVstup delej
+INFO: Caracas: odesilam zpravu o nevzbuzeni linky 103
+29.10.2010 15:18:12 SOAP.Buzeni run
+INFO: Budim 103 volanim na899
+29.10.2010 15:19:42 SOAP.LinkyHandler1 endDocument
+INFO: Buzeni: linku 103 se nepodarilo vzbudit, nastavuji novy termin o 2 pozdeji
+29.10.2010 15:20:24 SOAP.Menu$11 actionPerformed
+INFO: Ukoncuji Program
+29.10.2010 15:27:10 SOAP.Menu main
+INFO: Spusteni programu
+29.10.2010 15:27:10 SOAP.Menu main
+INFO: Spousteni po 30000 milisekundach
+29.10.2010 15:27:10 SOAP.Menu main
+INFO: Spusteni interface dle soap.properties
+29.10.2010 15:27:40 SOAP.Caracas nacti
+INFO: Nacitam soubor C:\data\Hotel\IF-DATA\caracas.ftp
+29.10.2010 15:27:40 SOAP.Caracas kontroluj
+INFO: Caracas vstup - nastaveni buzeni. Linka: 103 datum:2010-10-29 15:30:00.000
+29.10.2010 15:27:40 SOAP.Caracas kontroluj
+INFO: Caracas vstup - nastaveni buzeni. Linka: 104 datum:2010-10-29 15:51:00.000
+29.10.2010 15:28:10 SOAP.NactiVstup delej
+INFO: Buzeni: Ukoncuji buzeni na lince103, ktere jiz vice jak 10 minut proslo90
+29.10.2010 15:28:10 SOAP.NactiVstup delej
+INFO: Caracas: odesilam zpravu o nevzbuzeni linky 103
+29.10.2010 15:30:10 SOAP.Buzeni run
+INFO: Budim 103 volanim na 899
+29.10.2010 15:31:41 SOAP.LinkyHandler1 endDocument
+INFO: Buzeni: linku 103 se nepodarilo vzbudit, nastavuji novy termin o 2 pozdeji
+29.10.2010 15:33:41 SOAP.Buzeni run
+INFO: Budim 103 volanim na899
+29.10.2010 15:35:11 SOAP.LinkyHandler1 endDocument
+INFO: Buzeni: linku 103 se nepodarilo vzbudit, nastavuji novy termin o 2 pozdeji
+29.10.2010 15:35:11 SOAP.Buzeni run
+INFO: Budim 103 volanim na 899
+29.10.2010 15:36:41 SOAP.LinkyHandler1 endDocument
+INFO: Buzeni: linku 103 se nepodarilo vzbudit, nastavuji novy termin o 2 pozdeji
+29.10.2010 15:38:41 SOAP.Buzeni run
+INFO: Budim 103 volanim na899
+29.10.2010 15:40:12 SOAP.LinkyHandler1 endDocument
+INFO: Buzeni: linku 103 se nepodarilo vzbudit, nastavuji novy termin o 2 pozdeji
+29.10.2010 15:40:12 SOAP.Buzeni run
+INFO: Budim 103 volanim na 899
+29.10.2010 15:41:10 SOAP.NactiVstup delej
+INFO: Buzeni: Ukoncuji buzeni na lince103, ktere jiz vice jak 10 minut proslo92
+29.10.2010 15:41:10 SOAP.NactiVstup delej
+INFO: Caracas: odesilam zpravu o nevzbuzeni linky 103
+29.10.2010 15:41:42 SOAP.LinkyHandler1 endDocument
+INFO: Buzeni: linku 103 se nepodarilo vzbudit, nastavuji novy termin o 2 pozdeji
+29.10.2010 15:42:10 SOAP.NactiVstup delej
+INFO: Buzeni: Ukoncuji buzeni na lince103, ktere jiz vice jak 10 minut proslo92
+29.10.2010 15:42:10 SOAP.NactiVstup delej
+INFO: Caracas: odesilam zpravu o nevzbuzeni linky 103
+29.10.2010 15:43:42 SOAP.Buzeni run
+INFO: Budim 103 volanim na899
+29.10.2010 15:45:12 SOAP.LinkyHandler1 endDocument
+INFO: Buzeni: linku 103 se nepodarilo vzbudit, nastavuji novy termin o 2 pozdeji
+29.10.2010 15:45:12 SOAP.Buzeni run
+INFO: Budim 103 volanim na 899
+29.10.2010 15:46:10 SOAP.NactiVstup delej
+INFO: Buzeni: Ukoncuji buzeni na lince103, ktere jiz vice jak 10 minut proslo92
+29.10.2010 15:46:10 SOAP.NactiVstup delej
+INFO: Caracas: odesilam zpravu o nevzbuzeni linky 103
+29.10.2010 15:46:42 SOAP.LinkyHandler1 endDocument
+INFO: Buzeni: linku 103 se nepodarilo vzbudit, nastavuji novy termin o 2 pozdeji
+29.10.2010 15:47:10 SOAP.NactiVstup delej
+INFO: Buzeni: Ukoncuji buzeni na lince103, ktere jiz vice jak 10 minut proslo92
+29.10.2010 15:47:10 SOAP.NactiVstup delej
+INFO: Caracas: odesilam zpravu o nevzbuzeni linky 103
+29.10.2010 15:48:42 SOAP.Buzeni run
+INFO: Budim 103 volanim na899
+29.10.2010 15:50:12 SOAP.LinkyHandler1 endDocument
+INFO: Buzeni: linku 103 se nepodarilo vzbudit, nastavuji novy termin o 2 pozdeji
+29.10.2010 15:50:12 SOAP.Buzeni run
+INFO: Budim 103 volanim na 899
+29.10.2010 15:51:10 SOAP.NactiVstup delej
+INFO: Buzeni: Ukoncuji buzeni na lince103, ktere jiz vice jak 10 minut proslo92
+29.10.2010 15:51:10 SOAP.NactiVstup delej
+INFO: Caracas: odesilam zpravu o nevzbuzeni linky 103
+29.10.2010 15:51:11 SOAP.Buzeni run
+INFO: Budim 104 volanim na 899
+29.10.2010 15:51:21 SOAP.LinkyHandler1 endDocument
+INFO: Buzeni: linka 103 uspesne vzbuzena
+29.10.2010 15:52:41 SOAP.LinkyHandler1 endDocument
+INFO: Buzeni: linku 104 se nepodarilo vzbudit, nastavuji novy termin o 2 pozdeji
+29.10.2010 15:53:21 SOAP.Buzeni run
+INFO: Budim 103 volanim na899
+29.10.2010 15:54:41 SOAP.Buzeni run
+INFO: Budim 104 volanim na899
+29.10.2010 15:54:51 SOAP.LinkyHandler1 endDocument
+INFO: Buzeni: linku 103 se nepodarilo vzbudit, nastavuji novy termin o 2 pozdeji
+29.10.2010 15:54:51 SOAP.Buzeni run
+INFO: Budim 103 volanim na 899
+29.10.2010 15:55:05 SOAP.Menu$11 actionPerformed
+INFO: Ukoncuji Program
+29.10.2010 17:07:22 SOAP.Menu main
+INFO: Spusteni programu
+29.10.2010 17:07:22 SOAP.Menu main
+INFO: Spousteni po 30000 milisekundach
+29.10.2010 17:07:22 SOAP.Menu main
+INFO: Spusteni interface dle soap.properties
+29.10.2010 17:08:23 SOAP.NactiVstup delej
+INFO: Buzeni: Ukoncuji buzeni na lince103, ktere jiz vice jak 10 minut proslo92
+29.10.2010 17:08:23 SOAP.NactiVstup delej
+INFO: Caracas: odesilam zpravu o nevzbuzeni linky 103
+29.10.2010 17:08:23 SOAP.NactiVstup delej
+INFO: Buzeni: Ukoncuji buzeni na lince104, ktere jiz vice jak 10 minut proslo93
+29.10.2010 17:08:23 SOAP.NactiVstup delej
+INFO: Caracas: odesilam zpravu o nevzbuzeni linky 104
+29.10.2010 17:08:52 SOAP.Caracas nacti
+INFO: Nacitam soubor C:\data\Hotel\IF-DATA\caracas.ftp
+29.10.2010 17:08:52 SOAP.Caracas kontroluj
+INFO: Caracas vstup - nastaveni buzeni. Linka: 103 datum:2010-10-29 17:10:00.000
+29.10.2010 17:08:52 SOAP.Caracas kontroluj
+INFO: Caracas vstup - nastaveni buzeni. Linka: 101 datum:2010-10-29 17:09:00.000
+29.10.2010 17:09:23 SOAP.Buzeni run
+INFO: Budim 101 volanim na 899
+29.10.2010 17:10:22 SOAP.Buzeni run
+INFO: Budim 103 volanim na 899
+29.10.2010 17:10:53 SOAP.LinkyHandler1 endDocument
+INFO: Buzeni: linku 101 se nepodarilo vzbudit, nastavuji novy termin o 2 pozdeji
+29.10.2010 17:11:53 SOAP.LinkyHandler1 endDocument
+INFO: Buzeni: linku 103 se nepodarilo vzbudit, nastavuji novy termin o 2 pozdeji
+29.10.2010 17:12:53 SOAP.Buzeni run
+INFO: Budim 101 volanim na899
+29.10.2010 17:13:53 SOAP.Buzeni run
+INFO: Budim 103 volanim na899
+29.10.2010 17:14:23 SOAP.LinkyHandler1 endDocument
+INFO: Buzeni: linku 101 se nepodarilo vzbudit, nastavuji novy termin o 2 pozdeji
+29.10.2010 17:14:23 SOAP.Buzeni run
+INFO: Budim 101 volanim na 899
+29.10.2010 17:15:23 SOAP.LinkyHandler1 endDocument
+INFO: Buzeni: linku 103 se nepodarilo vzbudit, nastavuji novy termin o 2 pozdeji
+29.10.2010 17:15:23 SOAP.Buzeni run
+INFO: Budim 103 volanim na 899
+29.10.2010 17:15:53 SOAP.LinkyHandler1 endDocument
+INFO: Buzeni: linku 101 se nepodarilo vzbudit, nastavuji novy termin o 2 pozdeji
+29.10.2010 17:16:53 SOAP.LinkyHandler1 endDocument
+INFO: Buzeni: linku 103 se nepodarilo vzbudit, nastavuji novy termin o 2 pozdeji
+29.10.2010 17:17:53 SOAP.Buzeni run
+INFO: Budim 101 volanim na899
+29.10.2010 17:18:53 SOAP.Buzeni run
+INFO: Budim 103 volanim na899
+29.10.2010 17:19:24 SOAP.LinkyHandler1 endDocument
+INFO: Buzeni: linku 101 se nepodarilo vzbudit, nastavuji novy termin o 2 pozdeji
+29.10.2010 17:19:24 SOAP.Buzeni run
+INFO: Budim 101 volanim na 899
+29.10.2010 17:20:22 SOAP.NactiVstup delej
+INFO: Buzeni: Ukoncuji buzeni na lince101, ktere jiz vice jak 10 minut proslo95
+29.10.2010 17:20:22 SOAP.NactiVstup delej
+INFO: Caracas: odesilam zpravu o nevzbuzeni linky 101
+29.10.2010 17:20:23 SOAP.LinkyHandler1 endDocument
+INFO: Buzeni: linku 103 se nepodarilo vzbudit, nastavuji novy termin o 2 pozdeji
+29.10.2010 17:20:23 SOAP.Buzeni run
+INFO: Budim 103 volanim na 899
+29.10.2010 17:20:54 SOAP.LinkyHandler1 endDocument
+INFO: Buzeni: linku 101 se nepodarilo vzbudit, nastavuji novy termin o 2 pozdeji
+29.10.2010 17:21:22 SOAP.NactiVstup delej
+INFO: Buzeni: Ukoncuji buzeni na lince103, ktere jiz vice jak 10 minut proslo94
+29.10.2010 17:21:22 SOAP.NactiVstup delej
+INFO: Caracas: odesilam zpravu o nevzbuzeni linky 103
+29.10.2010 17:21:22 SOAP.NactiVstup delej
+INFO: Buzeni: Ukoncuji buzeni na lince101, ktere jiz vice jak 10 minut proslo95
+29.10.2010 17:21:22 SOAP.NactiVstup delej
+INFO: Caracas: odesilam zpravu o nevzbuzeni linky 101
+29.10.2010 17:21:54 SOAP.LinkyHandler1 endDocument
+INFO: Buzeni: linku 103 se nepodarilo vzbudit, nastavuji novy termin o 2 pozdeji
+29.10.2010 17:22:22 SOAP.NactiVstup delej
+INFO: Buzeni: Ukoncuji buzeni na lince103, ktere jiz vice jak 10 minut proslo94
+29.10.2010 17:22:22 SOAP.NactiVstup delej
+INFO: Caracas: odesilam zpravu o nevzbuzeni linky 103
+29.10.2010 17:22:54 SOAP.Buzeni run
+INFO: Budim 101 volanim na899
+29.10.2010 17:23:54 SOAP.Buzeni run
+INFO: Budim 103 volanim na899
+29.10.2010 17:24:24 SOAP.LinkyHandler1 endDocument
+INFO: Buzeni: linku 101 se nepodarilo vzbudit, nastavuji novy termin o 2 pozdeji
+29.10.2010 17:24:24 SOAP.Buzeni run
+INFO: Budim 101 volanim na 899
+29.10.2010 17:25:22 SOAP.NactiVstup delej
+INFO: Buzeni: Ukoncuji buzeni na lince101, ktere jiz vice jak 10 minut proslo95
+29.10.2010 17:25:22 SOAP.NactiVstup delej
+INFO: Caracas: odesilam zpravu o nevzbuzeni linky 101
+29.10.2010 17:25:24 SOAP.LinkyHandler1 endDocument
+INFO: Buzeni: linku 103 se nepodarilo vzbudit, nastavuji novy termin o 2 pozdeji
+29.10.2010 17:25:24 SOAP.Buzeni run
+INFO: Budim 103 volanim na 899
+29.10.2010 17:25:54 SOAP.LinkyHandler1 endDocument
+INFO: Buzeni: linku 101 se nepodarilo vzbudit, nastavuji novy termin o 2 pozdeji
+29.10.2010 17:26:22 SOAP.NactiVstup delej
+INFO: Buzeni: Ukoncuji buzeni na lince103, ktere jiz vice jak 10 minut proslo94
+29.10.2010 17:26:22 SOAP.NactiVstup delej
+INFO: Caracas: odesilam zpravu o nevzbuzeni linky 103
+29.10.2010 17:26:22 SOAP.NactiVstup delej
+INFO: Buzeni: Ukoncuji buzeni na lince101, ktere jiz vice jak 10 minut proslo95
+29.10.2010 17:26:23 SOAP.NactiVstup delej
+INFO: Caracas: odesilam zpravu o nevzbuzeni linky 101
+29.10.2010 17:26:54 SOAP.LinkyHandler1 endDocument
+INFO: Buzeni: linku 103 se nepodarilo vzbudit, nastavuji novy termin o 2 pozdeji
+29.10.2010 17:27:22 SOAP.NactiVstup delej
+INFO: Buzeni: Ukoncuji buzeni na lince103, ktere jiz vice jak 10 minut proslo94
+29.10.2010 17:27:22 SOAP.NactiVstup delej
+INFO: Caracas: odesilam zpravu o nevzbuzeni linky 103
+29.10.2010 17:27:54 SOAP.Buzeni run
+INFO: Budim 101 volanim na899
+29.10.2010 17:28:54 SOAP.Buzeni run
+INFO: Budim 103 volanim na899
+29.10.2010 17:29:08 SOAP.LinkyHandler1 endDocument
+INFO: Buzeni: linka 101 uspesne vzbuzena
+29.10.2010 17:30:24 SOAP.LinkyHandler1 endDocument
+INFO: Buzeni: linku 103 se nepodarilo vzbudit, nastavuji novy termin o 2 pozdeji
+29.10.2010 17:30:24 SOAP.Buzeni run
+INFO: Budim 103 volanim na 899
+29.10.2010 17:31:22 SOAP.NactiVstup delej
+INFO: Buzeni: Ukoncuji buzeni na lince103, ktere jiz vice jak 10 minut proslo94
+29.10.2010 17:31:23 SOAP.NactiVstup delej
+INFO: Caracas: odesilam zpravu o nevzbuzeni linky 103
+29.10.2010 17:31:55 SOAP.LinkyHandler1 endDocument
+INFO: Buzeni: linku 103 se nepodarilo vzbudit, nastavuji novy termin o 2 pozdeji
+29.10.2010 17:32:22 SOAP.NactiVstup delej
+INFO: Buzeni: Ukoncuji buzeni na lince103, ktere jiz vice jak 10 minut proslo94
+29.10.2010 17:32:22 SOAP.NactiVstup delej
+INFO: Caracas: odesilam zpravu o nevzbuzeni linky 103
+29.10.2010 17:33:55 SOAP.Buzeni run
+INFO: Budim 103 volanim na899
+29.10.2010 17:34:26 SOAP.Menu$11 actionPerformed
+INFO: Ukoncuji Program
+29.10.2010 17:34:34 SOAP.Menu main
+INFO: Spusteni programu
+29.10.2010 17:34:34 SOAP.Menu main
+INFO: Spousteni po 30000 milisekundach
+29.10.2010 17:34:34 SOAP.Menu main
+INFO: Spusteni interface dle soap.properties
+29.10.2010 17:36:04 SOAP.Caracas nacti
+INFO: Nacitam soubor C:\data\Hotel\IF-DATA\caracas.ftp
+29.10.2010 17:36:04 SOAP.Caracas kontroluj
+INFO: Caracas vstup - nastaveni buzeni. Linka: 101 datum:2010-10-29 17:37:00.000
+29.10.2010 17:37:34 SOAP.Buzeni run
+INFO: Budim 101 volanim na 899
+29.10.2010 17:38:44 SOAP.Menu$11 actionPerformed
+INFO: Ukoncuji Program
+29.10.2010 17:39:06 SOAP.Menu main
+INFO: Spusteni programu
+29.10.2010 17:39:07 SOAP.Menu main
+INFO: Spousteni po 30000 milisekundach
+29.10.2010 17:39:07 SOAP.Menu main
+INFO: Spusteni interface dle soap.properties
+29.10.2010 17:40:07 SOAP.Buzeni run
+INFO: Budim 101 volanim na 899
+29.10.2010 17:41:38 SOAP.LinkyHandler1 endDocument
+INFO: Buzeni: linku 101 se nepodarilo vzbudit, nastavuji novy termin o 2 pozdeji
+29.10.2010 17:43:38 SOAP.Buzeni run
+INFO: Budim 101 volanim na899
+29.10.2010 17:45:08 SOAP.LinkyHandler1 endDocument
+INFO: Buzeni: linku 101 se nepodarilo vzbudit, nastavuji novy termin o 2 pozdeji
+29.10.2010 17:45:08 SOAP.Buzeni run
+INFO: Budim 101 volanim na 899
+29.10.2010 17:46:07 SOAP.NactiVstup delej
+INFO: Buzeni: Ukoncuji buzeni na lince101, ktere jiz vice jak 8 minut proslo96
+29.10.2010 17:46:07 SOAP.NactiVstup delej
+INFO: Caracas: odesilam zpravu o nevzbuzeni linky 101
+29.10.2010 17:46:38 SOAP.LinkyHandler1 endDocument
+INFO: Buzeni: linku 101 se nepodarilo vzbudit, nastavuji novy termin o 2 pozdeji
+29.10.2010 17:47:07 SOAP.NactiVstup delej
+INFO: Buzeni: Ukoncuji buzeni na lince101, ktere jiz vice jak 8 minut proslo96
+29.10.2010 17:47:07 SOAP.NactiVstup delej
+INFO: Caracas: odesilam zpravu o nevzbuzeni linky 101
+29.10.2010 17:48:38 SOAP.Buzeni run
+INFO: Budim 101 volanim na899
+29.10.2010 17:50:09 SOAP.LinkyHandler1 endDocument
+INFO: Buzeni: linku 101 se nepodarilo vzbudit, nastavuji novy termin o 2 pozdeji
+29.10.2010 17:50:09 SOAP.Buzeni run
+INFO: Budim 101 volanim na 899
+29.10.2010 17:51:07 SOAP.NactiVstup delej
+INFO: Buzeni: Ukoncuji buzeni na lince101, ktere jiz vice jak 8 minut proslo96
+29.10.2010 17:51:07 SOAP.NactiVstup delej
+INFO: Caracas: odesilam zpravu o nevzbuzeni linky 101
+29.10.2010 17:51:28 SOAP.LinkyHandler1 endDocument
+INFO: Buzeni: linka 101 uspesne vzbuzena
+29.10.2010 17:53:19 SOAP.Menu$11 actionPerformed
+INFO: Ukoncuji Program
+29.10.2010 18:26:58 SOAP.Menu main
+INFO: Spusteni programu
+29.10.2010 18:26:58 SOAP.Menu main
+INFO: Spousteni po 30000 milisekundach
+29.10.2010 18:26:58 SOAP.Menu main
+INFO: Spusteni interface dle soap.properties
+29.10.2010 18:32:28 SOAP.Caracas nacti
+INFO: Nacitam soubor C:\data\Hotel\IF-DATA\caracas.ftp
+29.10.2010 18:32:28 SOAP.Caracas kontroluj
+INFO: Caracas vstup - nastaveni buzeni. Linka: 101 datum:2010-10-29 18:35:00.000
+29.10.2010 18:34:35 SOAP.Menu$11 actionPerformed
+INFO: Ukoncuji Program
+29.10.2010 18:34:38 SOAP.Menu main
+INFO: Spusteni programu
+29.10.2010 18:34:38 SOAP.Menu main
+INFO: Spousteni po 30000 milisekundach
+29.10.2010 18:34:38 SOAP.Menu main
+INFO: Spusteni interface dle soap.properties
+29.10.2010 18:35:38 SOAP.Buzeni run
+INFO: Budim 101 volanim na 899
+29.10.2010 18:37:09 SOAP.LinkyHandler1 endDocument
+INFO: Buzeni: linku 101 se nepodarilo vzbudit, nastavuji novy termin o 2 pozdeji
+29.10.2010 18:38:09 SOAP.Buzeni run
+INFO: Budim 101 volanim na 899
+29.10.2010 18:39:39 SOAP.LinkyHandler1 endDocument
+INFO: Buzeni: linku 101 se nepodarilo vzbudit, nastavuji novy termin o 2 pozdeji
+29.10.2010 18:40:39 SOAP.Buzeni run
+INFO: Budim 101 volanim na 899
+29.10.2010 18:42:10 SOAP.LinkyHandler1 endDocument
+INFO: Buzeni: linku 101 se nepodarilo vzbudit, nastavuji novy termin o 2 pozdeji
+29.10.2010 18:43:08 SOAP.Caracas nacti
+INFO: Nacitam soubor C:\data\Hotel\IF-DATA\caracas.ftp
+29.10.2010 18:43:08 SOAP.Caracas kontroluj
+INFO: Caracas vstup - nastaveni buzeni. Linka: 101 datum:2010-10-29 20:00:00.000
+29.10.2010 18:43:10 SOAP.Buzeni run
+INFO: Budim 101 volanim na 899
+29.10.2010 18:44:38 SOAP.NactiVstup delej
+INFO: Buzeni: Ukoncuji buzeni na lince101, ktere jiz vice jak 8 minut proslo97
+29.10.2010 18:44:38 SOAP.NactiVstup delej
+INFO: Caracas: odesilam zpravu o nevzbuzeni linky 101
+29.10.2010 18:44:40 SOAP.LinkyHandler1 endDocument
+INFO: Buzeni: linku 101 se nepodarilo vzbudit, nastavuji novy termin o 2 pozdeji
+29.10.2010 18:45:38 SOAP.NactiVstup delej
+INFO: Buzeni: Ukoncuji buzeni na lince101, ktere jiz vice jak 8 minut proslo97
+29.10.2010 18:45:38 SOAP.NactiVstup delej
+INFO: Caracas: odesilam zpravu o nevzbuzeni linky 101
+29.10.2010 18:52:08 SOAP.Caracas nacti
+INFO: Nacitam soubor C:\data\Hotel\IF-DATA\caracas.ftp
+29.10.2010 18:52:08 SOAP.Caracas kontroluj
+INFO: Caracas vstup - nastaveni buzeni. Linka: 101 datum:2010-10-29 18:52:00.000
+29.10.2010 18:52:38 SOAP.Buzeni run
+INFO: Budim 101 volanim na 899
+29.10.2010 18:54:08 SOAP.LinkyHandler1 endDocument
+INFO: Buzeni: linku 101 se nepodarilo vzbudit, nastavuji novy termin o 2 pozdeji
+29.10.2010 18:54:28 SOAP.Menu$11 actionPerformed
+INFO: Ukoncuji Program
+29.10.2010 18:54:48 SOAP.Menu main
+INFO: Spusteni programu
+29.10.2010 18:54:48 SOAP.Menu main
+INFO: Spousteni po 30000 milisekundach
+29.10.2010 18:54:48 SOAP.Menu main
+INFO: Spusteni interface dle soap.properties
+29.10.2010 18:55:48 SOAP.Buzeni run
+INFO: Budim 101 volanim na 899
+29.10.2010 18:57:19 SOAP.LinkyHandler1 endDocument
+INFO: Buzeni: linku 101 se nepodarilo vzbudit, nastavuji novy termin o 2 pozdeji
+29.10.2010 18:58:19 SOAP.Buzeni run
+INFO: Budim 101 volanim na 899
+29.10.2010 18:59:50 SOAP.LinkyHandler1 endDocument
+INFO: Buzeni: linku 101 se nepodarilo vzbudit, nastavuji novy termin o 2 pozdeji
+29.10.2010 19:00:50 SOAP.Buzeni run
+INFO: Budim 101 volanim na 899
+29.10.2010 19:01:48 SOAP.NactiVstup delej
+INFO: Buzeni: Ukoncuji buzeni na lince101, ktere jiz vice jak 8 minut proslo99
+29.10.2010 19:01:48 SOAP.NactiVstup delej
+INFO: Caracas: odesilam zpravu o nevzbuzeni linky 101
+29.10.2010 19:01:56 SOAP.LinkyHandler1 endDocument
+INFO: Buzeni: linka 101 uspesne vzbuzena
+29.10.2010 19:04:18 SOAP.Caracas nacti
+INFO: Nacitam soubor C:\data\Hotel\IF-DATA\caracas.ftp
+29.10.2010 19:04:18 SOAP.Caracas kontroluj
+INFO: Caracas vstup - nastaveni buzeni. Linka: 101 datum:2010-10-29 19:04:00.000
+29.10.2010 19:04:48 SOAP.Buzeni run
+INFO: Budim 101 volanim na 899
+29.10.2010 19:05:58 SOAP.LinkyHandler1 endDocument
+INFO: Buzeni: linku 101 se nepodarilo vzbudit, nastavuji novy termin o 2 pozdeji
+29.10.2010 19:06:58 SOAP.Buzeni run
+INFO: Budim 101 volanim na 899
+29.10.2010 19:08:28 SOAP.LinkyHandler1 endDocument
+INFO: Buzeni: linku 101 se nepodarilo vzbudit, nastavuji novy termin o 2 pozdeji
+29.10.2010 19:09:28 SOAP.Buzeni run
+INFO: Budim 101 volanim na 899
+29.10.2010 19:10:58 SOAP.LinkyHandler1 endDocument
+INFO: Buzeni: linku 101 se nepodarilo vzbudit, nastavuji novy termin o 2 pozdeji
+29.10.2010 19:11:58 SOAP.Buzeni run
+INFO: Budim 101 volanim na 899
+29.10.2010 19:12:18 SOAP.Caracas nacti
+INFO: Nacitam soubor C:\data\Hotel\IF-DATA\caracas.ftp
+29.10.2010 19:12:18 SOAP.Caracas kontroluj
+INFO: Caracas vstup - otevri linku: 101
+29.10.2010 19:12:48 SOAP.NactiVstup delej
+INFO: Linka: Opravneni Linky 101 nastaveno na MZN
+29.10.2010 19:13:28 SOAP.LinkyHandler1 endDocument
+INFO: Buzeni: linku 101 se nepodarilo vzbudit, nastavuji novy termin o 2 pozdeji
+29.10.2010 19:13:48 SOAP.NactiVstup delej
+INFO: Buzeni: Ukoncuji buzeni na lince101, ktere jiz vice jak 8 minut proslo100
+29.10.2010 19:13:48 SOAP.NactiVstup delej
+INFO: Caracas: odesilam zpravu o nevzbuzeni linky 101
+29.10.2010 19:17:18 SOAP.Caracas nacti
+INFO: Nacitam soubor C:\data\Hotel\IF-DATA\caracas.ftp
+29.10.2010 19:17:18 SOAP.Caracas kontroluj
+INFO: Caracas vstup - nastaveni buzeni. Linka: 103 datum:2010-10-29 19:35:00.000
+29.10.2010 19:18:18 SOAP.Caracas nacti
+INFO: Nacitam soubor C:\data\Hotel\IF-DATA\caracas.ftp
+29.10.2010 19:18:18 SOAP.Caracas kontroluj
+INFO: Caracas vstup - otevri linku: 103
+29.10.2010 19:18:48 SOAP.NactiVstup delej
+INFO: Linka: Opravneni Linky 103 nastaveno na MZN
+29.10.2010 19:22:18 SOAP.Caracas nacti
+INFO: Nacitam soubor C:\data\Hotel\IF-DATA\caracas.ftp
+29.10.2010 19:22:18 SOAP.Caracas kontroluj
+INFO: Caracas vstup - otevri linku: 103
+29.10.2010 19:22:48 SOAP.NactiVstup delej
+INFO: Linka: Opravneni Linky 103 nastaveno na MZN
+29.10.2010 20:00:48 SOAP.Buzeni run
+INFO: Budim 101 volanim na 899
+29.10.2010 20:02:18 SOAP.LinkyHandler1 endDocument
+INFO: Buzeni: linku 101 se nepodarilo vzbudit, nastavuji novy termin o 2 pozdeji
+29.10.2010 20:03:18 SOAP.Buzeni run
+INFO: Budim 101 volanim na 899
+29.10.2010 20:04:24 SOAP.LinkyHandler1 endDocument
+INFO: Buzeni: linka 101 uspesne vzbuzena
+29.10.2010 22:02:38 SOAP.Menu$11 actionPerformed
+INFO: Ukoncuji Program
+29.10.2010 22:10:57 SOAP.Menu main
+INFO: Spusteni programu
+29.10.2010 22:10:58 SOAP.Menu main
+INFO: Spousteni po 30000 milisekundach
+29.10.2010 22:10:58 SOAP.Menu main
+INFO: Spusteni interface dle soap.properties
+29.10.2010 22:13:07 SOAP.Menu$11 actionPerformed
+INFO: Ukoncuji Program
+29.10.2010 22:13:10 SOAP.Menu main
+INFO: Spusteni programu
+29.10.2010 22:13:11 SOAP.Menu main
+INFO: Spousteni po 30000 milisekundach
+29.10.2010 22:13:11 SOAP.Menu main
+INFO: Spusteni interface dle soap.properties
+29.10.2010 22:13:41 SOAP.Caracas nacti
+INFO: Nacitam soubor C:\data\Hotel\IF-DATA\caracas.ftp
+29.10.2010 22:13:41 SOAP.Caracas kontroluj
+INFO: Caracas vstup - nastaveni buzeni. Linka: 101 datum:2010-10-29 22:14:00.000
+29.10.2010 22:14:11 SOAP.Buzeni run
+INFO: Budim 101 volanim na 899
+29.10.2010 22:15:21 SOAP.LinkyHandler1 endDocument
+INFO: Buzeni: linka 101 uspesne vzbuzena
+2.11.2010 8:50:48 SOAP.Caracas nacti
+INFO: Nacitam soubor C:\data\Hotel\IF-DATA\caracas.ftp
+2.11.2010 8:50:48 SOAP.Caracas kontroluj
+INFO: Caracas vstup - otevri linku: 101
+2.11.2010 8:51:18 SOAP.NactiVstup delej
+INFO: Linka: Opravneni Linky 101 nastaveno na MZN
+2.11.2010 9:01:14 SOAP.Menu$11 actionPerformed
+INFO: Ukoncuji Program
+2.11.2010 9:09:32 SOAP.Menu main
+INFO: Spusteni programu
+2.11.2010 9:09:33 SOAP.Menu main
+INFO: Spousteni po 30000 milisekundach
+2.11.2010 9:09:33 SOAP.Menu main
+INFO: Spusteni interface dle soap.properties
+2.11.2010 9:09:40 SOAP.Menu$11 actionPerformed
+INFO: Ukoncuji Program
+2.11.2010 9:15:30 SOAP.Menu main
+INFO: Spusteni programu
+2.11.2010 9:15:30 SOAP.Menu main
+INFO: Spousteni po 30000 milisekundach
+2.11.2010 9:15:30 SOAP.Menu main
+INFO: Spusteni interface dle soap.properties
+2.11.2010 9:16:00 SOAP.Caracas nacti
+INFO: Nacitam soubor C:\data\Hotel\IF-DATA\caracas.ftp
+2.11.2010 9:16:00 SOAP.Caracas kontroluj
+INFO: Caracas vstup - nastaveni buzeni. Linka: 103 datum:2010-11-02 09:16:00.000
+2.11.2010 9:16:00 SOAP.Caracas kontroluj
+INFO: Caracas vstup - nastaveni buzeni. Linka: 101 datum:2010-11-02 09:16:00.000
+2.11.2010 9:16:30 SOAP.Buzeni run
+INFO: Budim 103 volanim na 899
+2.11.2010 9:16:30 SOAP.Buzeni run
+INFO: Budim 101 volanim na 899
+2.11.2010 9:17:00 SOAP.Caracas nacti
+INFO: Nacitam soubor C:\data\Hotel\IF-DATA\caracas.ftp
+2.11.2010 9:17:00 SOAP.Caracas kontroluj
+INFO: Caracas vstup - otevri linku: 104
+2.11.2010 9:17:30 SOAP.NactiVstup delej
+INFO: Linka: Opravneni Linky 104 nastaveno na MZN
+2.11.2010 9:17:33 SOAP.LinkyHandler1 endDocument
+INFO: Buzeni: linku 101 se nepodarilo vzbudit, nastavuji novy termin o 2 pozdeji
+2.11.2010 9:18:00 SOAP.Caracas nacti
+INFO: Nacitam soubor C:\data\Hotel\IF-DATA\caracas.ftp
+2.11.2010 9:18:00 SOAP.Caracas kontroluj
+INFO: Caracas vstup - otevri linku: 105
+2.11.2010 9:18:02 SOAP.LinkyHandler1 endDocument
+INFO: Buzeni: linku 103 se nepodarilo vzbudit, nastavuji novy termin o 2 pozdeji
+2.11.2010 9:18:30 SOAP.NactiVstup delej
+INFO: Linka: Opravneni Linky 105 nastaveno na MZN
+2.11.2010 9:18:33 SOAP.Buzeni run
+INFO: Budim 101 volanim na 899
+2.11.2010 9:19:00 SOAP.Caracas nacti
+INFO: Nacitam soubor C:\data\Hotel\IF-DATA\caracas.ftp
+2.11.2010 9:19:00 SOAP.Caracas kontroluj
+INFO: Caracas vstup - nastaveni buzeni. Linka: 105 datum:2010-11-02 09:20:00.000
+2.11.2010 9:19:00 SOAP.Caracas kontroluj
+INFO: Caracas vstup - nastaveni buzeni. Linka: 104 datum:2010-11-02 09:20:00.000
+2.11.2010 9:19:03 SOAP.Buzeni run
+INFO: Budim 103 volanim na 899
+2.11.2010 9:19:33 SOAP.LinkyHandler1 endDocument
+INFO: Buzeni: linku 101 se nepodarilo vzbudit, nastavuji novy termin o 2 pozdeji
+2.11.2010 9:20:10 SOAP.LinkyHandler1 endDocument
+INFO: Buzeni: linka 103 uspesne vzbuzena
+2.11.2010 9:20:30 SOAP.Buzeni run
+INFO: Budim 105 volanim na 899
+2.11.2010 9:20:33 SOAP.Buzeni run
+INFO: Budim 101 volanim na 899
+2.11.2010 9:21:33 SOAP.LinkyHandler1 endDocument
+INFO: Buzeni: linku 101 se nepodarilo vzbudit, nastavuji novy termin o 2 pozdeji
+2.11.2010 9:21:49 SOAP.LinkyHandler1 endDocument
+INFO: Buzeni: linka 105 uspesne vzbuzena
+2.11.2010 9:22:33 SOAP.Buzeni run
+INFO: Budim 101 volanim na 899
+2.11.2010 9:23:34 SOAP.LinkyHandler1 endDocument
+INFO: Buzeni: linku 101 se nepodarilo vzbudit, nastavuji novy termin o 2 pozdeji
+2.11.2010 9:24:34 SOAP.Buzeni run
+INFO: Budim 101 volanim na 899
+2.11.2010 9:25:30 SOAP.NactiVstup delej
+INFO: Buzeni: Ukoncuji buzeni na lince101, ktere jiz vice jak 8 minut proslo108
+2.11.2010 9:25:34 SOAP.LinkyHandler1 endDocument
+INFO: Buzeni: linku 101 se nepodarilo vzbudit, nastavuji novy termin o 2 pozdeji
+2.11.2010 9:25:50 SOAP.Menu$11 actionPerformed
+INFO: Ukoncuji Program
+2.11.2010 9:25:55 SOAP.Menu main
+INFO: Spusteni programu
+2.11.2010 9:25:55 SOAP.Menu main
+INFO: Spousteni po 30000 milisekundach
+2.11.2010 9:25:55 SOAP.Menu main
+INFO: Spusteni interface dle soap.properties
+2.11.2010 9:26:55 SOAP.NactiVstup delej
+INFO: Buzeni: Ukoncuji buzeni na lince101, ktere jiz vice jak 8 minut proslo108
+2.11.2010 9:29:55 SOAP.NactiVstup delej
+INFO: Buzeni: Ukoncuji buzeni na lince104, ktere jiz vice jak 8 minut proslo112
+2.11.2010 9:30:57 SOAP.Buzeni run
+INFO: Vytacim cilovou linku 602654814 pro linku 105
+2.11.2010 9:31:11 SOAP.Buzeni run
+INFO: Vytacim cilovou linku 0602654814 pro linku 105
+2.11.2010 9:31:25 SOAP.Buzeni run
+INFO: Vytacim cilovou linku 0602654814 pro linku 104
+2.11.2010 9:34:22 SOAP.Menu$11 actionPerformed
+INFO: Ukoncuji Program
+2.11.2010 9:34:55 SOAP.Menu main
+INFO: Spusteni programu
+2.11.2010 9:34:55 SOAP.Menu main
+INFO: Spousteni po 30000 milisekundach
+2.11.2010 9:34:55 SOAP.Menu main
+INFO: Spusteni interface dle soap.properties
+2.11.2010 9:38:25 SOAP.Caracas nacti
+INFO: Nacitam soubor C:\data\Hotel\IF-DATA\caracas.ftp
+2.11.2010 9:39:25 SOAP.Caracas nacti
+INFO: Nacitam soubor C:\data\Hotel\IF-DATA\caracas.ftp
+2.11.2010 9:39:25 SOAP.Caracas kontroluj
+INFO: Caracas vstup - nastaveni buzeni. Linka: 104 datum:2010-11-02 09:40:00.000
+2.11.2010 9:40:55 SOAP.Buzeni run
+INFO: Budim 104 volanim na 899
+2.11.2010 9:42:25 SOAP.LinkyHandler1 endDocument
+INFO: Buzeni: linku 104 se nepodarilo vzbudit, nastavuji novy termin o 2 pozdeji
+2.11.2010 9:43:25 SOAP.Buzeni run
+INFO: Budim 104 volanim na 899
+2.11.2010 9:44:37 SOAP.LinkyHandler1 endDocument
+INFO: Buzeni: linka 104 uspesne vzbuzena
+2.11.2010 9:50:17 SOAP.Menu$11 actionPerformed
+INFO: Ukoncuji Program
+2.11.2010 9:50:32 SOAP.Menu main
+INFO: Spusteni programu
+2.11.2010 9:50:32 SOAP.Menu main
+INFO: Spousteni po 30000 milisekundach
+2.11.2010 9:50:32 SOAP.Menu main
+INFO: Spusteni interface dle soap.properties
+2.11.2010 9:50:41 SOAP.Buzeni run
+INFO: Vytacim cilovou linku  pro linku 104
+2.11.2010 9:51:00 SOAP.Menu$11 actionPerformed
+INFO: Ukoncuji Program
+2.11.2010 9:52:11 SOAP.Menu main
+INFO: Spusteni programu
+2.11.2010 9:52:12 SOAP.Menu main
+INFO: Spousteni po 30000 milisekundach
+2.11.2010 9:52:12 SOAP.Menu main
+INFO: Spusteni interface dle soap.properties
+2.11.2010 9:52:21 SOAP.Buzeni run
+INFO: Vytacim cilovou linku 899 pro linku 104
+2.11.2010 9:52:38 SOAP.Buzeni run
+INFO: Vytacim cilovou linku 0602654814 pro linku 104
+2.11.2010 9:53:42 SOAP.Caracas nacti
+INFO: Nacitam soubor C:\data\Hotel\IF-DATA\caracas.ftp
+2.11.2010 9:53:42 SOAP.Caracas kontroluj
+INFO: Caracas vstup - nastaveni buzeni. Linka: 105 datum:2010-11-02 09:54:00.000
+2.11.2010 9:53:42 SOAP.Caracas kontroluj
+INFO: Caracas vstup - nastaveni buzeni. Linka: 104 datum:2010-11-02 09:54:00.000
+2.11.2010 9:53:42 SOAP.Caracas kontroluj
+INFO: Caracas vstup - nastaveni buzeni. Linka: 103 datum:2010-11-02 09:54:00.000
+2.11.2010 9:53:42 SOAP.Caracas kontroluj
+INFO: Caracas vstup - nastaveni buzeni. Linka: 101 datum:2010-11-02 09:54:00.000
+2.11.2010 9:54:12 SOAP.Buzeni run
+INFO: Budim 105 volanim na 899
+2.11.2010 9:54:12 SOAP.Buzeni run
+INFO: Budim 103 volanim na 899
+2.11.2010 9:54:12 SOAP.Buzeni run
+INFO: Budim 101 volanim na 899
+2.11.2010 9:55:12 SOAP.LinkyHandler1 endDocument
+INFO: Buzeni: linku 101 se nepodarilo vzbudit, nastavuji novy termin o 2 pozdeji
+2.11.2010 9:55:42 SOAP.LinkyHandler1 endDocument
+INFO: Buzeni: linku 105 se nepodarilo vzbudit, nastavuji novy termin o 2 pozdeji
+2.11.2010 9:55:42 SOAP.LinkyHandler1 endDocument
+INFO: Buzeni: linku 103 se nepodarilo vzbudit, nastavuji novy termin o 2 pozdeji
+2.11.2010 9:56:12 SOAP.Buzeni run
+INFO: Budim 101 volanim na 899
+2.11.2010 9:56:42 SOAP.Buzeni run
+INFO: Budim 105 volanim na 899
+2.11.2010 9:56:42 SOAP.Buzeni run
+INFO: Budim 103 volanim na 899
+2.11.2010 9:57:35 SOAP.LinkyHandler1 endDocument
+INFO: Buzeni: linka 101 uspesne vzbuzena
+2.11.2010 9:57:45 SOAP.LinkyHandler1 endDocument
+INFO: Buzeni: linka 105 uspesne vzbuzena
+2.11.2010 9:57:48 SOAP.LinkyHandler1 endDocument
+INFO: Buzeni: linka 103 uspesne vzbuzena
+2.11.2010 10:01:25 SOAP.Menu$11 actionPerformed
+INFO: Ukoncuji Program
+2.11.2010 10:01:32 SOAP.Menu main
+INFO: Spusteni programu
+2.11.2010 10:01:32 SOAP.Menu main
+INFO: Spousteni po 30000 milisekundach
+2.11.2010 10:01:32 SOAP.Menu main
+INFO: Spusteni interface dle soap.properties
+2.11.2010 10:03:32 SOAP.NactiVstup delej
+INFO: Buzeni: Ukoncuji buzeni na lince104, ktere jiz vice jak 8 minut proslo115
+2.11.2010 10:05:32 SOAP.LinkyHandler endElement
+INFO: Tarifikace: linka 104 cil 800207207 datum 2010-11-02 10:02:40 delka123
+2.11.2010 10:09:32 SOAP.LinkyHandler endElement
+INFO: Tarifikace: linka 104 cil 841114114 datum 2010-11-02 10:04:57 delka202
+2.11.2010 10:11:02 SOAP.Caracas nacti
+INFO: Nacitam soubor C:\data\Hotel\IF-DATA\caracas.ftp
+2.11.2010 10:12:02 SOAP.Caracas nacti
+INFO: Nacitam soubor C:\data\Hotel\IF-DATA\caracas.ftp
+2.11.2010 10:12:02 SOAP.Caracas kontroluj
+INFO: Caracas vstup - nastaveni buzeni. Linka: 105 datum:2010-11-02 10:12:00.000
+2.11.2010 10:12:02 SOAP.Caracas kontroluj
+INFO: Caracas vstup - nastaveni buzeni. Linka: 104 datum:2010-11-02 10:12:00.000
+2.11.2010 10:12:02 SOAP.Caracas kontroluj
+INFO: Caracas vstup - nastaveni buzeni. Linka: 103 datum:2010-11-02 10:12:00.000
+2.11.2010 10:12:02 SOAP.Caracas kontroluj
+INFO: Caracas vstup - nastaveni buzeni. Linka: 101 datum:2010-11-02 10:12:00.000
+2.11.2010 10:12:32 SOAP.Buzeni run
+INFO: Budim 105 volanim na 899
+2.11.2010 10:12:32 SOAP.Buzeni run
+INFO: Budim 104 volanim na 899
+2.11.2010 10:12:32 SOAP.Buzeni run
+INFO: Budim 101 volanim na 899
+2.11.2010 10:13:56 SOAP.LinkyHandler1 endDocument
+INFO: Buzeni: linka 101 uspesne vzbuzena
+2.11.2010 10:13:58 SOAP.LinkyHandler1 endDocument
+INFO: Buzeni: linka 105 uspesne vzbuzena
+2.11.2010 10:13:59 SOAP.LinkyHandler1 endDocument
+INFO: Buzeni: linka 104 uspesne vzbuzena
+2.11.2010 10:21:32 SOAP.NactiVstup delej
+INFO: Buzeni: Ukoncuji buzeni na lince103, ktere jiz vice jak 8 minut proslo120
+2.11.2010 10:22:39 SOAP.Menu$11 actionPerformed
+INFO: Ukoncuji Program
+2.11.2010 10:49:06 SOAP.Menu main
+INFO: Spusteni programu
+2.11.2010 10:49:11 SOAP.Menu main
+INFO: Spousteni po 30000 milisekundach
+2.11.2010 10:49:11 SOAP.Menu main
+INFO: Spusteni interface dle soap.properties
+2.11.2010 10:49:41 SOAP.Caracas nacti
+INFO: Nacitam soubor C:\data\Hotel\IF-DATA\caracas.ftp
+2.11.2010 10:50:41 SOAP.Caracas nacti
+INFO: Nacitam soubor C:\data\Hotel\IF-DATA\caracas.ftp
+2.11.2010 10:50:41 SOAP.Caracas kontroluj
+INFO: Caracas vstup - nastaveni buzeni. Linka: 105 datum:2010-11-02 10:50:00.000
+2.11.2010 10:50:42 SOAP.Caracas kontroluj
+INFO: Caracas vstup - nastaveni buzeni. Linka: 104 datum:2010-11-02 10:50:00.000
+2.11.2010 10:50:42 SOAP.Caracas kontroluj
+INFO: Caracas vstup - nastaveni buzeni. Linka: 103 datum:2010-11-02 10:50:00.000
+2.11.2010 10:50:42 SOAP.Caracas kontroluj
+INFO: Caracas vstup - nastaveni buzeni. Linka: 101 datum:2010-11-02 10:50:00.000
+2.11.2010 10:51:12 SOAP.Buzeni run
+INFO: Budim 104 volanim na 899
+2.11.2010 10:51:12 SOAP.Buzeni run
+INFO: Budim 101 volanim na 899
+2.11.2010 10:52:42 SOAP.LinkyHandler1 endDocument
+INFO: Buzeni: linku 104 se nepodarilo vzbudit, nastavuji novy termin o 2 pozdeji
+2.11.2010 10:52:42 SOAP.LinkyHandler1 endDocument
+INFO: Buzeni: linku 101 se nepodarilo vzbudit, nastavuji novy termin o 2 pozdeji
+2.11.2010 10:53:43 SOAP.Buzeni run
+INFO: Budim 101 volanim na 899
+2.11.2010 10:53:43 SOAP.Buzeni run
+INFO: Budim 104 volanim na 899
+2.11.2010 10:54:48 SOAP.LinkyHandler1 endDocument
+INFO: Buzeni: linka 104 uspesne vzbuzena
+2.11.2010 10:54:52 SOAP.LinkyHandler1 endDocument
+INFO: Buzeni: linka 101 uspesne vzbuzena
+2.11.2010 10:55:06 SOAP.Menu$11 actionPerformed
+INFO: Ukoncuji Program
+2.11.2010 10:59:29 SOAP.Menu main
+INFO: Spusteni programu
+2.11.2010 10:59:29 SOAP.Menu main
+INFO: Spousteni po 30000 milisekundach
+2.11.2010 10:59:29 SOAP.Menu main
+INFO: Spusteni interface dle soap.properties
+2.11.2010 11:00:30 SOAP.NactiVstup delej
+INFO: Buzeni: Ukoncuji buzeni na lince105, ktere jiz vice jak 8 minut proslo122
+2.11.2010 11:00:30 SOAP.NactiVstup delej
+INFO: Buzeni: Ukoncuji buzeni na lince103, ktere jiz vice jak 8 minut proslo124
+2.11.2010 11:03:00 SOAP.Caracas nacti
+INFO: Nacitam soubor C:\data\Hotel\IF-DATA\caracas.ftp
+2.11.2010 11:04:00 SOAP.Caracas nacti
+INFO: Nacitam soubor C:\data\Hotel\IF-DATA\caracas.ftp
+2.11.2010 11:04:00 SOAP.Caracas kontroluj
+INFO: Caracas vstup - nastaveni buzeni. Linka: 105 datum:2010-11-02 11:05:00.000
+2.11.2010 11:04:00 SOAP.Caracas kontroluj
+INFO: Caracas vstup - nastaveni buzeni. Linka: 104 datum:2010-11-02 11:05:00.000
+2.11.2010 11:04:01 SOAP.Caracas kontroluj
+INFO: Caracas vstup - nastaveni buzeni. Linka: 103 datum:2010-11-02 11:05:00.000
+2.11.2010 11:04:01 SOAP.Caracas kontroluj
+INFO: Caracas vstup - nastaveni buzeni. Linka: 101 datum:2010-11-02 11:05:00.000
+2.11.2010 11:05:57 SOAP.Menu$11 actionPerformed
+INFO: Ukoncuji Program
+2.11.2010 11:06:01 SOAP.Menu main
+INFO: Spusteni programu
+2.11.2010 11:06:02 SOAP.Menu main
+INFO: Spousteni po 30000 milisekundach
+2.11.2010 11:06:02 SOAP.Menu main
+INFO: Spusteni interface dle soap.properties
+2.11.2010 11:07:02 SOAP.Buzeni run
+INFO: Budim 104 volanim na 899
+2.11.2010 11:07:02 SOAP.Buzeni run
+INFO: Budim 103 volanim na 899
+2.11.2010 11:07:02 SOAP.Buzeni run
+INFO: Budim 101 volanim na 899
+2.11.2010 11:08:22 SOAP.LinkyHandler1 endDocument
+INFO: Buzeni: linka 101 uspesne vzbuzena
+2.11.2010 11:08:27 SOAP.LinkyHandler1 endDocument
+INFO: Buzeni: linka 104 uspesne vzbuzena
+2.11.2010 11:08:30 SOAP.LinkyHandler1 endDocument
+INFO: Buzeni: linka 103 uspesne vzbuzena
+2.11.2010 11:11:29 SOAP.Menu$11 actionPerformed
+INFO: Ukoncuji Program
+2.11.2010 11:23:18 SOAP.Menu main
+INFO: Spusteni programu
+2.11.2010 11:23:18 SOAP.Menu main
+INFO: Spousteni po 30000 milisekundach
+2.11.2010 11:23:18 SOAP.Menu main
+INFO: Spusteni interface dle soap.properties
+2.11.2010 11:23:48 SOAP.Caracas nacti
+INFO: Nacitam soubor C:\data\Hotel\IF-DATA\caracas.ftp
+2.11.2010 11:23:48 SOAP.Caracas kontroluj
+INFO: Caracas vstup - nastaveni buzeni. Linka: 105 datum:2010-11-02 11:24:00.000
+2.11.2010 11:23:48 SOAP.Caracas kontroluj
+INFO: Caracas vstup - nastaveni buzeni. Linka: 104 datum:2010-11-02 11:24:00.000
+2.11.2010 11:23:48 SOAP.Caracas kontroluj
+INFO: Caracas vstup - nastaveni buzeni. Linka: 103 datum:2010-11-02 11:24:00.000
+2.11.2010 11:23:48 SOAP.Caracas kontroluj
+INFO: Caracas vstup - nastaveni buzeni. Linka: 101 datum:2010-11-02 11:24:00.000
+2.11.2010 11:24:18 SOAP.Buzeni run
+INFO: Budim 105 volanim na 899
+2.11.2010 11:24:18 SOAP.Buzeni run
+INFO: Budim 104 volanim na 899
+2.11.2010 11:24:18 SOAP.Buzeni run
+INFO: Budim 103 volanim na 899
+2.11.2010 11:25:41 SOAP.LinkyHandler1 endDocument
+INFO: Buzeni: linka 105 uspesne vzbuzena
+2.11.2010 11:25:43 SOAP.LinkyHandler1 endDocument
+INFO: Buzeni: linka 104 uspesne vzbuzena
+2.11.2010 11:25:44 SOAP.LinkyHandler1 endDocument
+INFO: Buzeni: linka 103 uspesne vzbuzena
+2.11.2010 11:28:48 SOAP.Caracas nacti
+INFO: Nacitam soubor C:\data\Hotel\IF-DATA\caracas.ftp
+2.11.2010 11:28:48 SOAP.Caracas kontroluj
+INFO: Caracas vstup - nastaveni buzeni. Linka: 104 datum:2010-11-02 11:29:00.000
+2.11.2010 11:28:48 SOAP.Caracas kontroluj
+INFO: Caracas vstup - nastaveni buzeni. Linka: 103 datum:2010-11-02 11:29:00.000
+2.11.2010 11:28:48 SOAP.Caracas kontroluj
+INFO: Caracas vstup - nastaveni buzeni. Linka: 101 datum:2010-11-02 11:29:00.000
+2.11.2010 11:28:48 SOAP.Caracas kontroluj
+INFO: Caracas vstup - nastaveni buzeni. Linka: 105 datum:2010-11-02 11:30:00.000
+2.11.2010 11:29:18 SOAP.Buzeni run
+INFO: Budim 104 volanim na 899
+2.11.2010 11:30:18 SOAP.Buzeni run
+INFO: Budim 105 volanim na 899
+2.11.2010 11:30:39 SOAP.LinkyHandler1 endDocument
+INFO: Buzeni: linka 104 uspesne vzbuzena
+2.11.2010 11:31:22 SOAP.LinkyHandler1 endDocument
+INFO: Buzeni: linka 105 uspesne vzbuzena
+2.11.2010 11:32:56 SOAP.Menu$11 actionPerformed
+INFO: Ukoncuji Program
+2.11.2010 11:33:00 SOAP.Menu main
+INFO: Spusteni programu
+2.11.2010 11:33:01 SOAP.Menu main
+INFO: Spousteni po 30000 milisekundach
+2.11.2010 11:33:01 SOAP.Menu main
+INFO: Spusteni interface dle soap.properties
+2.11.2010 11:34:01 SOAP.NactiVstup delej
+INFO: Buzeni: Ukoncuji buzeni na lince101, ktere jiz vice jak 8 minut proslo133
+2.11.2010 11:35:50 SOAP.Menu$11 actionPerformed
+INFO: Ukoncuji Program
+2.11.2010 11:35:52 SOAP.Menu main
+INFO: Spusteni programu
+2.11.2010 11:35:53 SOAP.Menu main
+INFO: Spousteni po 30000 milisekundach
+2.11.2010 11:35:53 SOAP.Menu main
+INFO: Spusteni interface dle soap.properties
+2.11.2010 11:36:53 SOAP.Buzeni run
+INFO: Budim 103 volanim na 899
+2.11.2010 11:36:53 SOAP.Buzeni run
+INFO: Budim 101 volanim na 899
+2.11.2010 11:38:08 SOAP.LinkyHandler1 endDocument
+INFO: Buzeni: linka 101 uspesne vzbuzena
+2.11.2010 11:38:10 SOAP.LinkyHandler1 endDocument
+INFO: Buzeni: linka 103 uspesne vzbuzena
+2.11.2010 11:41:50 SOAP.Menu$11 actionPerformed
+INFO: Ukoncuji Program
+2.11.2010 11:42:44 SOAP.Menu main
+INFO: Spusteni programu
+2.11.2010 11:42:44 SOAP.Menu main
+INFO: Spousteni po 30000 milisekundach
+2.11.2010 11:42:44 SOAP.Menu main
+INFO: Spusteni interface dle soap.properties
+2.11.2010 11:43:14 SOAP.Caracas nacti
+INFO: Nacitam soubor C:\data\Hotel\IF-DATA\caracas.ftp
+2.11.2010 11:43:14 SOAP.Caracas kontroluj
+INFO: Caracas vstup - nastaveni buzeni. Linka: 105 datum:2010-11-02 11:43:00.000
+2.11.2010 11:43:14 SOAP.Caracas kontroluj
+INFO: Caracas vstup - nastaveni buzeni. Linka: 104 datum:2010-11-02 11:43:00.000
+2.11.2010 11:43:14 SOAP.Caracas kontroluj
+INFO: Caracas vstup - nastaveni buzeni. Linka: 103 datum:2010-11-02 11:43:00.000
+2.11.2010 11:43:14 SOAP.Caracas kontroluj
+INFO: Caracas vstup - nastaveni buzeni. Linka: 101 datum:2010-11-02 11:43:00.000
+2.11.2010 11:43:46 SOAP.Buzeni run
+INFO: Budim 105 volanim na 899
+2.11.2010 11:43:48 SOAP.Buzeni run
+INFO: Budim 104 volanim na 899
+2.11.2010 11:43:50 SOAP.Buzeni run
+INFO: Budim 103 volanim na 899
+2.11.2010 11:43:52 SOAP.Buzeni run
+INFO: Budim 101 volanim na 899
+2.11.2010 11:45:03 SOAP.LinkyHandler1 endDocument
+INFO: Buzeni: linku 101 se nepodarilo vzbudit, nastavuji novy termin o 2 pozdeji
+2.11.2010 11:45:05 SOAP.LinkyHandler1 endDocument
+INFO: Buzeni: linka 105 uspesne vzbuzena
+2.11.2010 11:45:06 SOAP.LinkyHandler1 endDocument
+INFO: Buzeni: linka 104 uspesne vzbuzena
+2.11.2010 11:45:21 SOAP.LinkyHandler1 endDocument
+INFO: Buzeni: linku 103 se nepodarilo vzbudit, nastavuji novy termin o 2 pozdeji
+2.11.2010 11:46:03 SOAP.Buzeni run
+INFO: Budim 101 volanim na 899
+2.11.2010 11:46:21 SOAP.Buzeni run
+INFO: Budim 103 volanim na 899
+2.11.2010 11:47:19 SOAP.LinkyHandler1 endDocument
+INFO: Buzeni: linka 101 uspesne vzbuzena
+2.11.2010 11:47:27 SOAP.LinkyHandler1 endDocument
+INFO: Buzeni: linka 103 uspesne vzbuzena
+2.11.2010 11:47:39 SOAP.Menu$11 actionPerformed
+INFO: Ukoncuji Program
+2.11.2010 11:48:18 SOAP.Menu main
+INFO: Spusteni programu
+2.11.2010 11:48:18 SOAP.Menu main
+INFO: Spousteni po 30000 milisekundach
+2.11.2010 11:48:18 SOAP.Menu main
+INFO: Spusteni interface dle soap.properties
+2.11.2010 11:48:48 SOAP.Caracas nacti
+INFO: Nacitam soubor C:\data\Hotel\IF-DATA\caracas.ftp
+2.11.2010 11:48:48 SOAP.Caracas kontroluj
+INFO: Caracas vstup - nastaveni buzeni. Linka: 105 datum:2010-11-02 11:49:00.000
+2.11.2010 11:48:48 SOAP.Caracas kontroluj
+INFO: Caracas vstup - nastaveni buzeni. Linka: 104 datum:2010-11-02 11:49:00.000
+2.11.2010 11:48:48 SOAP.Caracas kontroluj
+INFO: Caracas vstup - nastaveni buzeni. Linka: 103 datum:2010-11-02 11:49:00.000
+2.11.2010 11:48:48 SOAP.Caracas kontroluj
+INFO: Caracas vstup - nastaveni buzeni. Linka: 101 datum:2010-11-02 11:49:00.000
+2.11.2010 11:49:18 SOAP.Buzeni run
+INFO: Budim 105 volanim na 899
+2.11.2010 11:49:19 SOAP.Buzeni run
+INFO: Budim 104 volanim na 899
+2.11.2010 11:49:20 SOAP.Buzeni run
+INFO: Budim 103 volanim na 899
+2.11.2010 11:50:09 SOAP.Menu$11 actionPerformed
+INFO: Ukoncuji Program
+2.11.2010 11:50:29 SOAP.Menu main
+INFO: Spusteni programu
+2.11.2010 11:50:30 SOAP.Menu main
+INFO: Spousteni po 30000 milisekundach
+2.11.2010 11:50:30 SOAP.Menu main
+INFO: Spusteni interface dle soap.properties
+2.11.2010 11:52:12 SOAP.Menu$11 actionPerformed
+INFO: Ukoncuji Program
+2.11.2010 11:52:15 SOAP.Menu main
+INFO: Spusteni programu
+2.11.2010 11:52:15 SOAP.Menu main
+INFO: Spousteni po 30000 milisekundach
+2.11.2010 11:52:15 SOAP.Menu main
+INFO: Spusteni interface dle soap.properties
+2.11.2010 11:55:04 SOAP.Menu$11 actionPerformed
+INFO: Ukoncuji Program
+2.11.2010 11:55:19 SOAP.Menu main
+INFO: Spusteni programu
+2.11.2010 11:55:19 SOAP.Menu main
+INFO: Spousteni po 30000 milisekundach
+2.11.2010 11:55:19 SOAP.Menu main
+INFO: Spusteni interface dle soap.properties
+2.11.2010 11:55:45 SOAP.Menu$11 actionPerformed
+INFO: Ukoncuji Program
+2.11.2010 11:56:28 SOAP.Menu main
+INFO: Spusteni programu
+2.11.2010 11:56:29 SOAP.Menu main
+INFO: Spousteni po 10000 milisekundach
+2.11.2010 11:56:29 SOAP.Menu main
+INFO: Spusteni interface dle soap.properties
+2.11.2010 11:56:55 SOAP.Buzeni run
+INFO: Budim 103 volanim na 899
+2.11.2010 11:56:57 SOAP.Buzeni run
+INFO: Budim 101 volanim na 899
+2.11.2010 11:58:14 SOAP.LinkyHandler1 endDocument
+INFO: Buzeni: linku 101 se nepodarilo vzbudit, nastavuji novy termin o 3 pozdeji
+2.11.2010 11:58:17 SOAP.LinkyHandler1 endDocument
+INFO: Buzeni: linka 103 uspesne vzbuzena
+2.11.2010 11:59:56 SOAP.Menu$11 actionPerformed
+INFO: Ukoncuji Program
+2.11.2010 11:59:59 SOAP.Menu main
+INFO: Spusteni programu
+2.11.2010 11:59:59 SOAP.Menu main
+INFO: Spousteni po 10000 milisekundach
+2.11.2010 11:59:59 SOAP.Menu main
+INFO: Spusteni interface dle soap.properties
+2.11.2010 12:00:22 SOAP.Buzeni run
+INFO: Budim 105 volanim na 899
+2.11.2010 12:01:44 SOAP.LinkyHandler1 endDocument
+INFO: Buzeni: linka 105 uspesne vzbuzena
+2.11.2010 12:02:01 SOAP.NactiVstup delej
+INFO: Buzeni: Ukoncuji buzeni na lince104, ktere jiz vice jak 12 minut proslo143
+2.11.2010 12:02:23 SOAP.Menu$11 actionPerformed
+INFO: Ukoncuji Program
+2.11.2010 12:02:37 SOAP.Menu main
+INFO: Spusteni programu
+2.11.2010 12:02:37 SOAP.Menu main
+INFO: Spousteni po 10000 milisekundach
+2.11.2010 12:02:37 SOAP.Menu main
+INFO: Spusteni interface dle soap.properties
+2.11.2010 12:03:07 SOAP.Caracas nacti
+INFO: Nacitam soubor C:\data\Hotel\IF-DATA\caracas.ftp
+2.11.2010 12:03:27 SOAP.Caracas nacti
+INFO: Nacitam soubor C:\data\Hotel\IF-DATA\caracas.ftp
+2.11.2010 12:03:27 SOAP.Caracas kontroluj
+INFO: Caracas vstup - nastaveni buzeni. Linka: 105 datum:2010-11-02 12:04:00.000
+2.11.2010 12:03:27 SOAP.Caracas kontroluj
+INFO: Caracas vstup - nastaveni buzeni. Linka: 104 datum:2010-11-02 12:04:00.000
+2.11.2010 12:03:27 SOAP.Caracas kontroluj
+INFO: Caracas vstup - nastaveni buzeni. Linka: 103 datum:2010-11-02 12:04:00.000
+2.11.2010 12:03:27 SOAP.Caracas kontroluj
+INFO: Caracas vstup - nastaveni buzeni. Linka: 101 datum:2010-11-02 12:04:00.000
+2.11.2010 12:04:01 SOAP.Buzeni run
+INFO: Budim 104 volanim na 899
+2.11.2010 12:04:03 SOAP.Buzeni run
+INFO: Budim 103 volanim na 899
+2.11.2010 12:04:05 SOAP.Buzeni run
+INFO: Budim 101 volanim na 899
+2.11.2010 12:04:19 SOAP.Buzeni run
+INFO: Budim 105 volanim na 899
+2.11.2010 12:05:24 SOAP.LinkyHandler1 endDocument
+INFO: Buzeni: linku 101 se nepodarilo vzbudit, nastavuji novy termin o 3 pozdeji
+2.11.2010 12:05:27 SOAP.LinkyHandler1 endDocument
+INFO: Buzeni: linka 104 uspesne vzbuzena
+2.11.2010 12:05:30 SOAP.LinkyHandler1 endDocument
+INFO: Buzeni: linka 105 uspesne vzbuzena
+2.11.2010 12:05:33 SOAP.LinkyHandler1 endDocument
+INFO: Buzeni: linku 103 se nepodarilo vzbudit, nastavuji novy termin o 3 pozdeji
+2.11.2010 12:07:24 SOAP.Buzeni run
+INFO: Budim 101 volanim na 899
+2.11.2010 12:07:33 SOAP.Buzeni run
+INFO: Budim 103 volanim na 899
+2.11.2010 12:08:39 SOAP.LinkyHandler1 endDocument
+INFO: Buzeni: linka 103 uspesne vzbuzena
+2.11.2010 12:08:55 SOAP.LinkyHandler1 endDocument
+INFO: Buzeni: linku 101 se nepodarilo vzbudit, nastavuji novy termin o 3 pozdeji
+2.11.2010 12:09:10 SOAP.Menu$11 actionPerformed
+INFO: Ukoncuji Program
+2.11.2010 12:09:24 SOAP.Menu main
+INFO: Spusteni programu
+2.11.2010 12:09:24 SOAP.Menu main
+INFO: Spousteni po 10000 milisekundach
+2.11.2010 12:09:24 SOAP.Menu main
+INFO: Spusteni interface dle soap.properties
+2.11.2010 12:10:55 SOAP.Menu$11 actionPerformed
+INFO: Ukoncuji Program
+2.11.2010 12:10:57 SOAP.Menu main
+INFO: Spusteni programu
+2.11.2010 12:10:58 SOAP.Menu main
+INFO: Spousteni po 10000 milisekundach
+2.11.2010 12:10:58 SOAP.Menu main
+INFO: Spusteni interface dle soap.properties
+2.11.2010 12:11:20 SOAP.Buzeni run
+INFO: Budim 101 volanim na 899
+2.11.2010 12:12:36 SOAP.LinkyHandler1 endDocument
+INFO: Buzeni: linka 101 uspesne vzbuzena
+2.11.2010 12:21:48 SOAP.Caracas nacti
+INFO: Nacitam soubor C:\data\Hotel\IF-DATA\caracas.ftp
+2.11.2010 12:21:48 SOAP.Caracas kontroluj
+INFO: Caracas vstup - nastaveni buzeni. Linka: 105 datum:2010-11-02 12:22:00.000
+2.11.2010 12:21:48 SOAP.Caracas kontroluj
+INFO: Caracas vstup - nastaveni buzeni. Linka: 104 datum:2010-11-02 12:22:00.000
+2.11.2010 12:21:48 SOAP.Caracas kontroluj
+INFO: Caracas vstup - nastaveni buzeni. Linka: 103 datum:2010-11-02 12:22:00.000
+2.11.2010 12:21:48 SOAP.Caracas kontroluj
+INFO: Caracas vstup - nastaveni buzeni. Linka: 101 datum:2010-11-02 12:22:00.000
+2.11.2010 12:21:48 SOAP.Caracas kontroluj
+INFO: Caracas vstup - nastaveni buzeni. Linka: 105 datum:2010-11-02 12:25:00.000
+2.11.2010 12:21:48 SOAP.Caracas kontroluj
+INFO: Caracas vstup - nastaveni buzeni. Linka: 104 datum:2010-11-02 12:25:00.000
+2.11.2010 12:21:48 SOAP.Caracas kontroluj
+INFO: Caracas vstup - nastaveni buzeni. Linka: 103 datum:2010-11-02 12:25:00.000
+2.11.2010 12:21:48 SOAP.Caracas kontroluj
+INFO: Caracas vstup - nastaveni buzeni. Linka: 101 datum:2010-11-02 12:25:00.000
+2.11.2010 12:22:20 SOAP.Buzeni run
+INFO: Budim 105 volanim na 899
+2.11.2010 12:22:22 SOAP.Buzeni run
+INFO: Budim 104 volanim na 899
+2.11.2010 12:22:24 SOAP.Buzeni run
+INFO: Budim 103 volanim na 899
+2.11.2010 12:22:26 SOAP.Buzeni run
+INFO: Budim 101 volanim na 899
+2.11.2010 12:23:30 SOAP.LinkyHandler1 endDocument
+INFO: Buzeni: linka 105 uspesne vzbuzena
+2.11.2010 12:23:32 SOAP.LinkyHandler1 endDocument
+INFO: Buzeni: linka 104 uspesne vzbuzena
+2.11.2010 12:23:47 SOAP.LinkyHandler1 endDocument
+INFO: Buzeni: linka 103 uspesne vzbuzena
+2.11.2010 12:23:56 SOAP.LinkyHandler1 endDocument
+INFO: Buzeni: linku 101 se nepodarilo vzbudit, nastavuji novy termin o 3 pozdeji
+2.11.2010 12:25:22 SOAP.Buzeni run
+INFO: Budim 104 volanim na 899
+2.11.2010 12:25:24 SOAP.Buzeni run
+INFO: Budim 103 volanim na 899
+2.11.2010 12:25:26 SOAP.Buzeni run
+INFO: Budim 101 volanim na 899
+2.11.2010 12:25:56 SOAP.Buzeni run
+INFO: Budim 101 volanim na 899
+2.11.2010 12:26:39 SOAP.LinkyHandler1 endDocument
+INFO: Buzeni: linka 101 uspesne vzbuzena
+2.11.2010 12:26:42 SOAP.LinkyHandler1 endDocument
+INFO: Buzeni: linka 104 uspesne vzbuzena
+2.11.2010 12:26:44 SOAP.LinkyHandler1 endDocument
+INFO: Buzeni: linka 103 uspesne vzbuzena
+2.11.2010 12:27:05 SOAP.LinkyHandler1 endDocument
+INFO: Buzeni: linka 101 uspesne vzbuzena
+2.11.2010 12:31:15 SOAP.Menu$11 actionPerformed
+INFO: Ukoncuji Program
+2.11.2010 12:31:54 SOAP.Menu main
+INFO: Spusteni programu
+2.11.2010 12:31:54 SOAP.Menu main
+INFO: Spousteni po 10000 milisekundach
+2.11.2010 12:31:54 SOAP.Menu main
+INFO: Spusteni interface dle soap.properties
+2.11.2010 12:33:01 SOAP.Menu$11 actionPerformed
+INFO: Ukoncuji Program
+2.11.2010 12:33:04 SOAP.Menu main
+INFO: Spusteni programu
+2.11.2010 12:33:04 SOAP.Menu main
+INFO: Spousteni po 10000 milisekundach
+2.11.2010 12:33:04 SOAP.Menu main
+INFO: Spusteni interface dle soap.properties
+2.11.2010 12:33:28 SOAP.Buzeni run
+INFO: Budim 105 volanim na 899
+2.11.2010 12:34:59 SOAP.LinkyHandler1 endDocument
+INFO: Buzeni: linku 105 se nepodarilo vzbudit, nastavuji novy termin o 3 pozdeji
+2.11.2010 12:36:59 SOAP.Buzeni run
+INFO: Budim 105 volanim na 899
+2.11.2010 12:38:03 SOAP.LinkyHandler1 endDocument
+INFO: Buzeni: linka 105 uspesne vzbuzena
+2.11.2010 12:38:31 SOAP.Menu$11 actionPerformed
+INFO: Ukoncuji Program
+2.11.2010 12:39:36 SOAP.Menu main
+INFO: Spusteni programu
+2.11.2010 12:39:36 SOAP.Menu main
+INFO: Spousteni po 10000 milisekundach
+2.11.2010 12:39:36 SOAP.Menu main
+INFO: Spusteni interface dle soap.properties
+2.11.2010 12:40:06 SOAP.Caracas nacti
+INFO: Nacitam soubor C:\data\Hotel\IF-DATA\caracas.ftp
+2.11.2010 12:40:06 SOAP.Caracas kontroluj
+INFO: Caracas vstup - nastaveni buzeni. Linka: 105 datum:2010-11-02 12:40:00.000
+2.11.2010 12:40:06 SOAP.Caracas kontroluj
+INFO: Caracas vstup - nastaveni buzeni. Linka: 104 datum:2010-11-02 12:40:00.000
+2.11.2010 12:40:06 SOAP.Caracas kontroluj
+INFO: Caracas vstup - nastaveni buzeni. Linka: 103 datum:2010-11-02 12:40:00.000
+2.11.2010 12:40:06 SOAP.Caracas kontroluj
+INFO: Caracas vstup - nastaveni buzeni. Linka: 101 datum:2010-11-02 12:40:00.000
+2.11.2010 12:40:19 SOAP.Buzeni run
+INFO: Budim 105 volanim na 899
+2.11.2010 12:40:23 SOAP.Buzeni run
+INFO: Budim 104 volanim na 899
+2.11.2010 12:40:26 SOAP.Buzeni run
+INFO: Budim 103 volanim na 899
+2.11.2010 12:40:29 SOAP.Buzeni run
+INFO: Budim 101 volanim na 899
+2.11.2010 12:40:36 SOAP.Caracas nacti
+INFO: Nacitam soubor C:\data\Hotel\IF-DATA\caracas.ftp
+2.11.2010 12:40:36 SOAP.Caracas kontroluj
+INFO: Caracas vstup - nastaveni buzeni. Linka: 105 datum:2010-11-02 12:45:00.000
+2.11.2010 12:40:36 SOAP.Caracas kontroluj
+INFO: Caracas vstup - nastaveni buzeni. Linka: 104 datum:2010-11-02 12:45:00.000
+2.11.2010 12:40:36 SOAP.Caracas kontroluj
+INFO: Caracas vstup - nastaveni buzeni. Linka: 103 datum:2010-11-02 12:45:00.000
+2.11.2010 12:40:36 SOAP.Caracas kontroluj
+INFO: Caracas vstup - nastaveni buzeni. Linka: 101 datum:2010-11-02 12:45:00.000
+2.11.2010 12:41:34 SOAP.LinkyHandler1 endDocument
+INFO: Buzeni: linka 103 uspesne vzbuzena
+2.11.2010 12:41:35 SOAP.LinkyHandler1 endDocument
+INFO: Buzeni: linka 104 uspesne vzbuzena
+2.11.2010 12:41:37 SOAP.LinkyHandler1 endDocument
+INFO: Buzeni: linka 105 uspesne vzbuzena
+2.11.2010 12:41:42 SOAP.LinkyHandler1 endDocument
+INFO: Buzeni: linku 101 se nepodarilo vzbudit, nastavuji novy termin o 3 pozdeji
+2.11.2010 12:43:42 SOAP.Buzeni run
+INFO: Budim 101 volanim na 899
+2.11.2010 12:44:53 SOAP.LinkyHandler1 endDocument
+INFO: Buzeni: linka 101 uspesne vzbuzena
+2.11.2010 12:45:09 SOAP.Buzeni run
+INFO: Budim 105 volanim na 899
+2.11.2010 12:45:13 SOAP.Buzeni run
+INFO: Budim 104 volanim na 899
+2.11.2010 12:45:16 SOAP.Buzeni run
+INFO: Budim 103 volanim na 899
+2.11.2010 12:45:19 SOAP.Buzeni run
+INFO: Budim 101 volanim na 899
+2.11.2010 12:46:23 SOAP.LinkyHandler1 endDocument
+INFO: Buzeni: linka 105 uspesne vzbuzena
+2.11.2010 12:46:25 SOAP.LinkyHandler1 endDocument
+INFO: Buzeni: linka 104 uspesne vzbuzena
+2.11.2010 12:46:27 SOAP.LinkyHandler1 endDocument
+INFO: Buzeni: linka 103 uspesne vzbuzena
+2.11.2010 12:46:31 SOAP.LinkyHandler1 endDocument
+INFO: Buzeni: linka 101 uspesne vzbuzena
+2.11.2010 12:48:29 SOAP.Menu$11 actionPerformed
+INFO: Ukoncuji Program
+2.11.2010 12:52:10 SOAP.Menu main
+INFO: Spusteni programu
+2.11.2010 12:52:10 SOAP.Menu main
+INFO: Spousteni po 10000 milisekundach
+2.11.2010 12:52:10 SOAP.Menu main
+INFO: Spusteni interface dle soap.properties
+2.11.2010 12:52:20 SOAP.Caracas nacti
+INFO: Nacitam soubor C:\data\Hotel\IF-DATA\caracas.ftp
+2.11.2010 12:52:20 SOAP.Caracas kontroluj
+INFO: Caracas vstup - nastaveni buzeni. Linka: 105 datum:2010-11-02 12:52:00.000
+2.11.2010 12:52:20 SOAP.Caracas kontroluj
+INFO: Caracas vstup - nastaveni buzeni. Linka: 104 datum:2010-11-02 12:52:00.000
+2.11.2010 12:52:20 SOAP.Caracas kontroluj
+INFO: Caracas vstup - nastaveni buzeni. Linka: 103 datum:2010-11-02 12:52:00.000
+2.11.2010 12:52:20 SOAP.Caracas kontroluj
+INFO: Caracas vstup - nastaveni buzeni. Linka: 101 datum:2010-11-02 12:52:00.000
+2.11.2010 12:52:34 SOAP.Buzeni run
+INFO: Budim 105 volanim na 899
+2.11.2010 12:52:37 SOAP.Buzeni run
+INFO: Budim 104 volanim na 899
+2.11.2010 12:52:40 SOAP.Buzeni run
+INFO: Budim 103 volanim na 899
+2.11.2010 12:52:44 SOAP.Buzeni run
+INFO: Budim 101 volanim na 899
+2.11.2010 12:53:51 SOAP.LinkyHandler1 endDocument
+INFO: Buzeni: linka 103 uspesne vzbuzena
+2.11.2010 12:53:52 SOAP.LinkyHandler1 endDocument
+INFO: Buzeni: linka 104 uspesne vzbuzena
+2.11.2010 12:53:53 SOAP.LinkyHandler1 endDocument
+INFO: Buzeni: linka 105 uspesne vzbuzena
+2.11.2010 12:54:14 SOAP.LinkyHandler1 endDocument
+INFO: Buzeni: linku 101 se nepodarilo vzbudit, nastavuji novy termin o 3 pozdeji
+2.11.2010 12:56:14 SOAP.Buzeni run
+INFO: Budim 101 volanim na 899
+2.11.2010 12:56:50 SOAP.Caracas nacti
+INFO: Nacitam soubor C:\data\Hotel\IF-DATA\caracas.ftp
+2.11.2010 12:56:50 SOAP.Caracas kontroluj
+INFO: Caracas vstup - nastaveni buzeni. Linka: 105 datum:2010-11-02 12:59:00.000
+2.11.2010 12:57:20 SOAP.LinkyHandler1 endDocument
+INFO: Buzeni: linka 101 uspesne vzbuzena
+2.11.2010 12:57:29 SOAP.Menu$11 actionPerformed
+INFO: Ukoncuji Program
+2.11.2010 12:57:43 SOAP.Menu main
+INFO: Spusteni programu
+2.11.2010 12:57:44 SOAP.Menu main
+INFO: Spousteni po 10000 milisekundach
+2.11.2010 12:57:44 SOAP.Menu main
+INFO: Spusteni interface dle soap.properties
+2.11.2010 12:58:14 SOAP.Caracas nacti
+INFO: Nacitam soubor C:\data\Hotel\IF-DATA\caracas.ftp
+2.11.2010 12:58:14 SOAP.Caracas kontroluj
+INFO: Caracas vstup - uzavri linku: 105
+2.11.2010 12:58:14 SOAP.Caracas kontroluj
+INFO: Caracas vstup - otevri linku: 105
+2.11.2010 12:58:24 SOAP.NactiVstup delej
+INFO: Linka: Opravneni Linky 105 nastaveno na INT
+2.11.2010 12:58:24 SOAP.NactiVstup delej
+INFO: Linka: Opravneni Linky 105 nastaveno na MZN
+2.11.2010 12:58:54 SOAP.Caracas nacti
+INFO: Nacitam soubor C:\data\Hotel\IF-DATA\caracas.ftp
+2.11.2010 12:58:54 SOAP.Caracas kontroluj
+INFO: Caracas vstup - uzavri linku: 105
+2.11.2010 12:59:07 SOAP.NactiVstup delej
+INFO: Linka: Opravneni Linky 105 nastaveno na INT
+2.11.2010 12:59:07 SOAP.Buzeni run
+INFO: Budim 105 volanim na 899
+2.11.2010 12:59:34 SOAP.Caracas nacti
+INFO: Nacitam soubor C:\data\Hotel\IF-DATA\caracas.ftp
+2.11.2010 12:59:34 SOAP.Caracas kontroluj
+INFO: Caracas vstup - otevri linku: 105
+2.11.2010 12:59:44 SOAP.NactiVstup delej
+INFO: Linka: Opravneni Linky 105 nastaveno na MZN
+2.11.2010 13:00:37 SOAP.LinkyHandler1 endDocument
+INFO: Buzeni: linku 105 se nepodarilo vzbudit, nastavuji novy termin o 3 pozdeji
+2.11.2010 13:01:54 SOAP.Caracas nacti
+INFO: Nacitam soubor C:\data\Hotel\IF-DATA\caracas.ftp
+2.11.2010 13:01:54 SOAP.Caracas kontroluj
+INFO: Caracas vstup - uzavri linku: 105
+2.11.2010 13:02:04 SOAP.NactiVstup delej
+INFO: Linka: Opravneni Linky 105 nastaveno na INT
+2.11.2010 13:02:34 SOAP.Caracas nacti
+INFO: Nacitam soubor C:\data\Hotel\IF-DATA\caracas.ftp
+2.11.2010 13:02:34 SOAP.Caracas kontroluj
+INFO: Caracas vstup - otevri linku: 105
+2.11.2010 13:02:44 SOAP.NactiVstup delej
+INFO: Linka: Opravneni Linky 105 nastaveno na MZN
+2.11.2010 13:37:37 SOAP.Menu$11 actionPerformed
+INFO: Ukoncuji Program
+2.11.2010 13:38:25 SOAP.Menu main
+INFO: Spusteni programu
+2.11.2010 13:38:25 SOAP.Menu main
+INFO: Spousteni po 10000 milisekundach
+2.11.2010 13:38:25 SOAP.Menu main
+INFO: Spusteni interface dle soap.properties
+2.11.2010 13:39:14 SOAP.Menu$11 actionPerformed
+INFO: Ukoncuji Program
+2.11.2010 14:07:10 SOAP.Menu main
+INFO: Spusteni programu
+2.11.2010 14:07:10 SOAP.Menu main
+INFO: Spousteni po 10000 milisekundach
+2.11.2010 14:07:10 SOAP.Menu main
+INFO: Spusteni interface dle soap.properties
+2.11.2010 14:07:20 SOAP.Caracas nacti
+INFO: Nacitam soubor C:\data\Hotel\IF-DATA\caracas.ftp
+2.11.2010 14:38:01 SOAP.Menu$11 actionPerformed
+INFO: Ukoncuji Program
+2.11.2010 14:38:32 SOAP.Menu main
+INFO: Spusteni programu
+2.11.2010 14:38:32 SOAP.Menu main
+INFO: Spousteni po 10000 milisekundach
+2.11.2010 14:38:32 SOAP.Menu main
+INFO: Spusteni interface dle soap.properties
+2.11.2010 15:13:11 SOAP.Menu$10 actionPerformed
+INFO: Automat zastaven rucne
+2.11.2010 15:36:35 SOAP.Menu$10 actionPerformed
+INFO: Automat zastaven rucne
+2.11.2010 15:38:22 SOAP.Menu$11 actionPerformed
+INFO: Ukoncuji Program
+2.11.2010 15:55:16 SOAP.Menu main
+INFO: Spusteni programu
+2.11.2010 15:55:18 SOAP.Menu main
+INFO: Spousteni po 10000 milisekundach
+2.11.2010 15:55:18 SOAP.Menu main
+INFO: Spusteni interface dle soap.properties
+2.11.2010 15:55:21 SOAP.Menu$10 actionPerformed
+INFO: Automat zastaven rucne
+2.11.2010 15:56:25 SOAP.Menu$11 actionPerformed
+INFO: Ukoncuji Program
+2.11.2010 15:56:27 SOAP.Menu main
+INFO: Spusteni programu
+2.11.2010 15:56:27 SOAP.Menu main
+INFO: Spousteni po 10000 milisekundach
+2.11.2010 15:56:27 SOAP.Menu main
+INFO: Spusteni interface dle soap.properties
+2.11.2010 16:16:09 SOAP.Menu$11 actionPerformed
+INFO: Ukoncuji Program
+2.11.2010 16:16:12 SOAP.Menu main
+INFO: Spusteni programu
+2.11.2010 16:16:12 SOAP.Menu main
+INFO: Spousteni po 10000 milisekundach
+2.11.2010 16:16:12 SOAP.Menu main
+INFO: Spusteni interface dle soap.properties
+2.11.2010 16:17:02 SOAP.Menu$11 actionPerformed
+INFO: Ukoncuji Program
+2.11.2010 16:17:04 SOAP.Menu main
+INFO: Spusteni programu
+2.11.2010 16:17:05 SOAP.Menu main
+INFO: Spousteni po 10000 milisekundach
+2.11.2010 16:17:05 SOAP.Menu main
+INFO: Spusteni interface dle soap.properties
+2.11.2010 16:27:26 SOAP.Menu$11 actionPerformed
+INFO: Ukoncuji Program
+2.11.2010 16:27:29 SOAP.Menu main
+INFO: Spusteni programu
+2.11.2010 16:27:40 SOAP.Menu main
+SEVERE: Soubor serial.ser s licencnim cislem neexistuje, ukoncuji program
+2.11.2010 16:29:32 SOAP.Menu main
+INFO: Spusteni programu
+2.11.2010 16:30:51 SOAP.Menu main
+SEVERE: Soubor serial.ser s licencnim cislem neexistuje, ukoncuji program
+2.11.2010 16:38:15 SOAP.Menu main
+INFO: Spusteni programu
+2.11.2010 16:38:15 SOAP.Menu main
+INFO: Spousteni po 10000 milisekundach
+2.11.2010 16:38:15 SOAP.Menu main
+INFO: Spusteni interface dle soap.properties
+2.11.2010 16:38:32 SOAP.Menu$11 actionPerformed
+INFO: Ukoncuji Program
+2.11.2010 16:46:39 SOAP.Menu main
+INFO: Spusteni programu
+2.11.2010 16:46:39 SOAP.Menu main
+SEVERE: klic se neshoduje
+2.11.2010 16:47:24 SOAP.Menu main
+INFO: Spusteni programu
+2.11.2010 16:47:24 SOAP.Menu main
+SEVERE: klic se neshoduje
+2.11.2010 16:48:44 SOAP.Menu main
+INFO: Spusteni programu
+2.11.2010 16:48:44 SOAP.Menu main
+SEVERE: klic se neshoduje
+2.11.2010 16:48:47 SOAP.Menu main
+INFO: Spusteni programu
+2.11.2010 16:48:47 SOAP.Menu main
+SEVERE: klic se neshoduje
+2.11.2010 16:48:50 SOAP.Menu main
+INFO: Spusteni programu
+2.11.2010 16:48:50 SOAP.Menu main
+SEVERE: klic se neshoduje
+2.11.2010 16:48:52 SOAP.Menu main
+INFO: Spusteni programu
+2.11.2010 16:48:52 SOAP.Menu main
+SEVERE: klic se neshoduje
+2.11.2010 16:50:14 SOAP.Menu main
+INFO: Spusteni programu
+2.11.2010 16:50:14 SOAP.Menu main
+SEVERE: klic se neshoduje
+2.11.2010 16:58:44 SOAP.Menu main
+INFO: Spusteni programu
+2.11.2010 17:01:20 SOAP.Menu main
+INFO: Spusteni programu
+2.11.2010 17:01:24 SOAP.Menu main
+INFO: Spousteni po 10000 milisekundach
+2.11.2010 17:01:24 SOAP.Menu main
+INFO: Spusteni interface dle soap.properties
+2.11.2010 17:01:50 SOAP.Menu$11 actionPerformed
+INFO: Ukoncuji Program
+2.11.2010 17:01:52 SOAP.Menu main
+INFO: Spusteni programu
+2.11.2010 17:01:53 SOAP.Menu main
+INFO: Spousteni po 10000 milisekundach
+2.11.2010 17:01:53 SOAP.Menu main
+INFO: Spusteni interface dle soap.properties
+2.11.2010 17:01:54 SOAP.Menu$11 actionPerformed
+INFO: Ukoncuji Program
+2.11.2010 17:04:47 SOAP.Menu main
+INFO: Spusteni programu
+2.11.2010 17:04:47 SOAP.Menu main
+INFO: Spousteni po 10000 milisekundach
+2.11.2010 17:04:47 SOAP.Menu main
+INFO: Spusteni interface dle soap.properties
+2.11.2010 17:05:19 SOAP.Menu$11 actionPerformed
+INFO: Ukoncuji Program
+2.11.2010 17:05:23 SOAP.Menu main
+INFO: Spusteni programu
+2.11.2010 17:05:23 SOAP.Menu main
+INFO: Spousteni po 10000 milisekundach
+2.11.2010 17:05:23 SOAP.Menu main
+INFO: Spusteni interface dle soap.properties
+2.11.2010 17:06:13 SOAP.Caracas nacti
+INFO: Nacitam soubor C:\data\Hotel\IF-DATA\caracas.ftp
+2.11.2010 17:06:13 SOAP.Caracas kontroluj
+INFO: Caracas vstup - nastaveni buzeni. Linka: 105 datum:2010-11-02 17:06:00.000
+2.11.2010 17:06:13 SOAP.Caracas kontroluj
+INFO: Caracas vstup - nastaveni buzeni. Linka: 104 datum:2010-11-02 17:06:00.000
+2.11.2010 17:06:13 SOAP.Caracas kontroluj
+INFO: Caracas vstup - nastaveni buzeni. Linka: 103 datum:2010-11-02 17:06:00.000
+2.11.2010 17:06:13 SOAP.Caracas kontroluj
+INFO: Caracas vstup - nastaveni buzeni. Linka: 101 datum:2010-11-02 17:06:00.000
+2.11.2010 17:06:26 SOAP.Buzeni run
+INFO: Budim 105 volanim na 899
+2.11.2010 17:06:30 SOAP.Buzeni run
+INFO: Budim 104 volanim na 899
+2.11.2010 17:06:33 SOAP.Buzeni run
+INFO: Budim 103 volanim na 899
+2.11.2010 17:06:36 SOAP.Buzeni run
+INFO: Budim 101 volanim na 899
+2.11.2010 17:07:42 SOAP.LinkyHandler1 endDocument
+INFO: Buzeni: linka 101 uspesne vzbuzena
+2.11.2010 17:07:45 SOAP.LinkyHandler1 endDocument
+INFO: Buzeni: linka 105 uspesne vzbuzena
+2.11.2010 17:07:46 SOAP.LinkyHandler1 endDocument
+INFO: Buzeni: linka 104 uspesne vzbuzena
+2.11.2010 17:08:03 SOAP.LinkyHandler1 endDocument
+INFO: Buzeni: linku 103 se nepodarilo vzbudit, nastavuji novy termin o 3 pozdeji
+2.11.2010 17:10:03 SOAP.Buzeni run
+INFO: Budim 103 volanim na 899
+2.11.2010 17:11:33 SOAP.LinkyHandler1 endDocument
+INFO: Buzeni: linku 103 se nepodarilo vzbudit, nastavuji novy termin o 3 pozdeji
+2.11.2010 17:13:33 SOAP.Buzeni run
+INFO: Budim 103 volanim na 899
+2.11.2010 17:15:04 SOAP.LinkyHandler1 endDocument
+INFO: Buzeni: linku 103 se nepodarilo vzbudit, nastavuji novy termin o 3 pozdeji
+2.11.2010 17:17:04 SOAP.Buzeni run
+INFO: Budim 103 volanim na 899
+2.11.2010 17:18:34 SOAP.LinkyHandler1 endDocument
+INFO: Buzeni: linku 103 se nepodarilo vzbudit, nastavuji novy termin o 3 pozdeji
+2.11.2010 17:19:13 SOAP.NactiVstup delej
+INFO: Buzeni: Ukoncuji buzeni na lince103, ktere jiz vice jak 12 minut proslo179
+4.11.2010 16:05:39 SOAP.LinkyHandler endElement
+INFO: Tarifikace: linka 101 cil 602654814 datum 2010-11-04 16:04:34 delka10
+4.11.2010 16:11:08 SOAP.Caracas nacti
+INFO: Nacitam soubor C:\data\Hotel\IF-DATA\caracas.ftp
+4.11.2010 16:11:08 SOAP.Caracas kontroluj
+INFO: Caracas vstup - otevri linku: 103
+4.11.2010 16:11:18 SOAP.NactiVstup delej
+INFO: Linka: Opravneni Linky 103 nastaveno na MZN
+4.11.2010 16:12:08 SOAP.Caracas nacti
+INFO: Nacitam soubor C:\data\Hotel\IF-DATA\caracas.ftp
+4.11.2010 17:11:49 SOAP.Menu$11 actionPerformed
+INFO: Ukoncuji Program
+4.11.2010 17:12:02 SOAP.Menu main
+INFO: Spusteni programu
+4.11.2010 17:12:03 SOAP.Menu main
+INFO: Spousteni po 10000 milisekundach
+4.11.2010 17:12:03 SOAP.Menu main
+INFO: Spusteni interface dle soap.properties
+4.11.2010 17:13:23 SOAP.LinkyHandler endElement
+INFO: Tarifikace: linka 101 cil 602654814 datum 2010-11-04 17:12:09 delka16
+4.11.2010 17:22:18 SOAP.LinkyHandler endElement
+INFO: Tarifikace: linka 101 cil 602654814 datum 2010-11-04 16:04:34 delka10
+4.11.2010 17:22:18 SOAP.LinkyHandler endElement
+INFO: Tarifikace: linka 101 cil 602654814 datum 2010-11-04 17:12:09 delka16
+4.11.2010 17:26:55 SOAP.Menu$11 actionPerformed
+INFO: Ukoncuji Program
+4.11.2010 17:35:31 SOAP.Menu main
+INFO: Spusteni programu
+4.11.2010 17:35:32 SOAP.Menu main
+INFO: Spousteni po 10000 milisekundach
+4.11.2010 17:35:32 SOAP.Menu main
+INFO: Spusteni interface dle soap.properties
+4.11.2010 17:36:21 SOAP.LinkyHandler endElement
+INFO: Tarifikace: linka 101 cil 602654814 datum 2010-11-04 16:04:34 delka10
+4.11.2010 17:36:21 SOAP.LinkyHandler endElement
+INFO: Tarifikace: linka 101 cil 602654814 datum 2010-11-04 17:12:09 delka16
+4.11.2010 17:38:03 SOAP.Menu$11 actionPerformed
+INFO: Ukoncuji Program
+4.11.2010 17:38:19 SOAP.Menu main
+INFO: Spusteni programu
+4.11.2010 17:38:20 SOAP.Menu main
+INFO: Spousteni po 10000 milisekundach
+4.11.2010 17:38:20 SOAP.Menu main
+INFO: Spusteni interface dle soap.properties
+4.11.2010 17:38:46 SOAP.LinkyHandler endElement
+INFO: Tarifikace: linka 101 cil 602654814 datum 2010-11-04 16:04:34 delka10
+4.11.2010 17:38:46 SOAP.LinkyHandler endElement
+INFO: Tarifikace: linka 101 cil 602654814 datum 2010-11-04 17:12:09 delka16
+4.11.2010 17:41:26 SOAP.Menu$11 actionPerformed
+INFO: Ukoncuji Program
+4.11.2010 17:42:08 SOAP.Menu main
+INFO: Spusteni programu
+4.11.2010 17:42:08 SOAP.Menu main
+INFO: Spousteni po 10000 milisekundach
+4.11.2010 17:42:08 SOAP.Menu main
+INFO: Spusteni interface dle soap.properties
+4.11.2010 17:44:24 SOAP.LinkyHandler endElement
+INFO: Tarifikace: linka 101 cil 602654814 datum 2010-11-04 16:04:34 delka10
+4.11.2010 17:44:24 SOAP.LinkyHandler endElement
+INFO: Tarifikace: linka 101 cil 602654814 datum 2010-11-04 17:12:09 delka16
+4.11.2010 17:53:03 SOAP.Menu$11 actionPerformed
+INFO: Ukoncuji Program
+4.11.2010 17:53:10 SOAP.Menu main
+INFO: Spusteni programu
+4.11.2010 17:53:10 SOAP.Menu main
+INFO: Spousteni po 10000 milisekundach
+4.11.2010 17:53:10 SOAP.Menu main
+INFO: Spusteni interface dle soap.properties
+4.11.2010 17:54:19 SOAP.LinkyHandler endElement
+INFO: Tarifikace: linka 101 cil 602654814 datum 2010-11-04 16:04:34 delka10
+4.11.2010 17:54:19 SOAP.LinkyHandler endElement
+INFO: Tarifikace: linka 101 cil 602654814 datum 2010-11-04 17:12:09 delka16
+4.11.2010 17:58:51 SOAP.LinkyHandler endElement
+INFO: Tarifikace: linka 101 cil 602654814 datum 2010-11-04 16:04:34 delka10
+4.11.2010 17:58:51 SOAP.LinkyHandler endElement
+INFO: Tarifikace: linka 101 cil 602654814 datum 2010-11-04 17:12:09 delka16
+4.11.2010 18:01:49 SOAP.Menu$11 actionPerformed
+INFO: Ukoncuji Program
+4.11.2010 18:01:58 SOAP.Menu main
+INFO: Spusteni programu
+4.11.2010 18:01:58 SOAP.Menu main
+INFO: Spousteni po 10000 milisekundach
+4.11.2010 18:01:58 SOAP.Menu main
+INFO: Spusteni interface dle soap.properties
+4.11.2010 18:02:30 SOAP.LinkyHandler endElement
+INFO: Tarifikace: linka 101 cil 602654814 datum 2010-11-04 16:04:34 delka10
+4.11.2010 18:02:30 SOAP.LinkyHandler endElement
+INFO: Tarifikace: linka 101 cil 602654814 datum 2010-11-04 17:12:09 delka16
+4.11.2010 18:08:38 SOAP.Menu$11 actionPerformed
+INFO: Ukoncuji Program
+4.11.2010 18:08:52 SOAP.Menu main
+INFO: Spusteni programu
+4.11.2010 18:08:52 SOAP.Menu main
+INFO: Spousteni po 10000 milisekundach
+4.11.2010 18:08:52 SOAP.Menu main
+INFO: Spusteni interface dle soap.properties
+4.11.2010 18:09:24 SOAP.LinkyHandler endElement
+INFO: Tarifikace: linka 101 cil 602654814 datum 2010-11-04 16:04:34 delka10
+4.11.2010 18:09:24 SOAP.LinkyHandler endElement
+INFO: Tarifikace: linka 101 cil 602654814 datum 2010-11-04 17:12:09 delka16
+4.11.2010 18:49:01 SOAP.LinkyHandler endElement
+INFO: Tarifikace: linka 101 cil 602654814 datum 2010-11-04 16:04:34 delka10
+4.11.2010 18:49:01 SOAP.LinkyHandler endElement
+INFO: Tarifikace: linka 101 cil 602654814 datum 2010-11-04 17:12:09 delka16
+5.11.2010 10:16:32 SOAP.LinkyHandler endElement
+INFO: Tarifikace: linka 101 cil 602654814 datum 2010-11-04 16:04:34 delka10
+5.11.2010 10:16:32 SOAP.LinkyHandler endElement
+INFO: Tarifikace: linka 101 cil 602654814 datum 2010-11-04 17:12:09 delka16
+9.11.2010 9:17:14 SOAP.Caracas nacti
+INFO: Nacitam soubor C:\data\Hotel\IF-DATA\caracas.ftp
+9.11.2010 9:17:14 SOAP.Caracas kontroluj
+INFO: Caracas vstup - uzavri linku: 101
+9.11.2010 9:17:24 SOAP.NactiVstup delej
+INFO: Linka: Opravneni Linky 101 nastaveno na INT
+9.11.2010 9:28:54 SOAP.Caracas nacti
+INFO: Nacitam soubor C:\data\Hotel\IF-DATA\caracas.ftp
+9.11.2010 9:28:54 SOAP.Caracas kontroluj
+INFO: Caracas vstup - uzavri linku: 103
+9.11.2010 9:28:54 SOAP.Caracas kontroluj
+INFO: Caracas vstup - uzavri linku: 104
+9.11.2010 9:28:54 SOAP.Caracas kontroluj
+INFO: Caracas vstup - uzavri linku: 105
+9.11.2010 9:29:04 SOAP.NactiVstup delej
+INFO: Linka: Opravneni Linky 103 nastaveno na INT
+9.11.2010 9:29:04 SOAP.NactiVstup delej
+INFO: Linka: Opravneni Linky 104 nastaveno na INT
+9.11.2010 9:29:04 SOAP.NactiVstup delej
+INFO: Linka: Opravneni Linky 105 nastaveno na INT
+9.11.2010 9:46:24 SOAP.DB dbConnect
+SEVERE: Nepodarilo se napojit do databaze
+9.11.2010 9:46:24 SOAP.DB dbConnect
+SEVERE: Nepodarilo se napojit do databaze
+9.11.2010 9:46:44 SOAP.DB dbConnect
+SEVERE: Nepodarilo se napojit do databaze
+9.11.2010 9:46:44 SOAP.DB dbConnect
+SEVERE: Nepodarilo se napojit do databaze
+9.11.2010 9:47:04 SOAP.DB dbConnect
+SEVERE: Nepodarilo se napojit do databaze
+9.11.2010 9:47:04 SOAP.DB dbConnect
+SEVERE: Nepodarilo se napojit do databaze
+9.11.2010 9:47:28 SOAP.Menu$11 actionPerformed
+INFO: Ukoncuji Program
+9.11.2010 9:47:46 SOAP.Menu main
+INFO: Spusteni programu
+9.11.2010 9:59:11 SOAP.Menu main
+INFO: Spusteni programu
+9.11.2010 9:59:12 SOAP.Menu main
+INFO: Spousteni po 10000 milisekundach
+9.11.2010 9:59:12 SOAP.Menu main
+INFO: Spusteni interface dle soap.properties
+9.11.2010 9:59:19 SOAP.Menu$10 actionPerformed
+INFO: Automat zastaven rucne
+9.11.2010 10:12:37 SOAP.IniciaceDB <init>
+INFO: Iniciace Databaze - Maze linky a detaily linky
+9.11.2010 10:12:37 SOAP.IniciaceDB spust
+INFO: Iniciace DB - zaplneni tabulky linky z ustredny
+9.11.2010 10:13:05 SOAP.IniciaceDB <init>
+INFO: Iniciace Databaze - Maze linky a detaily linky
+9.11.2010 10:13:05 SOAP.IniciaceDB spust
+INFO: Iniciace DB - zaplneni tabulky linky z ustredny
+9.11.2010 10:16:27 SOAP.Menu$11 actionPerformed
+INFO: Ukoncuji Program
+9.11.2010 10:17:31 SOAP.Menu main
+INFO: Spusteni programu
+9.11.2010 10:17:31 SOAP.Menu main
+INFO: Spousteni po 10000 milisekundach
+9.11.2010 10:17:31 SOAP.Menu main
+INFO: Spusteni interface dle soap.properties
+9.11.2010 10:19:01 SOAP.Caracas nacti
+INFO: Nacitam soubor C:\data\Hotel\IF-DATA\caracas.ftp
+9.11.2010 10:19:01 SOAP.Caracas kontroluj
+INFO: Caracas vstup - otevri linku: 101
+9.11.2010 10:19:11 SOAP.NactiVstup delej
+INFO: Linka: Opravneni Linky 101 nastaveno na MZN
+9.11.2010 10:20:01 SOAP.Caracas nacti
+INFO: Nacitam soubor C:\data\Hotel\IF-DATA\caracas.ftp
+9.11.2010 10:20:01 SOAP.Caracas kontroluj
+INFO: Caracas vstup - otevri linku: 103
+9.11.2010 10:20:11 SOAP.NactiVstup delej
+INFO: Linka: Opravneni Linky 103 nastaveno na MZN
+9.11.2010 10:21:01 SOAP.Caracas nacti
+INFO: Nacitam soubor C:\data\Hotel\IF-DATA\caracas.ftp
+9.11.2010 10:21:01 SOAP.Caracas kontroluj
+INFO: Caracas vstup - otevri linku: 104
+9.11.2010 10:21:11 SOAP.NactiVstup delej
+INFO: Linka: Opravneni Linky 104 nastaveno na MZN
+9.11.2010 10:21:21 SOAP.Caracas nacti
+INFO: Nacitam soubor C:\data\Hotel\IF-DATA\caracas.ftp
+9.11.2010 10:21:21 SOAP.Caracas kontroluj
+INFO: Caracas vstup - otevri linku: 105
+9.11.2010 10:21:31 SOAP.NactiVstup delej
+INFO: Linka: Opravneni Linky 105 nastaveno na MZN
+9.11.2010 14:07:13 SOAP.LinkyHandler endElement
+INFO: Tarifikace: linka 105 cil 602654814 datum 2010-11-09 14:06:04 delka0
+9.11.2010 14:24:13 SOAP.LinkyHandler endElement
+INFO: Tarifikace: linka 103 cil 222745981 datum 2010-11-09 14:23:00 delka24
+9.11.2010 14:25:13 SOAP.LinkyHandler endElement
+INFO: Tarifikace: linka 104 cil 222745981 datum 2010-11-09 14:23:40 delka33
+9.11.2010 14:29:53 SOAP.LinkyHandler endElement
+INFO: Tarifikace: linka 105 cil 222745981 datum 2010-11-09 14:24:28 delka274
+9.11.2010 14:32:13 SOAP.LinkyHandler endElement
+INFO: Tarifikace: linka 101 cil 222745881 datum 2010-11-09 14:31:23 delka1
+9.11.2010 14:32:53 SOAP.LinkyHandler endElement
+INFO: Tarifikace: linka 101 cil 222745981 datum 2010-11-09 14:31:39 delka18
+9.11.2010 14:35:53 SOAP.LinkyHandler endElement
+INFO: Tarifikace: linka 101 cil 222745981 datum 2010-11-09 14:34:40 delka20
+9.11.2010 14:42:43 SOAP.Caracas nacti
+INFO: Nacitam soubor C:\data\Hotel\IF-DATA\caracas.ftp
+9.11.2010 14:42:43 SOAP.Caracas kontroluj
+INFO: Caracas vstup - nastaveni buzeni. Linka: 105 datum:2010-11-09 14:47:00.000
+9.11.2010 14:42:43 SOAP.Caracas kontroluj
+INFO: Caracas vstup - nastaveni buzeni. Linka: 104 datum:2010-11-09 14:47:00.000
+9.11.2010 14:42:43 SOAP.Caracas kontroluj
+INFO: Caracas vstup - nastaveni buzeni. Linka: 103 datum:2010-11-09 14:47:00.000
+9.11.2010 14:42:43 SOAP.Caracas kontroluj
+INFO: Caracas vstup - nastaveni buzeni. Linka: 101 datum:2010-11-09 14:47:00.000
+9.11.2010 14:47:16 SOAP.Buzeni run
+INFO: Budim 105 volanim na 899
+9.11.2010 14:47:20 SOAP.Buzeni run
+INFO: Budim 104 volanim na 899
+9.11.2010 14:47:23 SOAP.Buzeni run
+INFO: Budim 103 volanim na 899
+9.11.2010 14:47:26 SOAP.Buzeni run
+INFO: Budim 101 volanim na 899
+9.11.2010 14:48:30 SOAP.LinkyHandler1 endDocument
+INFO: Buzeni: linka 101 uspesne vzbuzena
+9.11.2010 14:48:33 SOAP.Caracas nacti
+INFO: Nacitam soubor C:\data\Hotel\IF-DATA\caracas.ftp
+9.11.2010 14:48:33 SOAP.Caracas kontroluj
+INFO: Caracas vstup - uzavri linku: 101
+9.11.2010 14:48:33 SOAP.Caracas kontroluj
+INFO: Caracas vstup - uzavri linku: 103
+9.11.2010 14:48:33 SOAP.Caracas kontroluj
+INFO: Caracas vstup - uzavri linku: 104
+9.11.2010 14:48:43 SOAP.NactiVstup delej
+INFO: Linka: Opravneni Linky 101 nastaveno na INT
+9.11.2010 14:48:43 SOAP.NactiVstup delej
+INFO: Linka: Opravneni Linky 103 nastaveno na INT
+9.11.2010 14:48:43 SOAP.NactiVstup delej
+INFO: Linka: Opravneni Linky 104 nastaveno na INT
+9.11.2010 14:48:47 SOAP.LinkyHandler1 endDocument
+INFO: Buzeni: linku 105 se nepodarilo vzbudit, nastavuji novy termin o 3 pozdeji
+9.11.2010 14:48:50 SOAP.LinkyHandler1 endDocument
+INFO: Buzeni: linku 104 se nepodarilo vzbudit, nastavuji novy termin o 3 pozdeji
+9.11.2010 14:48:53 SOAP.Caracas nacti
+INFO: Nacitam soubor C:\data\Hotel\IF-DATA\caracas.ftp
+9.11.2010 14:48:53 SOAP.Caracas kontroluj
+INFO: Caracas vstup - uzavri linku: 105
+9.11.2010 14:48:53 SOAP.LinkyHandler1 endDocument
+INFO: Buzeni: linku 103 se nepodarilo vzbudit, nastavuji novy termin o 3 pozdeji
+9.11.2010 14:49:03 SOAP.NactiVstup delej
+INFO: Linka: Opravneni Linky 105 nastaveno na INT
+9.11.2010 14:49:23 SOAP.LinkyHandler endElement
+INFO: Tarifikace: linka 104 cil 222745981 datum 2010-11-09 14:48:24 delka0
+9.11.2010 14:50:03 SOAP.LinkyHandler endElement
+INFO: Tarifikace: linka 104 cil 222745981 datum 2010-11-09 14:49:04 delka0
+9.11.2010 14:50:23 SOAP.LinkyHandler endElement
+INFO: Tarifikace: linka 104 cil 608654814 datum 2010-11-09 14:49:22 delka0
+9.11.2010 14:50:23 SOAP.LinkyHandler endElement
+INFO: Tarifikace: linka 104 cil 606654814 datum 2010-11-09 14:49:37 delka0
+9.11.2010 14:50:47 SOAP.Buzeni run
+INFO: Budim 105 volanim na 899
+9.11.2010 14:50:50 SOAP.Buzeni run
+INFO: Budim 104 volanim na 899
+9.11.2010 14:50:53 SOAP.Buzeni run
+INFO: Budim 103 volanim na 899
+9.11.2010 14:52:17 SOAP.LinkyHandler1 endDocument
+INFO: Buzeni: linku 105 se nepodarilo vzbudit, nastavuji novy termin o 3 pozdeji
+9.11.2010 14:52:20 SOAP.LinkyHandler1 endDocument
+INFO: Buzeni: linku 104 se nepodarilo vzbudit, nastavuji novy termin o 3 pozdeji
+9.11.2010 14:52:23 SOAP.LinkyHandler endElement
+INFO: Tarifikace: linka 105 cil 602654814 datum 2010-11-09 14:51:18 delka0
+9.11.2010 14:52:24 SOAP.LinkyHandler1 endDocument
+INFO: Buzeni: linku 103 se nepodarilo vzbudit, nastavuji novy termin o 3 pozdeji
+9.11.2010 14:54:03 SOAP.LinkyHandler endElement
+INFO: Tarifikace: linka 105 cil 602654814 datum 2010-11-09 14:53:09 delka0
+9.11.2010 14:54:17 SOAP.Buzeni run
+INFO: Budim 105 volanim na 899
+9.11.2010 14:54:20 SOAP.Buzeni run
+INFO: Budim 104 volanim na 899
+9.11.2010 14:54:24 SOAP.Buzeni run
+INFO: Budim 103 volanim na 899
+9.11.2010 14:55:47 SOAP.LinkyHandler1 endDocument
+INFO: Buzeni: linku 105 se nepodarilo vzbudit, nastavuji novy termin o 3 pozdeji
+9.11.2010 14:55:50 SOAP.LinkyHandler1 endDocument
+INFO: Buzeni: linku 104 se nepodarilo vzbudit, nastavuji novy termin o 3 pozdeji
+9.11.2010 14:55:54 SOAP.LinkyHandler1 endDocument
+INFO: Buzeni: linku 103 se nepodarilo vzbudit, nastavuji novy termin o 3 pozdeji
+9.11.2010 14:56:13 SOAP.Caracas nacti
+INFO: Nacitam soubor C:\data\Hotel\IF-DATA\caracas.ftp
+9.11.2010 14:56:13 SOAP.Caracas kontroluj
+INFO: Caracas vstup - uzavri linku: 103
+9.11.2010 14:56:23 SOAP.NactiVstup delej
+INFO: Linka: Opravneni Linky 103 nastaveno na INT
+9.11.2010 14:56:33 SOAP.Caracas nacti
+INFO: Nacitam soubor C:\data\Hotel\IF-DATA\caracas.ftp
+9.11.2010 14:56:33 SOAP.Caracas kontroluj
+INFO: Caracas vstup - uzavri linku: 104
+9.11.2010 14:56:43 SOAP.NactiVstup delej
+INFO: Linka: Opravneni Linky 104 nastaveno na INT
+9.11.2010 14:57:33 SOAP.Caracas nacti
+INFO: Nacitam soubor C:\data\Hotel\IF-DATA\caracas.ftp
+9.11.2010 14:57:33 SOAP.Caracas kontroluj
+INFO: Caracas vstup - otevri linku: 105
+9.11.2010 14:57:33 SOAP.Caracas kontroluj
+INFO: Caracas vstup - otevri linku: 104
+9.11.2010 14:57:43 SOAP.NactiVstup delej
+INFO: Linka: Opravneni Linky 105 nastaveno na MZN
+9.11.2010 14:57:43 SOAP.NactiVstup delej
+INFO: Linka: Opravneni Linky 104 nastaveno na MZN
+9.11.2010 14:57:47 SOAP.Buzeni run
+INFO: Budim 105 volanim na 899
+9.11.2010 14:57:50 SOAP.Buzeni run
+INFO: Budim 104 volanim na 899
+9.11.2010 14:57:53 SOAP.Caracas nacti
+INFO: Nacitam soubor C:\data\Hotel\IF-DATA\caracas.ftp
+9.11.2010 14:57:53 SOAP.Caracas kontroluj
+INFO: Caracas vstup - otevri linku: 103
+9.11.2010 14:57:53 SOAP.Caracas kontroluj
+INFO: Caracas vstup - otevri linku: 101
+9.11.2010 14:57:54 SOAP.Buzeni run
+INFO: Budim 103 volanim na 899
+9.11.2010 14:58:03 SOAP.NactiVstup delej
+INFO: Linka: Opravneni Linky 103 nastaveno na MZN
+9.11.2010 14:58:03 SOAP.NactiVstup delej
+INFO: Linka: Opravneni Linky 101 nastaveno na MZN
+9.11.2010 14:59:13 SOAP.Caracas nacti
+INFO: Nacitam soubor C:\data\Hotel\IF-DATA\caracas.ftp
+9.11.2010 14:59:13 SOAP.Caracas kontroluj
+INFO: Caracas vstup - otevri linku: 104
+9.11.2010 14:59:18 SOAP.LinkyHandler1 endDocument
+INFO: Buzeni: linku 105 se nepodarilo vzbudit, nastavuji novy termin o 3 pozdeji
+9.11.2010 14:59:21 SOAP.LinkyHandler1 endDocument
+INFO: Buzeni: linku 104 se nepodarilo vzbudit, nastavuji novy termin o 3 pozdeji
+9.11.2010 14:59:23 SOAP.NactiVstup delej
+INFO: Linka: Opravneni Linky 104 nastaveno na MZN
+9.11.2010 14:59:24 SOAP.LinkyHandler1 endDocument
+INFO: Buzeni: linku 103 se nepodarilo vzbudit, nastavuji novy termin o 3 pozdeji
+9.11.2010 15:00:03 SOAP.NactiVstup delej
+INFO: Buzeni: Ukoncuji buzeni na lince105, ktere jiz vice jak 12 minut proslo5
+9.11.2010 15:00:03 SOAP.NactiVstup delej
+INFO: Buzeni: Ukoncuji buzeni na lince104, ktere jiz vice jak 12 minut proslo6
+9.11.2010 15:00:03 SOAP.NactiVstup delej
+INFO: Buzeni: Ukoncuji buzeni na lince103, ktere jiz vice jak 12 minut proslo7
+9.11.2010 15:01:53 SOAP.Caracas nacti
+INFO: Nacitam soubor C:\data\Hotel\IF-DATA\caracas.ftp
+9.11.2010 15:02:53 SOAP.Caracas nacti
+INFO: Nacitam soubor C:\data\Hotel\IF-DATA\caracas.ftp
+9.11.2010 15:02:53 SOAP.Caracas kontroluj
+INFO: Caracas vstup - otevri linku: 103
+9.11.2010 15:03:03 SOAP.NactiVstup delej
+INFO: Linka: Opravneni Linky 103 nastaveno na MZN
+9.11.2010 15:03:13 SOAP.Caracas nacti
+INFO: Nacitam soubor C:\data\Hotel\IF-DATA\caracas.ftp
+9.11.2010 15:03:13 SOAP.Caracas kontroluj
+INFO: Caracas vstup - uzavri linku: 103
+9.11.2010 15:03:23 SOAP.NactiVstup delej
+INFO: Linka: Opravneni Linky 103 nastaveno na INT
+9.11.2010 15:03:53 SOAP.Caracas nacti
+INFO: Nacitam soubor C:\data\Hotel\IF-DATA\caracas.ftp
+9.11.2010 15:03:53 SOAP.Caracas kontroluj
+INFO: Caracas vstup - uzavri linku: 105
+9.11.2010 15:04:03 SOAP.NactiVstup delej
+INFO: Linka: Opravneni Linky 105 nastaveno na INT
+9.11.2010 15:04:13 SOAP.Caracas nacti
+INFO: Nacitam soubor C:\data\Hotel\IF-DATA\caracas.ftp
+9.11.2010 15:04:13 SOAP.Caracas kontroluj
+INFO: Caracas vstup - uzavri linku: 104
+9.11.2010 15:04:23 SOAP.NactiVstup delej
+INFO: Linka: Opravneni Linky 104 nastaveno na INT
+9.11.2010 15:04:33 SOAP.Caracas nacti
+INFO: Nacitam soubor C:\data\Hotel\IF-DATA\caracas.ftp
+9.11.2010 15:04:33 SOAP.Caracas kontroluj
+INFO: Caracas vstup - uzavri linku: 101
+9.11.2010 15:04:43 SOAP.NactiVstup delej
+INFO: Linka: Opravneni Linky 101 nastaveno na INT
+9.11.2010 15:05:02 SOAP.Menu$11 actionPerformed
+INFO: Ukoncuji Program
+9.11.2010 15:05:59 SOAP.Menu main
+INFO: Spusteni programu
+9.11.2010 15:05:59 SOAP.Menu main
+INFO: Spousteni po 10000 milisekundach
+9.11.2010 15:05:59 SOAP.Menu main
+INFO: Spusteni interface dle soap.properties
+9.11.2010 15:09:49 SOAP.Caracas nacti
+INFO: Nacitam soubor C:\data\Hotel\IF-DATA\caracas.ftp
+9.11.2010 15:09:49 SOAP.Caracas kontroluj
+INFO: Caracas vstup - otevri linku: 101
+9.11.2010 15:09:59 SOAP.NactiVstup delej
+INFO: Linka: Opravneni Linky 101 nastaveno na MZN
+9.11.2010 15:10:09 SOAP.Caracas nacti
+INFO: Nacitam soubor C:\data\Hotel\IF-DATA\caracas.ftp
+9.11.2010 15:10:09 SOAP.Caracas kontroluj
+INFO: Caracas vstup - otevri linku: 103
+9.11.2010 15:10:09 SOAP.Caracas kontroluj
+INFO: Caracas vstup - otevri linku: 104
+9.11.2010 15:10:19 SOAP.NactiVstup delej
+INFO: Linka: Opravneni Linky 103 nastaveno na MZN
+9.11.2010 15:10:20 SOAP.NactiVstup delej
+INFO: Linka: Opravneni Linky 104 nastaveno na MZN
+9.11.2010 15:10:29 SOAP.Caracas nacti
+INFO: Nacitam soubor C:\data\Hotel\IF-DATA\caracas.ftp
+9.11.2010 15:10:29 SOAP.Caracas kontroluj
+INFO: Caracas vstup - otevri linku: 105
+9.11.2010 15:10:39 SOAP.NactiVstup delej
+INFO: Linka: Opravneni Linky 105 nastaveno na MZN
+9.11.2010 15:11:49 SOAP.Caracas nacti
+INFO: Nacitam soubor C:\data\Hotel\IF-DATA\caracas.ftp
+9.11.2010 15:11:49 SOAP.Caracas kontroluj
+INFO: Caracas vstup - nastaveni buzeni. Linka: 105 datum:2010-11-09 15:15:00.000
+9.11.2010 15:11:49 SOAP.Caracas kontroluj
+INFO: Caracas vstup - nastaveni buzeni. Linka: 104 datum:2010-11-09 15:15:00.000
+9.11.2010 15:11:49 SOAP.Caracas kontroluj
+INFO: Caracas vstup - nastaveni buzeni. Linka: 103 datum:2010-11-09 15:15:00.000
+9.11.2010 15:11:49 SOAP.Caracas kontroluj
+INFO: Caracas vstup - nastaveni buzeni. Linka: 101 datum:2010-11-09 15:15:00.000
+9.11.2010 15:13:09 SOAP.Caracas nacti
+INFO: Nacitam soubor C:\data\Hotel\IF-DATA\caracas.ftp
+9.11.2010 15:13:09 SOAP.Caracas kontroluj
+INFO: Caracas vstup - uzavri linku: 101
+9.11.2010 15:13:09 SOAP.Caracas kontroluj
+INFO: Caracas vstup - uzavri linku: 102
+9.11.2010 15:13:09 SOAP.Caracas kontroluj
+INFO: Caracas vstup - uzavri linku: 103
+9.11.2010 15:13:20 SOAP.NactiVstup delej
+INFO: Linka: Opravneni Linky 101 nastaveno na INT
+9.11.2010 15:13:20 SOAP.NactiVstup delej
+INFO: Linka: Opravneni Linky 102 nastaveno na INT
+9.11.2010 15:13:20 SOAP.NactiVstup delej
+INFO: Linka: Opravneni Linky 103 nastaveno na INT
+9.11.2010 15:13:29 SOAP.Caracas nacti
+INFO: Nacitam soubor C:\data\Hotel\IF-DATA\caracas.ftp
+9.11.2010 15:13:29 SOAP.Caracas kontroluj
+INFO: Caracas vstup - uzavri linku: 104
+9.11.2010 15:13:29 SOAP.Caracas kontroluj
+INFO: Caracas vstup - uzavri linku: 105
+9.11.2010 15:13:29 SOAP.Caracas kontroluj
+INFO: Caracas vstup - otevri linku: 105
+9.11.2010 15:13:29 SOAP.Caracas kontroluj
+INFO: Caracas vstup - otevri linku: 104
+9.11.2010 15:13:29 SOAP.Caracas kontroluj
+INFO: Caracas vstup - otevri linku: 103
+9.11.2010 15:13:29 SOAP.Caracas kontroluj
+INFO: Caracas vstup - otevri linku: 102
+9.11.2010 15:13:29 SOAP.Caracas kontroluj
+INFO: Caracas vstup - otevri linku: 101
+9.11.2010 15:13:40 SOAP.NactiVstup delej
+INFO: Linka: Opravneni Linky 104 nastaveno na INT
+9.11.2010 15:13:40 SOAP.NactiVstup delej
+INFO: Linka: Opravneni Linky 105 nastaveno na INT
+9.11.2010 15:13:40 SOAP.NactiVstup delej
+INFO: Linka: Opravneni Linky 105 nastaveno na MZN
+9.11.2010 15:13:40 SOAP.NactiVstup delej
+INFO: Linka: Opravneni Linky 104 nastaveno na MZN
+9.11.2010 15:13:40 SOAP.NactiVstup delej
+INFO: Linka: Opravneni Linky 103 nastaveno na MZN
+9.11.2010 15:13:40 SOAP.NactiVstup delej
+INFO: Linka: Opravneni Linky 102 nastaveno na MZN
+9.11.2010 15:13:40 SOAP.NactiVstup delej
+INFO: Linka: Opravneni Linky 101 nastaveno na MZN
+9.11.2010 15:15:23 SOAP.Buzeni run
+INFO: Budim 105 volanim na 899
+9.11.2010 15:15:26 SOAP.Buzeni run
+INFO: Budim 104 volanim na 899
+9.11.2010 15:15:30 SOAP.Buzeni run
+INFO: Budim 103 volanim na 899
+9.11.2010 15:15:33 SOAP.Buzeni run
+INFO: Budim 101 volanim na 899
+9.11.2010 15:16:36 SOAP.LinkyHandler1 endDocument
+INFO: Buzeni: linka 101 uspesne vzbuzena
+9.11.2010 15:16:53 SOAP.LinkyHandler1 endDocument
+INFO: Buzeni: linku 105 se nepodarilo vzbudit, nastavuji novy termin o 3 pozdeji
+9.11.2010 15:16:56 SOAP.LinkyHandler1 endDocument
+INFO: Buzeni: linku 104 se nepodarilo vzbudit, nastavuji novy termin o 3 pozdeji
+9.11.2010 15:17:00 SOAP.LinkyHandler1 endDocument
+INFO: Buzeni: linku 103 se nepodarilo vzbudit, nastavuji novy termin o 3 pozdeji
+9.11.2010 15:17:19 SOAP.Caracas nacti
+INFO: Nacitam soubor C:\data\Hotel\IF-DATA\caracas.ftp
+9.11.2010 15:17:19 SOAP.Caracas kontroluj
+INFO: Caracas vstup - uzavri linku: 103
+9.11.2010 15:17:30 SOAP.NactiVstup delej
+INFO: Linka: Opravneni Linky 103 nastaveno na INT
+9.11.2010 15:17:59 SOAP.Caracas nacti
+INFO: Nacitam soubor C:\data\Hotel\IF-DATA\caracas.ftp
+9.11.2010 15:17:59 SOAP.Caracas kontroluj
+INFO: Caracas vstup - uzavri linku: 104
+9.11.2010 15:18:10 SOAP.NactiVstup delej
+INFO: Linka: Opravneni Linky 104 nastaveno na INT
+9.11.2010 15:18:53 SOAP.Buzeni run
+INFO: Budim 105 volanim na 899
+9.11.2010 15:18:56 SOAP.Buzeni run
+INFO: Budim 104 volanim na 899
+9.11.2010 15:19:00 SOAP.Buzeni run
+INFO: Budim 103 volanim na 899
+9.11.2010 15:19:39 SOAP.Caracas nacti
+INFO: Nacitam soubor C:\data\Hotel\IF-DATA\caracas.ftp
+9.11.2010 15:19:39 SOAP.Caracas kontroluj
+INFO: Caracas vstup - otevri linku: 103
+9.11.2010 15:19:50 SOAP.NactiVstup delej
+INFO: Linka: Opravneni Linky 103 nastaveno na MZN
+9.11.2010 15:20:23 SOAP.LinkyHandler1 endDocument
+INFO: Buzeni: linku 105 se nepodarilo vzbudit, nastavuji novy termin o 3 pozdeji
+9.11.2010 15:20:27 SOAP.LinkyHandler1 endDocument
+INFO: Buzeni: linku 104 se nepodarilo vzbudit, nastavuji novy termin o 3 pozdeji
+9.11.2010 15:20:30 SOAP.LinkyHandler1 endDocument
+INFO: Buzeni: linku 103 se nepodarilo vzbudit, nastavuji novy termin o 3 pozdeji
+9.11.2010 15:20:59 SOAP.Caracas nacti
+INFO: Nacitam soubor C:\data\Hotel\IF-DATA\caracas.ftp
+9.11.2010 15:20:59 SOAP.Caracas kontroluj
+INFO: Caracas vstup - uzavri linku: 103
+9.11.2010 15:21:10 SOAP.NactiVstup delej
+INFO: Linka: Opravneni Linky 103 nastaveno na INT
+9.11.2010 15:21:19 SOAP.Caracas nacti
+INFO: Nacitam soubor C:\data\Hotel\IF-DATA\caracas.ftp
+9.11.2010 15:21:19 SOAP.Caracas kontroluj
+INFO: Caracas vstup - uzavri linku: 101
+9.11.2010 15:21:30 SOAP.NactiVstup delej
+INFO: Linka: Opravneni Linky 101 nastaveno na INT
+9.11.2010 15:21:59 SOAP.Caracas nacti
+INFO: Nacitam soubor C:\data\Hotel\IF-DATA\caracas.ftp
+9.11.2010 15:21:59 SOAP.Caracas kontroluj
+INFO: Caracas vstup - uzavri linku: 105
+9.11.2010 15:22:10 SOAP.NactiVstup delej
+INFO: Linka: Opravneni Linky 105 nastaveno na INT
+9.11.2010 15:22:23 SOAP.Buzeni run
+INFO: Budim 105 volanim na 899
+9.11.2010 15:22:27 SOAP.Buzeni run
+INFO: Budim 104 volanim na 899
+9.11.2010 15:22:30 SOAP.Buzeni run
+INFO: Budim 103 volanim na 899
+9.11.2010 15:23:54 SOAP.LinkyHandler1 endDocument
+INFO: Buzeni: linku 105 se nepodarilo vzbudit, nastavuji novy termin o 3 pozdeji
+9.11.2010 15:23:57 SOAP.LinkyHandler1 endDocument
+INFO: Buzeni: linku 104 se nepodarilo vzbudit, nastavuji novy termin o 3 pozdeji
+9.11.2010 15:24:00 SOAP.LinkyHandler1 endDocument
+INFO: Buzeni: linku 103 se nepodarilo vzbudit, nastavuji novy termin o 3 pozdeji
+9.11.2010 15:25:57 SOAP.Buzeni run
+INFO: Budim 104 volanim na 899
+9.11.2010 15:26:00 SOAP.Buzeni run
+INFO: Budim 103 volanim na 899
+9.11.2010 15:27:27 SOAP.LinkyHandler1 endDocument
+INFO: Buzeni: linku 104 se nepodarilo vzbudit, nastavuji novy termin o 3 pozdeji
+9.11.2010 15:27:31 SOAP.LinkyHandler1 endDocument
+INFO: Buzeni: linku 103 se nepodarilo vzbudit, nastavuji novy termin o 3 pozdeji
+9.11.2010 15:28:10 SOAP.NactiVstup delej
+INFO: Buzeni: Ukoncuji buzeni na lince103, ktere jiz vice jak 12 minut proslo31
+9.11.2010 15:36:22 SOAP.Menu$11 actionPerformed
+INFO: Ukoncuji Program
+9.11.2010 15:38:48 SOAP.Menu main
+INFO: Spusteni programu
+9.11.2010 15:38:48 SOAP.Menu main
+INFO: Spousteni po 10000 milisekundach
+9.11.2010 15:38:48 SOAP.Menu main
+INFO: Spusteni interface dle soap.properties
+9.11.2010 15:38:58 SOAP.Caracas nacti
+INFO: Nacitam soubor C:\data\Hotel\IF-DATA\caracas.ftp
+9.11.2010 15:38:58 SOAP.Caracas kontroluj
+INFO: Caracas vstup - otevri linku: 103
+9.11.2010 15:38:58 SOAP.Caracas kontroluj
+INFO: Caracas vstup - nastaveni buzeni. Linka: 103 datum:2010-11-09 17:38:00.000
+9.11.2010 15:39:08 SOAP.NactiVstup delej
+INFO: Linka: Opravneni Linky 103 nastaveno na MZN
+9.11.2010 15:41:38 SOAP.Caracas nacti
+INFO: Nacitam soubor C:\data\Hotel\IF-DATA\caracas.ftp
+9.11.2010 15:41:38 SOAP.Caracas kontroluj
+INFO: Caracas vstup - uzavri linku: 103
+9.11.2010 15:41:48 SOAP.NactiVstup delej
+INFO: Linka: Opravneni Linky 103 nastaveno na INT
+9.11.2010 15:44:38 SOAP.Caracas nacti
+INFO: Nacitam soubor C:\data\Hotel\IF-DATA\caracas.ftp
+9.11.2010 15:44:38 SOAP.Caracas kontroluj
+INFO: Caracas vstup - otevri linku: 103
+9.11.2010 15:44:48 SOAP.NactiVstup delej
+INFO: Linka: Opravneni Linky 103 nastaveno na MZN
+9.11.2010 15:48:48 SOAP.LinkyHandler endElement
+INFO: Tarifikace: linka 105 cil 602654814 datum 2010-11-09 15:47:51 delka0
+9.11.2010 16:47:46 SOAP.Menu$11 actionPerformed
+INFO: Ukoncuji Program

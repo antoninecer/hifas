@@ -1,0 +1,457 @@
+2010-11-09 16:56:24,775 [entQueue-0] DEBUG          httpclient.HttpClient  : Java version: 1.6.0_07
+2010-11-09 16:56:24,775 [entQueue-0] DEBUG          httpclient.HttpClient  : Java vendor: Sun Microsystems Inc.
+2010-11-09 16:56:24,775 [entQueue-0] DEBUG          httpclient.HttpClient  : Java class path: C:\data\java\httpcomponents-client-4.0.1\lib\chardet.jar;C:\data\java\httpcomponents-client-4.0.1\lib\commons-codec-1.3.jar;C:\data\java\httpcomponents-client-4.0.1\lib\commons-httpclient-3.1.jar;C:\data\java\httpcomponents-client-4.0.1\lib\commons-logging-1.1.1-javadoc.jar;C:\data\java\httpcomponents-client-4.0.1\lib\commons-logging-1.1.1-sources.jar;C:\data\java\httpcomponents-client-4.0.1\lib\commons-logging-1.1.1.jar;C:\data\java\httpcomponents-client-4.0.1\lib\commons-logging-adapters-1.1.1.jar;C:\data\java\httpcomponents-client-4.0.1\lib\commons-logging-api-1.1.1.jar;C:\data\java\httpcomponents-client-4.0.1\lib\commons-logging-tests.jar;C:\data\java\httpcomponents-client-4.0.1\lib\httpclient-4.0.1.jar;C:\data\java\httpcomponents-client-4.0.1\lib\httpclient-4.1-alpha2.jar;C:\data\java\httpcomponents-client-4.0.1\lib\httpclient-cache-4.1-alpha2.jar;C:\data\java\httpcomponents-client-4.0.1\lib\httpcore-4.0.1.jar;C:\data\java\httpcomponents-client-4.0.1\lib\httpcore-4.0.jar;C:\data\java\httpcomponents-client-4.0.1\lib\httpcore-4.1-beta1.jar;C:\data\java\httpcomponents-client-4.0.1\lib\httpcore-nio-4.0.1.jar;C:\data\java\httpcomponents-client-4.0.1\lib\httpcore-nio-4.0.jar;C:\data\java\httpcomponents-client-4.0.1\lib\httpcore-nio-4.1-beta1.jar;C:\data\java\httpcomponents-client-4.0.1\lib\httpmime-4.0.1.jar;C:\data\java\httpcomponents-client-4.0.1\lib\httpmime-4.1-alpha2.jar;C:\data\java\httpcomponents-client-4.0.1\lib\junit-4.5.jar;C:\data\java\httpcomponents-client-4.0.1\lib\junit-dep-4.5.jar;C:\data\java\httpcomponents-client-4.0.1\lib\lib.zip;C:\data\java\httpcomponents-client-4.0.1\lib\maven-2.0.9-uber.jar;C:\data\java\log4j\apache-log4j-1.2.16\log4j-1.2.16.jar;C:\data\java\sqldriver\jtds-1.2.5.jar;C:\data\java\jasypt-1.7\lib\jasypt-1.7.jar;C:\data\java\jasypt-1.7\lib\icu4j-3.4.4.jar;C:\data\java\soap\App\build\classes;C:\data\java\soap\App\src
+2010-11-09 16:56:24,775 [entQueue-0] DEBUG          httpclient.HttpClient  : Operating system name: Windows XP
+2010-11-09 16:56:24,775 [entQueue-0] DEBUG          httpclient.HttpClient  : Operating system architecture: x86
+2010-11-09 16:56:24,775 [entQueue-0] DEBUG          httpclient.HttpClient  : Operating system version: 5.1
+2010-11-09 16:56:25,447 [entQueue-0] DEBUG          httpclient.HttpClient  : SUN 1.6: SUN (DSA key/parameter generation; DSA signing; SHA-1, MD5 digests; SecureRandom; X.509 certificates; JKS keystore; PKIX CertPathValidator; PKIX CertPathBuilder; LDAP, Collection CertStores, JavaPolicy Policy; JavaLoginConfig Configuration)
+2010-11-09 16:56:25,447 [entQueue-0] DEBUG          httpclient.HttpClient  : SunRsaSign 1.5: Sun RSA signature provider
+2010-11-09 16:56:25,447 [entQueue-0] DEBUG          httpclient.HttpClient  : SunJSSE 1.6: Sun JSSE provider(PKCS12, SunX509 key/trust factories, SSLv3, TLSv1)
+2010-11-09 16:56:25,447 [entQueue-0] DEBUG          httpclient.HttpClient  : SunJCE 1.6: SunJCE Provider (implements RSA, DES, Triple DES, AES, Blowfish, ARCFOUR, RC2, PBE, Diffie-Hellman, HMAC)
+2010-11-09 16:56:25,447 [entQueue-0] DEBUG          httpclient.HttpClient  : SunJGSS 1.0: Sun (Kerberos v5, SPNEGO)
+2010-11-09 16:56:25,447 [entQueue-0] DEBUG          httpclient.HttpClient  : SunSASL 1.5: Sun SASL provider(implements client mechanisms for: DIGEST-MD5, GSSAPI, EXTERNAL, PLAIN, CRAM-MD5; server mechanisms for: DIGEST-MD5, GSSAPI, CRAM-MD5)
+2010-11-09 16:56:25,447 [entQueue-0] DEBUG          httpclient.HttpClient  : XMLDSig 1.0: XMLDSig (DOM XMLSignatureFactory; DOM KeyInfoFactory)
+2010-11-09 16:56:25,447 [entQueue-0] DEBUG          httpclient.HttpClient  : SunPCSC 1.6: Sun PC/SC provider
+2010-11-09 16:56:25,447 [entQueue-0] DEBUG          httpclient.HttpClient  : SunMSCAPI 1.6: Sun's Microsoft Crypto API provider
+2010-11-09 16:56:25,463 [entQueue-0] DEBUG       params.DefaultHttpParams  : Set parameter http.useragent = Jakarta Commons-HttpClient/3.1
+2010-11-09 16:56:25,479 [entQueue-0] DEBUG       params.DefaultHttpParams  : Set parameter http.protocol.version = HTTP/1.1
+2010-11-09 16:56:25,479 [entQueue-0] DEBUG       params.DefaultHttpParams  : Set parameter http.connection-manager.class = class org.apache.commons.httpclient.SimpleHttpConnectionManager
+2010-11-09 16:56:25,479 [entQueue-0] DEBUG       params.DefaultHttpParams  : Set parameter http.protocol.cookie-policy = default
+2010-11-09 16:56:25,479 [entQueue-0] DEBUG       params.DefaultHttpParams  : Set parameter http.protocol.element-charset = US-ASCII
+2010-11-09 16:56:25,479 [entQueue-0] DEBUG       params.DefaultHttpParams  : Set parameter http.protocol.content-charset = ISO-8859-1
+2010-11-09 16:56:25,510 [entQueue-0] DEBUG       params.DefaultHttpParams  : Set parameter http.method.retry-handler = org.apache.commons.httpclient.DefaultHttpMethodRetryHandler@1b26af3
+2010-11-09 16:56:25,510 [entQueue-0] DEBUG       params.DefaultHttpParams  : Set parameter http.dateparser.patterns = [EEE, dd MMM yyyy HH:mm:ss zzz, EEEE, dd-MMM-yy HH:mm:ss zzz, EEE MMM d HH:mm:ss yyyy, EEE, dd-MMM-yyyy HH:mm:ss z, EEE, dd-MMM-yyyy HH-mm-ss z, EEE, dd MMM yy HH:mm:ss z, EEE dd-MMM-yyyy HH:mm:ss z, EEE dd MMM yyyy HH:mm:ss z, EEE dd-MMM-yyyy HH-mm-ss z, EEE dd-MMM-yy HH:mm:ss z, EEE dd MMM yy HH:mm:ss z, EEE,dd-MMM-yy HH:mm:ss z, EEE,dd-MMM-yyyy HH:mm:ss z, EEE, dd-MM-yyyy HH:mm:ss z]
+2010-11-09 16:56:25,525 [entQueue-0] DEBUG       params.DefaultHttpParams  : Set parameter http.authentication.preemptive = true
+2010-11-09 16:56:25,635 [entQueue-0] DEBUG  httpclient.HttpMethodDirector  : Preemptively sending default basic credentials
+2010-11-09 16:56:25,666 [entQueue-0] DEBUG  httpclient.HttpMethodDirector  : Authenticating with BASIC <any realm>@192.168.224.106:443
+2010-11-09 16:56:25,666 [entQueue-0] DEBUG        params.HttpMethodParams  : Credential charset not configured, using HTTP element charset
+2010-11-09 16:56:25,666 [entQueue-0] DEBUG      httpclient.HttpConnection  : Open connection to 192.168.224.106:443
+2010-11-09 16:56:25,666 [entQueue-0] DEBUG      httpclient.HttpConnection  : Releasing connection back to connection manager.
+2010-11-09 16:56:44,619 [entQueue-0] DEBUG       params.DefaultHttpParams  : Set parameter http.authentication.preemptive = true
+2010-11-09 16:56:44,619 [entQueue-0] DEBUG  httpclient.HttpMethodDirector  : Preemptively sending default basic credentials
+2010-11-09 16:56:44,619 [entQueue-0] DEBUG  httpclient.HttpMethodDirector  : Authenticating with BASIC <any realm>@192.168.224.106:443
+2010-11-09 16:56:44,619 [entQueue-0] DEBUG        params.HttpMethodParams  : Credential charset not configured, using HTTP element charset
+2010-11-09 16:56:44,635 [entQueue-0] DEBUG      httpclient.HttpConnection  : Open connection to 192.168.224.106:443
+2010-11-09 16:56:44,635 [entQueue-0] DEBUG      httpclient.HttpConnection  : Releasing connection back to connection manager.
+2010-11-09 16:57:04,635 [entQueue-0] DEBUG       params.DefaultHttpParams  : Set parameter http.authentication.preemptive = true
+2010-11-09 16:57:04,635 [entQueue-0] DEBUG  httpclient.HttpMethodDirector  : Preemptively sending default basic credentials
+2010-11-09 16:57:04,635 [entQueue-0] DEBUG  httpclient.HttpMethodDirector  : Authenticating with BASIC <any realm>@192.168.224.106:443
+2010-11-09 16:57:04,635 [entQueue-0] DEBUG        params.HttpMethodParams  : Credential charset not configured, using HTTP element charset
+2010-11-09 16:57:04,635 [entQueue-0] DEBUG      httpclient.HttpConnection  : Open connection to 192.168.224.106:443
+2010-11-09 16:57:04,635 [entQueue-0] DEBUG      httpclient.HttpConnection  : Releasing connection back to connection manager.
+2010-11-09 16:57:24,636 [entQueue-0] DEBUG       params.DefaultHttpParams  : Set parameter http.authentication.preemptive = true
+2010-11-09 16:57:24,636 [entQueue-0] DEBUG  httpclient.HttpMethodDirector  : Preemptively sending default basic credentials
+2010-11-09 16:57:24,636 [entQueue-0] DEBUG  httpclient.HttpMethodDirector  : Authenticating with BASIC <any realm>@192.168.224.106:443
+2010-11-09 16:57:24,636 [entQueue-0] DEBUG        params.HttpMethodParams  : Credential charset not configured, using HTTP element charset
+2010-11-09 16:57:24,636 [entQueue-0] DEBUG      httpclient.HttpConnection  : Open connection to 192.168.224.106:443
+2010-11-09 16:57:24,636 [entQueue-0] DEBUG      httpclient.HttpConnection  : Releasing connection back to connection manager.
+2010-11-09 16:59:36,340 [entQueue-0] DEBUG          httpclient.HttpClient  : Java version: 1.6.0_07
+2010-11-09 16:59:36,356 [entQueue-0] DEBUG          httpclient.HttpClient  : Java vendor: Sun Microsystems Inc.
+2010-11-09 16:59:36,356 [entQueue-0] DEBUG          httpclient.HttpClient  : Java class path: C:\data\java\httpcomponents-client-4.0.1\lib\chardet.jar;C:\data\java\httpcomponents-client-4.0.1\lib\commons-codec-1.3.jar;C:\data\java\httpcomponents-client-4.0.1\lib\commons-httpclient-3.1.jar;C:\data\java\httpcomponents-client-4.0.1\lib\commons-logging-1.1.1-javadoc.jar;C:\data\java\httpcomponents-client-4.0.1\lib\commons-logging-1.1.1-sources.jar;C:\data\java\httpcomponents-client-4.0.1\lib\commons-logging-1.1.1.jar;C:\data\java\httpcomponents-client-4.0.1\lib\commons-logging-adapters-1.1.1.jar;C:\data\java\httpcomponents-client-4.0.1\lib\commons-logging-api-1.1.1.jar;C:\data\java\httpcomponents-client-4.0.1\lib\commons-logging-tests.jar;C:\data\java\httpcomponents-client-4.0.1\lib\httpclient-4.0.1.jar;C:\data\java\httpcomponents-client-4.0.1\lib\httpclient-4.1-alpha2.jar;C:\data\java\httpcomponents-client-4.0.1\lib\httpclient-cache-4.1-alpha2.jar;C:\data\java\httpcomponents-client-4.0.1\lib\httpcore-4.0.1.jar;C:\data\java\httpcomponents-client-4.0.1\lib\httpcore-4.0.jar;C:\data\java\httpcomponents-client-4.0.1\lib\httpcore-4.1-beta1.jar;C:\data\java\httpcomponents-client-4.0.1\lib\httpcore-nio-4.0.1.jar;C:\data\java\httpcomponents-client-4.0.1\lib\httpcore-nio-4.0.jar;C:\data\java\httpcomponents-client-4.0.1\lib\httpcore-nio-4.1-beta1.jar;C:\data\java\httpcomponents-client-4.0.1\lib\httpmime-4.0.1.jar;C:\data\java\httpcomponents-client-4.0.1\lib\httpmime-4.1-alpha2.jar;C:\data\java\httpcomponents-client-4.0.1\lib\junit-4.5.jar;C:\data\java\httpcomponents-client-4.0.1\lib\junit-dep-4.5.jar;C:\data\java\httpcomponents-client-4.0.1\lib\lib.zip;C:\data\java\httpcomponents-client-4.0.1\lib\maven-2.0.9-uber.jar;C:\data\java\log4j\apache-log4j-1.2.16\log4j-1.2.16.jar;C:\data\java\sqldriver\jtds-1.2.5.jar;C:\data\java\jasypt-1.7\lib\jasypt-1.7.jar;C:\data\java\jasypt-1.7\lib\icu4j-3.4.4.jar;C:\data\java\soap\App\build\classes;C:\data\java\soap\App\src
+2010-11-09 16:59:36,356 [entQueue-0] DEBUG          httpclient.HttpClient  : Operating system name: Windows XP
+2010-11-09 16:59:36,356 [entQueue-0] DEBUG          httpclient.HttpClient  : Operating system architecture: x86
+2010-11-09 16:59:36,356 [entQueue-0] DEBUG          httpclient.HttpClient  : Operating system version: 5.1
+2010-11-09 16:59:36,465 [entQueue-0] DEBUG          httpclient.HttpClient  : SUN 1.6: SUN (DSA key/parameter generation; DSA signing; SHA-1, MD5 digests; SecureRandom; X.509 certificates; JKS keystore; PKIX CertPathValidator; PKIX CertPathBuilder; LDAP, Collection CertStores, JavaPolicy Policy; JavaLoginConfig Configuration)
+2010-11-09 16:59:36,465 [entQueue-0] DEBUG          httpclient.HttpClient  : SunRsaSign 1.5: Sun RSA signature provider
+2010-11-09 16:59:36,465 [entQueue-0] DEBUG          httpclient.HttpClient  : SunJSSE 1.6: Sun JSSE provider(PKCS12, SunX509 key/trust factories, SSLv3, TLSv1)
+2010-11-09 16:59:36,465 [entQueue-0] DEBUG          httpclient.HttpClient  : SunJCE 1.6: SunJCE Provider (implements RSA, DES, Triple DES, AES, Blowfish, ARCFOUR, RC2, PBE, Diffie-Hellman, HMAC)
+2010-11-09 16:59:36,465 [entQueue-0] DEBUG          httpclient.HttpClient  : SunJGSS 1.0: Sun (Kerberos v5, SPNEGO)
+2010-11-09 16:59:36,465 [entQueue-0] DEBUG          httpclient.HttpClient  : SunSASL 1.5: Sun SASL provider(implements client mechanisms for: DIGEST-MD5, GSSAPI, EXTERNAL, PLAIN, CRAM-MD5; server mechanisms for: DIGEST-MD5, GSSAPI, CRAM-MD5)
+2010-11-09 16:59:36,465 [entQueue-0] DEBUG          httpclient.HttpClient  : XMLDSig 1.0: XMLDSig (DOM XMLSignatureFactory; DOM KeyInfoFactory)
+2010-11-09 16:59:36,465 [entQueue-0] DEBUG          httpclient.HttpClient  : SunPCSC 1.6: Sun PC/SC provider
+2010-11-09 16:59:36,465 [entQueue-0] DEBUG          httpclient.HttpClient  : SunMSCAPI 1.6: Sun's Microsoft Crypto API provider
+2010-11-09 16:59:36,481 [entQueue-0] DEBUG       params.DefaultHttpParams  : Set parameter http.useragent = Jakarta Commons-HttpClient/3.1
+2010-11-09 16:59:36,481 [entQueue-0] DEBUG       params.DefaultHttpParams  : Set parameter http.protocol.version = HTTP/1.1
+2010-11-09 16:59:36,481 [entQueue-0] DEBUG       params.DefaultHttpParams  : Set parameter http.connection-manager.class = class org.apache.commons.httpclient.SimpleHttpConnectionManager
+2010-11-09 16:59:36,481 [entQueue-0] DEBUG       params.DefaultHttpParams  : Set parameter http.protocol.cookie-policy = default
+2010-11-09 16:59:36,481 [entQueue-0] DEBUG       params.DefaultHttpParams  : Set parameter http.protocol.element-charset = US-ASCII
+2010-11-09 16:59:36,481 [entQueue-0] DEBUG       params.DefaultHttpParams  : Set parameter http.protocol.content-charset = ISO-8859-1
+2010-11-09 16:59:36,481 [entQueue-0] DEBUG       params.DefaultHttpParams  : Set parameter http.method.retry-handler = org.apache.commons.httpclient.DefaultHttpMethodRetryHandler@922804
+2010-11-09 16:59:36,481 [entQueue-0] DEBUG       params.DefaultHttpParams  : Set parameter http.dateparser.patterns = [EEE, dd MMM yyyy HH:mm:ss zzz, EEEE, dd-MMM-yy HH:mm:ss zzz, EEE MMM d HH:mm:ss yyyy, EEE, dd-MMM-yyyy HH:mm:ss z, EEE, dd-MMM-yyyy HH-mm-ss z, EEE, dd MMM yy HH:mm:ss z, EEE dd-MMM-yyyy HH:mm:ss z, EEE dd MMM yyyy HH:mm:ss z, EEE dd-MMM-yyyy HH-mm-ss z, EEE dd-MMM-yy HH:mm:ss z, EEE dd MMM yy HH:mm:ss z, EEE,dd-MMM-yy HH:mm:ss z, EEE,dd-MMM-yyyy HH:mm:ss z, EEE, dd-MM-yyyy HH:mm:ss z]
+2010-11-09 16:59:36,497 [entQueue-0] DEBUG       params.DefaultHttpParams  : Set parameter http.authentication.preemptive = true
+2010-11-09 16:59:36,575 [entQueue-0] DEBUG  httpclient.HttpMethodDirector  : Preemptively sending default basic credentials
+2010-11-09 16:59:36,590 [entQueue-0] DEBUG  httpclient.HttpMethodDirector  : Authenticating with BASIC <any realm>@192.168.224.106:443
+2010-11-09 16:59:36,590 [entQueue-0] DEBUG        params.HttpMethodParams  : Credential charset not configured, using HTTP element charset
+2010-11-09 16:59:36,590 [entQueue-0] DEBUG      httpclient.HttpConnection  : Open connection to 192.168.224.106:443
+2010-11-09 16:59:38,293 [entQueue-0] DEBUG                    wire.header  : >> "POST /ipbx/soap/soapserver.php HTTP/1.1[\r][\n]"
+2010-11-09 16:59:38,293 [entQueue-0] DEBUG      httpclient.HttpMethodBase  : Adding Host request header
+2010-11-09 16:59:38,340 [entQueue-0] DEBUG                    wire.header  : >> "Authorization: Basic c29hcF9hcHA6SGVzbG8xMjM0NQ==[\r][\n]"
+2010-11-09 16:59:38,340 [entQueue-0] DEBUG                    wire.header  : >> "User-Agent: Jakarta Commons-HttpClient/3.1[\r][\n]"
+2010-11-09 16:59:38,340 [entQueue-0] DEBUG                    wire.header  : >> "Host: 192.168.224.106[\r][\n]"
+2010-11-09 16:59:38,340 [entQueue-0] DEBUG                    wire.header  : >> "Content-Length: 398[\r][\n]"
+2010-11-09 16:59:38,340 [entQueue-0] DEBUG                    wire.header  : >> "Content-Type: text/xml; charset=UTF-8[\r][\n]"
+2010-11-09 16:59:38,340 [entQueue-0] DEBUG                    wire.header  : >> "[\r][\n]"
+2010-11-09 16:59:38,340 [entQueue-0] DEBUG                   wire.content  : >> "<?xml version="1.0" encoding="UTF-8"?><soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ipbx="http://ipbx.namespace"><soapenv:Header/><soapenv:Body><ipbx:VoipexVypisHovoru><filtr></filtr><vypisOd>2010-11-09T16:54:00.000+01:00</vypisOd><vypisDo>2010-11-09T16:59:00.000+01:00</vypisDo><typVypisu>1</typVypisu></ipbx:VoipexVypisHovoru></soapenv:Body></soapenv:Envelope>"
+2010-11-09 16:59:38,434 [entQueue-0] DEBUG  methods.EntityEnclosingMethod  : Request body sent
+2010-11-09 16:59:38,481 [entQueue-0] DEBUG                    wire.header  : << "HTTP/1.1 200 OK[\r][\n]"
+2010-11-09 16:59:38,481 [entQueue-0] DEBUG                    wire.header  : << "HTTP/1.1 200 OK[\r][\n]"
+2010-11-09 16:59:38,481 [entQueue-0] DEBUG                    wire.header  : << "Date: Tue, 09 Nov 2010 15:58:58 GMT[\r][\n]"
+2010-11-09 16:59:38,481 [entQueue-0] DEBUG                    wire.header  : << "Server: Apache/2.2.3 (CentOS)[\r][\n]"
+2010-11-09 16:59:38,481 [entQueue-0] DEBUG                    wire.header  : << "X-Powered-By: PHP/5.1.6[\r][\n]"
+2010-11-09 16:59:38,481 [entQueue-0] DEBUG                    wire.header  : << "Content-Length: 290[\r][\n]"
+2010-11-09 16:59:38,481 [entQueue-0] DEBUG                    wire.header  : << "Connection: close[\r][\n]"
+2010-11-09 16:59:38,481 [entQueue-0] DEBUG                    wire.header  : << "Content-Type: text/xml; charset=utf-8[\r][\n]"
+2010-11-09 16:59:38,481 [entQueue-0] DEBUG                    wire.header  : << "[\r][\n]"
+2010-11-09 16:59:38,637 [entQueue-0] DEBUG                   wire.content  : << "<?xml version="1.0" encoding="UTF-8"?>[\n]"
+2010-11-09 16:59:38,637 [entQueue-0] DEBUG                   wire.content  : << "<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ns1="http://ipbx/binding"><SOAP-ENV:Body><ns1:VoipexVypisHovoruResponse><result>0</result><vypis/></ns1:VoipexVypisHovoruResponse></SOAP-ENV:Body></SOAP-ENV:Envelope>[\n]"
+2010-11-09 16:59:38,715 [entQueue-0] DEBUG      httpclient.HttpMethodBase  : Should close connection in response to directive: close
+2010-11-09 16:59:38,715 [entQueue-0] DEBUG      httpclient.HttpConnection  : Releasing connection back to connection manager.
+2010-11-09 16:59:56,294 [entQueue-0] DEBUG       params.DefaultHttpParams  : Set parameter http.authentication.preemptive = true
+2010-11-09 16:59:56,294 [entQueue-0] DEBUG  httpclient.HttpMethodDirector  : Preemptively sending default basic credentials
+2010-11-09 16:59:56,294 [entQueue-0] DEBUG  httpclient.HttpMethodDirector  : Authenticating with BASIC <any realm>@192.168.224.106:443
+2010-11-09 16:59:56,294 [entQueue-0] DEBUG        params.HttpMethodParams  : Credential charset not configured, using HTTP element charset
+2010-11-09 16:59:56,294 [entQueue-0] DEBUG      httpclient.HttpConnection  : Open connection to 192.168.224.106:443
+2010-11-09 16:59:56,309 [entQueue-0] DEBUG                    wire.header  : >> "POST /ipbx/soap/soapserver.php HTTP/1.1[\r][\n]"
+2010-11-09 16:59:56,309 [entQueue-0] DEBUG      httpclient.HttpMethodBase  : Adding Host request header
+2010-11-09 16:59:56,309 [entQueue-0] DEBUG                    wire.header  : >> "Authorization: Basic c29hcF9hcHA6SGVzbG8xMjM0NQ==[\r][\n]"
+2010-11-09 16:59:56,309 [entQueue-0] DEBUG                    wire.header  : >> "User-Agent: Jakarta Commons-HttpClient/3.1[\r][\n]"
+2010-11-09 16:59:56,309 [entQueue-0] DEBUG                    wire.header  : >> "Host: 192.168.224.106[\r][\n]"
+2010-11-09 16:59:56,309 [entQueue-0] DEBUG                    wire.header  : >> "Content-Length: 398[\r][\n]"
+2010-11-09 16:59:56,309 [entQueue-0] DEBUG                    wire.header  : >> "Content-Type: text/xml; charset=UTF-8[\r][\n]"
+2010-11-09 16:59:56,309 [entQueue-0] DEBUG                    wire.header  : >> "[\r][\n]"
+2010-11-09 16:59:56,309 [entQueue-0] DEBUG                   wire.content  : >> "<?xml version="1.0" encoding="UTF-8"?><soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ipbx="http://ipbx.namespace"><soapenv:Header/><soapenv:Body><ipbx:VoipexVypisHovoru><filtr></filtr><vypisOd>2010-11-09T16:54:00.000+01:00</vypisOd><vypisDo>2010-11-09T16:59:00.000+01:00</vypisDo><typVypisu>1</typVypisu></ipbx:VoipexVypisHovoru></soapenv:Body></soapenv:Envelope>"
+2010-11-09 16:59:56,309 [entQueue-0] DEBUG  methods.EntityEnclosingMethod  : Request body sent
+2010-11-09 16:59:56,356 [entQueue-0] DEBUG                    wire.header  : << "HTTP/1.1 200 OK[\r][\n]"
+2010-11-09 16:59:56,356 [entQueue-0] DEBUG                    wire.header  : << "HTTP/1.1 200 OK[\r][\n]"
+2010-11-09 16:59:56,356 [entQueue-0] DEBUG                    wire.header  : << "Date: Tue, 09 Nov 2010 15:59:16 GMT[\r][\n]"
+2010-11-09 16:59:56,356 [entQueue-0] DEBUG                    wire.header  : << "Server: Apache/2.2.3 (CentOS)[\r][\n]"
+2010-11-09 16:59:56,356 [entQueue-0] DEBUG                    wire.header  : << "X-Powered-By: PHP/5.1.6[\r][\n]"
+2010-11-09 16:59:56,356 [entQueue-0] DEBUG                    wire.header  : << "Content-Length: 290[\r][\n]"
+2010-11-09 16:59:56,356 [entQueue-0] DEBUG                    wire.header  : << "Connection: close[\r][\n]"
+2010-11-09 16:59:56,356 [entQueue-0] DEBUG                    wire.header  : << "Content-Type: text/xml; charset=utf-8[\r][\n]"
+2010-11-09 16:59:56,356 [entQueue-0] DEBUG                    wire.header  : << "[\r][\n]"
+2010-11-09 16:59:56,356 [entQueue-0] DEBUG                   wire.content  : << "<?xml version="1.0" encoding="UTF-8"?>[\n]"
+2010-11-09 16:59:56,356 [entQueue-0] DEBUG                   wire.content  : << "<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ns1="http://ipbx/binding"><SOAP-ENV:Body><ns1:VoipexVypisHovoruResponse><result>0</result><vypis/></ns1:VoipexVypisHovoruResponse></SOAP-ENV:Body></SOAP-ENV:Envelope>[\n]"
+2010-11-09 16:59:56,356 [entQueue-0] DEBUG      httpclient.HttpMethodBase  : Should close connection in response to directive: close
+2010-11-09 16:59:56,356 [entQueue-0] DEBUG      httpclient.HttpConnection  : Releasing connection back to connection manager.
+2010-11-09 17:00:16,294 [entQueue-0] DEBUG       params.DefaultHttpParams  : Set parameter http.authentication.preemptive = true
+2010-11-09 17:00:16,294 [entQueue-0] DEBUG  httpclient.HttpMethodDirector  : Preemptively sending default basic credentials
+2010-11-09 17:00:16,294 [entQueue-0] DEBUG  httpclient.HttpMethodDirector  : Authenticating with BASIC <any realm>@192.168.224.106:443
+2010-11-09 17:00:16,294 [entQueue-0] DEBUG        params.HttpMethodParams  : Credential charset not configured, using HTTP element charset
+2010-11-09 17:00:16,294 [entQueue-0] DEBUG      httpclient.HttpConnection  : Open connection to 192.168.224.106:443
+2010-11-09 17:00:16,310 [entQueue-0] DEBUG                    wire.header  : >> "POST /ipbx/soap/soapserver.php HTTP/1.1[\r][\n]"
+2010-11-09 17:00:16,325 [entQueue-0] DEBUG      httpclient.HttpMethodBase  : Adding Host request header
+2010-11-09 17:00:16,325 [entQueue-0] DEBUG                    wire.header  : >> "Authorization: Basic c29hcF9hcHA6SGVzbG8xMjM0NQ==[\r][\n]"
+2010-11-09 17:00:16,325 [entQueue-0] DEBUG                    wire.header  : >> "User-Agent: Jakarta Commons-HttpClient/3.1[\r][\n]"
+2010-11-09 17:00:16,325 [entQueue-0] DEBUG                    wire.header  : >> "Host: 192.168.224.106[\r][\n]"
+2010-11-09 17:00:16,325 [entQueue-0] DEBUG                    wire.header  : >> "Content-Length: 398[\r][\n]"
+2010-11-09 17:00:16,325 [entQueue-0] DEBUG                    wire.header  : >> "Content-Type: text/xml; charset=UTF-8[\r][\n]"
+2010-11-09 17:00:16,325 [entQueue-0] DEBUG                    wire.header  : >> "[\r][\n]"
+2010-11-09 17:00:16,325 [entQueue-0] DEBUG                   wire.content  : >> "<?xml version="1.0" encoding="UTF-8"?><soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ipbx="http://ipbx.namespace"><soapenv:Header/><soapenv:Body><ipbx:VoipexVypisHovoru><filtr></filtr><vypisOd>2010-11-09T16:55:00.000+01:00</vypisOd><vypisDo>2010-11-09T17:00:00.000+01:00</vypisDo><typVypisu>1</typVypisu></ipbx:VoipexVypisHovoru></soapenv:Body></soapenv:Envelope>"
+2010-11-09 17:00:16,341 [entQueue-0] DEBUG  methods.EntityEnclosingMethod  : Request body sent
+2010-11-09 17:00:16,372 [entQueue-0] DEBUG                    wire.header  : << "HTTP/1.1 200 OK[\r][\n]"
+2010-11-09 17:00:16,372 [entQueue-0] DEBUG                    wire.header  : << "HTTP/1.1 200 OK[\r][\n]"
+2010-11-09 17:00:16,372 [entQueue-0] DEBUG                    wire.header  : << "Date: Tue, 09 Nov 2010 15:59:36 GMT[\r][\n]"
+2010-11-09 17:00:16,372 [entQueue-0] DEBUG                    wire.header  : << "Server: Apache/2.2.3 (CentOS)[\r][\n]"
+2010-11-09 17:00:16,372 [entQueue-0] DEBUG                    wire.header  : << "X-Powered-By: PHP/5.1.6[\r][\n]"
+2010-11-09 17:00:16,372 [entQueue-0] DEBUG                    wire.header  : << "Content-Length: 290[\r][\n]"
+2010-11-09 17:00:16,372 [entQueue-0] DEBUG                    wire.header  : << "Connection: close[\r][\n]"
+2010-11-09 17:00:16,372 [entQueue-0] DEBUG                    wire.header  : << "Content-Type: text/xml; charset=utf-8[\r][\n]"
+2010-11-09 17:00:16,372 [entQueue-0] DEBUG                    wire.header  : << "[\r][\n]"
+2010-11-09 17:00:16,372 [entQueue-0] DEBUG                   wire.content  : << "<?xml version="1.0" encoding="UTF-8"?>[\n]"
+2010-11-09 17:00:16,372 [entQueue-0] DEBUG                   wire.content  : << "<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ns1="http://ipbx/binding"><SOAP-ENV:Body><ns1:VoipexVypisHovoruResponse><result>0</result><vypis/></ns1:VoipexVypisHovoruResponse></SOAP-ENV:Body></SOAP-ENV:Envelope>[\n]"
+2010-11-09 17:00:16,372 [entQueue-0] DEBUG      httpclient.HttpMethodBase  : Should close connection in response to directive: close
+2010-11-09 17:00:16,388 [entQueue-0] DEBUG      httpclient.HttpConnection  : Releasing connection back to connection manager.
+2010-11-09 17:00:36,294 [entQueue-0] DEBUG       params.DefaultHttpParams  : Set parameter http.authentication.preemptive = true
+2010-11-09 17:00:36,294 [entQueue-0] DEBUG  httpclient.HttpMethodDirector  : Preemptively sending default basic credentials
+2010-11-09 17:00:36,294 [entQueue-0] DEBUG  httpclient.HttpMethodDirector  : Authenticating with BASIC <any realm>@192.168.224.106:443
+2010-11-09 17:00:36,294 [entQueue-0] DEBUG        params.HttpMethodParams  : Credential charset not configured, using HTTP element charset
+2010-11-09 17:00:36,294 [entQueue-0] DEBUG      httpclient.HttpConnection  : Open connection to 192.168.224.106:443
+2010-11-09 17:00:36,310 [entQueue-0] DEBUG                    wire.header  : >> "POST /ipbx/soap/soapserver.php HTTP/1.1[\r][\n]"
+2010-11-09 17:00:36,310 [entQueue-0] DEBUG      httpclient.HttpMethodBase  : Adding Host request header
+2010-11-09 17:00:36,310 [entQueue-0] DEBUG                    wire.header  : >> "Authorization: Basic c29hcF9hcHA6SGVzbG8xMjM0NQ==[\r][\n]"
+2010-11-09 17:00:36,310 [entQueue-0] DEBUG                    wire.header  : >> "User-Agent: Jakarta Commons-HttpClient/3.1[\r][\n]"
+2010-11-09 17:00:36,310 [entQueue-0] DEBUG                    wire.header  : >> "Host: 192.168.224.106[\r][\n]"
+2010-11-09 17:00:36,310 [entQueue-0] DEBUG                    wire.header  : >> "Content-Length: 398[\r][\n]"
+2010-11-09 17:00:36,310 [entQueue-0] DEBUG                    wire.header  : >> "Content-Type: text/xml; charset=UTF-8[\r][\n]"
+2010-11-09 17:00:36,310 [entQueue-0] DEBUG                    wire.header  : >> "[\r][\n]"
+2010-11-09 17:00:36,310 [entQueue-0] DEBUG                   wire.content  : >> "<?xml version="1.0" encoding="UTF-8"?><soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ipbx="http://ipbx.namespace"><soapenv:Header/><soapenv:Body><ipbx:VoipexVypisHovoru><filtr></filtr><vypisOd>2010-11-09T16:55:00.000+01:00</vypisOd><vypisDo>2010-11-09T17:00:00.000+01:00</vypisDo><typVypisu>1</typVypisu></ipbx:VoipexVypisHovoru></soapenv:Body></soapenv:Envelope>"
+2010-11-09 17:00:36,325 [entQueue-0] DEBUG  methods.EntityEnclosingMethod  : Request body sent
+2010-11-09 17:00:36,357 [entQueue-0] DEBUG                    wire.header  : << "HTTP/1.1 200 OK[\r][\n]"
+2010-11-09 17:00:36,357 [entQueue-0] DEBUG                    wire.header  : << "HTTP/1.1 200 OK[\r][\n]"
+2010-11-09 17:00:36,357 [entQueue-0] DEBUG                    wire.header  : << "Date: Tue, 09 Nov 2010 15:59:56 GMT[\r][\n]"
+2010-11-09 17:00:36,357 [entQueue-0] DEBUG                    wire.header  : << "Server: Apache/2.2.3 (CentOS)[\r][\n]"
+2010-11-09 17:00:36,357 [entQueue-0] DEBUG                    wire.header  : << "X-Powered-By: PHP/5.1.6[\r][\n]"
+2010-11-09 17:00:36,357 [entQueue-0] DEBUG                    wire.header  : << "Content-Length: 290[\r][\n]"
+2010-11-09 17:00:36,357 [entQueue-0] DEBUG                    wire.header  : << "Connection: close[\r][\n]"
+2010-11-09 17:00:36,357 [entQueue-0] DEBUG                    wire.header  : << "Content-Type: text/xml; charset=utf-8[\r][\n]"
+2010-11-09 17:00:36,357 [entQueue-0] DEBUG                    wire.header  : << "[\r][\n]"
+2010-11-09 17:00:36,372 [entQueue-0] DEBUG                   wire.content  : << "<?xml version="1.0" encoding="UTF-8"?>[\n]"
+2010-11-09 17:00:36,372 [entQueue-0] DEBUG                   wire.content  : << "<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ns1="http://ipbx/binding"><SOAP-ENV:Body><ns1:VoipexVypisHovoruResponse><result>0</result><vypis/></ns1:VoipexVypisHovoruResponse></SOAP-ENV:Body></SOAP-ENV:Envelope>[\n]"
+2010-11-09 17:00:36,372 [entQueue-0] DEBUG      httpclient.HttpMethodBase  : Should close connection in response to directive: close
+2010-11-09 17:00:36,372 [entQueue-0] DEBUG      httpclient.HttpConnection  : Releasing connection back to connection manager.
+2010-11-09 17:00:56,294 [entQueue-0] DEBUG       params.DefaultHttpParams  : Set parameter http.authentication.preemptive = true
+2010-11-09 17:00:56,294 [entQueue-0] DEBUG  httpclient.HttpMethodDirector  : Preemptively sending default basic credentials
+2010-11-09 17:00:56,294 [entQueue-0] DEBUG  httpclient.HttpMethodDirector  : Authenticating with BASIC <any realm>@192.168.224.106:443
+2010-11-09 17:00:56,294 [entQueue-0] DEBUG        params.HttpMethodParams  : Credential charset not configured, using HTTP element charset
+2010-11-09 17:00:56,294 [entQueue-0] DEBUG      httpclient.HttpConnection  : Open connection to 192.168.224.106:443
+2010-11-09 17:00:56,310 [entQueue-0] DEBUG                    wire.header  : >> "POST /ipbx/soap/soapserver.php HTTP/1.1[\r][\n]"
+2010-11-09 17:00:56,310 [entQueue-0] DEBUG      httpclient.HttpMethodBase  : Adding Host request header
+2010-11-09 17:00:56,310 [entQueue-0] DEBUG                    wire.header  : >> "Authorization: Basic c29hcF9hcHA6SGVzbG8xMjM0NQ==[\r][\n]"
+2010-11-09 17:00:56,310 [entQueue-0] DEBUG                    wire.header  : >> "User-Agent: Jakarta Commons-HttpClient/3.1[\r][\n]"
+2010-11-09 17:00:56,310 [entQueue-0] DEBUG                    wire.header  : >> "Host: 192.168.224.106[\r][\n]"
+2010-11-09 17:00:56,310 [entQueue-0] DEBUG                    wire.header  : >> "Content-Length: 398[\r][\n]"
+2010-11-09 17:00:56,310 [entQueue-0] DEBUG                    wire.header  : >> "Content-Type: text/xml; charset=UTF-8[\r][\n]"
+2010-11-09 17:00:56,310 [entQueue-0] DEBUG                    wire.header  : >> "[\r][\n]"
+2010-11-09 17:00:56,310 [entQueue-0] DEBUG                   wire.content  : >> "<?xml version="1.0" encoding="UTF-8"?><soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ipbx="http://ipbx.namespace"><soapenv:Header/><soapenv:Body><ipbx:VoipexVypisHovoru><filtr></filtr><vypisOd>2010-11-09T16:55:00.000+01:00</vypisOd><vypisDo>2010-11-09T17:00:00.000+01:00</vypisDo><typVypisu>1</typVypisu></ipbx:VoipexVypisHovoru></soapenv:Body></soapenv:Envelope>"
+2010-11-09 17:00:56,326 [entQueue-0] DEBUG  methods.EntityEnclosingMethod  : Request body sent
+2010-11-09 17:00:56,357 [entQueue-0] DEBUG                    wire.header  : << "HTTP/1.1 200 OK[\r][\n]"
+2010-11-09 17:00:56,357 [entQueue-0] DEBUG                    wire.header  : << "HTTP/1.1 200 OK[\r][\n]"
+2010-11-09 17:00:56,357 [entQueue-0] DEBUG                    wire.header  : << "Date: Tue, 09 Nov 2010 16:00:16 GMT[\r][\n]"
+2010-11-09 17:00:56,357 [entQueue-0] DEBUG                    wire.header  : << "Server: Apache/2.2.3 (CentOS)[\r][\n]"
+2010-11-09 17:00:56,357 [entQueue-0] DEBUG                    wire.header  : << "X-Powered-By: PHP/5.1.6[\r][\n]"
+2010-11-09 17:00:56,357 [entQueue-0] DEBUG                    wire.header  : << "Content-Length: 290[\r][\n]"
+2010-11-09 17:00:56,357 [entQueue-0] DEBUG                    wire.header  : << "Connection: close[\r][\n]"
+2010-11-09 17:00:56,357 [entQueue-0] DEBUG                    wire.header  : << "Content-Type: text/xml; charset=utf-8[\r][\n]"
+2010-11-09 17:00:56,357 [entQueue-0] DEBUG                    wire.header  : << "[\r][\n]"
+2010-11-09 17:00:56,357 [entQueue-0] DEBUG                   wire.content  : << "<?xml version="1.0" encoding="UTF-8"?>[\n]"
+2010-11-09 17:00:56,357 [entQueue-0] DEBUG                   wire.content  : << "<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ns1="http://ipbx/binding"><SOAP-ENV:Body><ns1:VoipexVypisHovoruResponse><result>0</result><vypis/></ns1:VoipexVypisHovoruResponse></SOAP-ENV:Body></SOAP-ENV:Envelope>[\n]"
+2010-11-09 17:00:56,357 [entQueue-0] DEBUG      httpclient.HttpMethodBase  : Should close connection in response to directive: close
+2010-11-09 17:00:56,357 [entQueue-0] DEBUG      httpclient.HttpConnection  : Releasing connection back to connection manager.
+2010-11-09 17:01:16,295 [entQueue-0] DEBUG       params.DefaultHttpParams  : Set parameter http.authentication.preemptive = true
+2010-11-09 17:01:16,295 [entQueue-0] DEBUG  httpclient.HttpMethodDirector  : Preemptively sending default basic credentials
+2010-11-09 17:01:16,295 [entQueue-0] DEBUG  httpclient.HttpMethodDirector  : Authenticating with BASIC <any realm>@192.168.224.106:443
+2010-11-09 17:01:16,295 [entQueue-0] DEBUG        params.HttpMethodParams  : Credential charset not configured, using HTTP element charset
+2010-11-09 17:01:16,295 [entQueue-0] DEBUG      httpclient.HttpConnection  : Open connection to 192.168.224.106:443
+2010-11-09 17:01:16,310 [entQueue-0] DEBUG                    wire.header  : >> "POST /ipbx/soap/soapserver.php HTTP/1.1[\r][\n]"
+2010-11-09 17:01:16,310 [entQueue-0] DEBUG      httpclient.HttpMethodBase  : Adding Host request header
+2010-11-09 17:01:16,310 [entQueue-0] DEBUG                    wire.header  : >> "Authorization: Basic c29hcF9hcHA6SGVzbG8xMjM0NQ==[\r][\n]"
+2010-11-09 17:01:16,310 [entQueue-0] DEBUG                    wire.header  : >> "User-Agent: Jakarta Commons-HttpClient/3.1[\r][\n]"
+2010-11-09 17:01:16,310 [entQueue-0] DEBUG                    wire.header  : >> "Host: 192.168.224.106[\r][\n]"
+2010-11-09 17:01:16,310 [entQueue-0] DEBUG                    wire.header  : >> "Content-Length: 398[\r][\n]"
+2010-11-09 17:01:16,310 [entQueue-0] DEBUG                    wire.header  : >> "Content-Type: text/xml; charset=UTF-8[\r][\n]"
+2010-11-09 17:01:16,310 [entQueue-0] DEBUG                    wire.header  : >> "[\r][\n]"
+2010-11-09 17:01:16,310 [entQueue-0] DEBUG                   wire.content  : >> "<?xml version="1.0" encoding="UTF-8"?><soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ipbx="http://ipbx.namespace"><soapenv:Header/><soapenv:Body><ipbx:VoipexVypisHovoru><filtr></filtr><vypisOd>2010-11-09T16:55:00.000+01:00</vypisOd><vypisDo>2010-11-09T17:01:00.000+01:00</vypisDo><typVypisu>1</typVypisu></ipbx:VoipexVypisHovoru></soapenv:Body></soapenv:Envelope>"
+2010-11-09 17:01:16,326 [entQueue-0] DEBUG  methods.EntityEnclosingMethod  : Request body sent
+2010-11-09 17:01:16,357 [entQueue-0] DEBUG                    wire.header  : << "HTTP/1.1 200 OK[\r][\n]"
+2010-11-09 17:01:16,357 [entQueue-0] DEBUG                    wire.header  : << "HTTP/1.1 200 OK[\r][\n]"
+2010-11-09 17:01:16,357 [entQueue-0] DEBUG                    wire.header  : << "Date: Tue, 09 Nov 2010 16:00:36 GMT[\r][\n]"
+2010-11-09 17:01:16,357 [entQueue-0] DEBUG                    wire.header  : << "Server: Apache/2.2.3 (CentOS)[\r][\n]"
+2010-11-09 17:01:16,357 [entQueue-0] DEBUG                    wire.header  : << "X-Powered-By: PHP/5.1.6[\r][\n]"
+2010-11-09 17:01:16,357 [entQueue-0] DEBUG                    wire.header  : << "Content-Length: 290[\r][\n]"
+2010-11-09 17:01:16,357 [entQueue-0] DEBUG                    wire.header  : << "Connection: close[\r][\n]"
+2010-11-09 17:01:16,357 [entQueue-0] DEBUG                    wire.header  : << "Content-Type: text/xml; charset=utf-8[\r][\n]"
+2010-11-09 17:01:16,357 [entQueue-0] DEBUG                    wire.header  : << "[\r][\n]"
+2010-11-09 17:01:16,373 [entQueue-0] DEBUG                   wire.content  : << "<?xml version="1.0" encoding="UTF-8"?>[\n]"
+2010-11-09 17:01:16,373 [entQueue-0] DEBUG                   wire.content  : << "<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ns1="http://ipbx/binding"><SOAP-ENV:Body><ns1:VoipexVypisHovoruResponse><result>0</result><vypis/></ns1:VoipexVypisHovoruResponse></SOAP-ENV:Body></SOAP-ENV:Envelope>[\n]"
+2010-11-09 17:01:16,373 [entQueue-0] DEBUG      httpclient.HttpMethodBase  : Should close connection in response to directive: close
+2010-11-09 17:01:16,373 [entQueue-0] DEBUG      httpclient.HttpConnection  : Releasing connection back to connection manager.
+2010-11-09 17:01:36,295 [entQueue-0] DEBUG       params.DefaultHttpParams  : Set parameter http.authentication.preemptive = true
+2010-11-09 17:01:36,295 [entQueue-0] DEBUG  httpclient.HttpMethodDirector  : Preemptively sending default basic credentials
+2010-11-09 17:01:36,295 [entQueue-0] DEBUG  httpclient.HttpMethodDirector  : Authenticating with BASIC <any realm>@192.168.224.106:443
+2010-11-09 17:01:36,295 [entQueue-0] DEBUG        params.HttpMethodParams  : Credential charset not configured, using HTTP element charset
+2010-11-09 17:01:36,295 [entQueue-0] DEBUG      httpclient.HttpConnection  : Open connection to 192.168.224.106:443
+2010-11-09 17:01:36,326 [entQueue-0] DEBUG                    wire.header  : >> "POST /ipbx/soap/soapserver.php HTTP/1.1[\r][\n]"
+2010-11-09 17:01:36,326 [entQueue-0] DEBUG      httpclient.HttpMethodBase  : Adding Host request header
+2010-11-09 17:01:36,326 [entQueue-0] DEBUG                    wire.header  : >> "Authorization: Basic c29hcF9hcHA6SGVzbG8xMjM0NQ==[\r][\n]"
+2010-11-09 17:01:36,326 [entQueue-0] DEBUG                    wire.header  : >> "User-Agent: Jakarta Commons-HttpClient/3.1[\r][\n]"
+2010-11-09 17:01:36,326 [entQueue-0] DEBUG                    wire.header  : >> "Host: 192.168.224.106[\r][\n]"
+2010-11-09 17:01:36,326 [entQueue-0] DEBUG                    wire.header  : >> "Content-Length: 398[\r][\n]"
+2010-11-09 17:01:36,326 [entQueue-0] DEBUG                    wire.header  : >> "Content-Type: text/xml; charset=UTF-8[\r][\n]"
+2010-11-09 17:01:36,326 [entQueue-0] DEBUG                    wire.header  : >> "[\r][\n]"
+2010-11-09 17:01:36,326 [entQueue-0] DEBUG                   wire.content  : >> "<?xml version="1.0" encoding="UTF-8"?><soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ipbx="http://ipbx.namespace"><soapenv:Header/><soapenv:Body><ipbx:VoipexVypisHovoru><filtr></filtr><vypisOd>2010-11-09T16:55:00.000+01:00</vypisOd><vypisDo>2010-11-09T17:01:00.000+01:00</vypisDo><typVypisu>1</typVypisu></ipbx:VoipexVypisHovoru></soapenv:Body></soapenv:Envelope>"
+2010-11-09 17:01:36,326 [entQueue-0] DEBUG  methods.EntityEnclosingMethod  : Request body sent
+2010-11-09 17:01:36,373 [entQueue-0] DEBUG                    wire.header  : << "HTTP/1.1 200 OK[\r][\n]"
+2010-11-09 17:01:36,373 [entQueue-0] DEBUG                    wire.header  : << "HTTP/1.1 200 OK[\r][\n]"
+2010-11-09 17:01:36,373 [entQueue-0] DEBUG                    wire.header  : << "Date: Tue, 09 Nov 2010 16:00:56 GMT[\r][\n]"
+2010-11-09 17:01:36,373 [entQueue-0] DEBUG                    wire.header  : << "Server: Apache/2.2.3 (CentOS)[\r][\n]"
+2010-11-09 17:01:36,373 [entQueue-0] DEBUG                    wire.header  : << "X-Powered-By: PHP/5.1.6[\r][\n]"
+2010-11-09 17:01:36,373 [entQueue-0] DEBUG                    wire.header  : << "Content-Length: 290[\r][\n]"
+2010-11-09 17:01:36,373 [entQueue-0] DEBUG                    wire.header  : << "Connection: close[\r][\n]"
+2010-11-09 17:01:36,373 [entQueue-0] DEBUG                    wire.header  : << "Content-Type: text/xml; charset=utf-8[\r][\n]"
+2010-11-09 17:01:36,373 [entQueue-0] DEBUG                    wire.header  : << "[\r][\n]"
+2010-11-09 17:01:36,373 [entQueue-0] DEBUG                   wire.content  : << "<?xml version="1.0" encoding="UTF-8"?>[\n]"
+2010-11-09 17:01:36,373 [entQueue-0] DEBUG                   wire.content  : << "<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ns1="http://ipbx/binding"><SOAP-ENV:Body><ns1:VoipexVypisHovoruResponse><result>0</result><vypis/></ns1:VoipexVypisHovoruResponse></SOAP-ENV:Body></SOAP-ENV:Envelope>[\n]"
+2010-11-09 17:01:36,373 [entQueue-0] DEBUG      httpclient.HttpMethodBase  : Should close connection in response to directive: close
+2010-11-09 17:01:36,373 [entQueue-0] DEBUG      httpclient.HttpConnection  : Releasing connection back to connection manager.
+2010-11-09 17:01:56,295 [entQueue-0] DEBUG       params.DefaultHttpParams  : Set parameter http.authentication.preemptive = true
+2010-11-09 17:01:56,295 [entQueue-0] DEBUG  httpclient.HttpMethodDirector  : Preemptively sending default basic credentials
+2010-11-09 17:01:56,295 [entQueue-0] DEBUG  httpclient.HttpMethodDirector  : Authenticating with BASIC <any realm>@192.168.224.106:443
+2010-11-09 17:01:56,295 [entQueue-0] DEBUG        params.HttpMethodParams  : Credential charset not configured, using HTTP element charset
+2010-11-09 17:01:56,295 [entQueue-0] DEBUG      httpclient.HttpConnection  : Open connection to 192.168.224.106:443
+2010-11-09 17:01:56,311 [entQueue-0] DEBUG                    wire.header  : >> "POST /ipbx/soap/soapserver.php HTTP/1.1[\r][\n]"
+2010-11-09 17:01:56,311 [entQueue-0] DEBUG      httpclient.HttpMethodBase  : Adding Host request header
+2010-11-09 17:01:56,311 [entQueue-0] DEBUG                    wire.header  : >> "Authorization: Basic c29hcF9hcHA6SGVzbG8xMjM0NQ==[\r][\n]"
+2010-11-09 17:01:56,311 [entQueue-0] DEBUG                    wire.header  : >> "User-Agent: Jakarta Commons-HttpClient/3.1[\r][\n]"
+2010-11-09 17:01:56,311 [entQueue-0] DEBUG                    wire.header  : >> "Host: 192.168.224.106[\r][\n]"
+2010-11-09 17:01:56,311 [entQueue-0] DEBUG                    wire.header  : >> "Content-Length: 398[\r][\n]"
+2010-11-09 17:01:56,311 [entQueue-0] DEBUG                    wire.header  : >> "Content-Type: text/xml; charset=UTF-8[\r][\n]"
+2010-11-09 17:01:56,311 [entQueue-0] DEBUG                    wire.header  : >> "[\r][\n]"
+2010-11-09 17:01:56,311 [entQueue-0] DEBUG                   wire.content  : >> "<?xml version="1.0" encoding="UTF-8"?><soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ipbx="http://ipbx.namespace"><soapenv:Header/><soapenv:Body><ipbx:VoipexVypisHovoru><filtr></filtr><vypisOd>2010-11-09T16:55:00.000+01:00</vypisOd><vypisDo>2010-11-09T17:01:00.000+01:00</vypisDo><typVypisu>1</typVypisu></ipbx:VoipexVypisHovoru></soapenv:Body></soapenv:Envelope>"
+2010-11-09 17:01:56,327 [entQueue-0] DEBUG  methods.EntityEnclosingMethod  : Request body sent
+2010-11-09 17:01:56,373 [entQueue-0] DEBUG                    wire.header  : << "HTTP/1.1 200 OK[\r][\n]"
+2010-11-09 17:01:56,373 [entQueue-0] DEBUG                    wire.header  : << "HTTP/1.1 200 OK[\r][\n]"
+2010-11-09 17:01:56,373 [entQueue-0] DEBUG                    wire.header  : << "Date: Tue, 09 Nov 2010 16:01:16 GMT[\r][\n]"
+2010-11-09 17:01:56,373 [entQueue-0] DEBUG                    wire.header  : << "Server: Apache/2.2.3 (CentOS)[\r][\n]"
+2010-11-09 17:01:56,373 [entQueue-0] DEBUG                    wire.header  : << "X-Powered-By: PHP/5.1.6[\r][\n]"
+2010-11-09 17:01:56,373 [entQueue-0] DEBUG                    wire.header  : << "Content-Length: 290[\r][\n]"
+2010-11-09 17:01:56,373 [entQueue-0] DEBUG                    wire.header  : << "Connection: close[\r][\n]"
+2010-11-09 17:01:56,373 [entQueue-0] DEBUG                    wire.header  : << "Content-Type: text/xml; charset=utf-8[\r][\n]"
+2010-11-09 17:01:56,373 [entQueue-0] DEBUG                    wire.header  : << "[\r][\n]"
+2010-11-09 17:01:56,373 [entQueue-0] DEBUG                   wire.content  : << "<?xml version="1.0" encoding="UTF-8"?>[\n]"
+2010-11-09 17:01:56,373 [entQueue-0] DEBUG                   wire.content  : << "<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ns1="http://ipbx/binding"><SOAP-ENV:Body><ns1:VoipexVypisHovoruResponse><result>0</result><vypis/></ns1:VoipexVypisHovoruResponse></SOAP-ENV:Body></SOAP-ENV:Envelope>[\n]"
+2010-11-09 17:01:56,373 [entQueue-0] DEBUG      httpclient.HttpMethodBase  : Should close connection in response to directive: close
+2010-11-09 17:01:56,373 [entQueue-0] DEBUG      httpclient.HttpConnection  : Releasing connection back to connection manager.
+2010-11-09 17:02:16,296 [entQueue-0] DEBUG       params.DefaultHttpParams  : Set parameter http.authentication.preemptive = true
+2010-11-09 17:02:16,296 [entQueue-0] DEBUG  httpclient.HttpMethodDirector  : Preemptively sending default basic credentials
+2010-11-09 17:02:16,296 [entQueue-0] DEBUG  httpclient.HttpMethodDirector  : Authenticating with BASIC <any realm>@192.168.224.106:443
+2010-11-09 17:02:16,296 [entQueue-0] DEBUG        params.HttpMethodParams  : Credential charset not configured, using HTTP element charset
+2010-11-09 17:02:16,296 [entQueue-0] DEBUG      httpclient.HttpConnection  : Open connection to 192.168.224.106:443
+2010-11-09 17:02:16,311 [entQueue-0] DEBUG                    wire.header  : >> "POST /ipbx/soap/soapserver.php HTTP/1.1[\r][\n]"
+2010-11-09 17:02:16,311 [entQueue-0] DEBUG      httpclient.HttpMethodBase  : Adding Host request header
+2010-11-09 17:02:16,311 [entQueue-0] DEBUG                    wire.header  : >> "Authorization: Basic c29hcF9hcHA6SGVzbG8xMjM0NQ==[\r][\n]"
+2010-11-09 17:02:16,311 [entQueue-0] DEBUG                    wire.header  : >> "User-Agent: Jakarta Commons-HttpClient/3.1[\r][\n]"
+2010-11-09 17:02:16,311 [entQueue-0] DEBUG                    wire.header  : >> "Host: 192.168.224.106[\r][\n]"
+2010-11-09 17:02:16,311 [entQueue-0] DEBUG                    wire.header  : >> "Content-Length: 398[\r][\n]"
+2010-11-09 17:02:16,311 [entQueue-0] DEBUG                    wire.header  : >> "Content-Type: text/xml; charset=UTF-8[\r][\n]"
+2010-11-09 17:02:16,311 [entQueue-0] DEBUG                    wire.header  : >> "[\r][\n]"
+2010-11-09 17:02:16,311 [entQueue-0] DEBUG                   wire.content  : >> "<?xml version="1.0" encoding="UTF-8"?><soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ipbx="http://ipbx.namespace"><soapenv:Header/><soapenv:Body><ipbx:VoipexVypisHovoru><filtr></filtr><vypisOd>2010-11-09T16:55:00.000+01:00</vypisOd><vypisDo>2010-11-09T17:02:00.000+01:00</vypisDo><typVypisu>1</typVypisu></ipbx:VoipexVypisHovoru></soapenv:Body></soapenv:Envelope>"
+2010-11-09 17:02:16,311 [entQueue-0] DEBUG  methods.EntityEnclosingMethod  : Request body sent
+2010-11-09 17:02:16,358 [entQueue-0] DEBUG                    wire.header  : << "HTTP/1.1 200 OK[\r][\n]"
+2010-11-09 17:02:16,358 [entQueue-0] DEBUG                    wire.header  : << "HTTP/1.1 200 OK[\r][\n]"
+2010-11-09 17:02:16,358 [entQueue-0] DEBUG                    wire.header  : << "Date: Tue, 09 Nov 2010 16:01:36 GMT[\r][\n]"
+2010-11-09 17:02:16,358 [entQueue-0] DEBUG                    wire.header  : << "Server: Apache/2.2.3 (CentOS)[\r][\n]"
+2010-11-09 17:02:16,358 [entQueue-0] DEBUG                    wire.header  : << "X-Powered-By: PHP/5.1.6[\r][\n]"
+2010-11-09 17:02:16,358 [entQueue-0] DEBUG                    wire.header  : << "Content-Length: 290[\r][\n]"
+2010-11-09 17:02:16,358 [entQueue-0] DEBUG                    wire.header  : << "Connection: close[\r][\n]"
+2010-11-09 17:02:16,358 [entQueue-0] DEBUG                    wire.header  : << "Content-Type: text/xml; charset=utf-8[\r][\n]"
+2010-11-09 17:02:16,358 [entQueue-0] DEBUG                    wire.header  : << "[\r][\n]"
+2010-11-09 17:02:16,358 [entQueue-0] DEBUG                   wire.content  : << "<?xml version="1.0" encoding="UTF-8"?>[\n]"
+2010-11-09 17:02:16,358 [entQueue-0] DEBUG                   wire.content  : << "<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ns1="http://ipbx/binding"><SOAP-ENV:Body><ns1:VoipexVypisHovoruResponse><result>0</result><vypis/></ns1:VoipexVypisHovoruResponse></SOAP-ENV:Body></SOAP-ENV:Envelope>[\n]"
+2010-11-09 17:02:16,358 [entQueue-0] DEBUG      httpclient.HttpMethodBase  : Should close connection in response to directive: close
+2010-11-09 17:02:16,358 [entQueue-0] DEBUG      httpclient.HttpConnection  : Releasing connection back to connection manager.
+2010-11-09 17:02:36,296 [entQueue-0] DEBUG       params.DefaultHttpParams  : Set parameter http.authentication.preemptive = true
+2010-11-09 17:02:36,296 [entQueue-0] DEBUG  httpclient.HttpMethodDirector  : Preemptively sending default basic credentials
+2010-11-09 17:02:36,296 [entQueue-0] DEBUG  httpclient.HttpMethodDirector  : Authenticating with BASIC <any realm>@192.168.224.106:443
+2010-11-09 17:02:36,296 [entQueue-0] DEBUG        params.HttpMethodParams  : Credential charset not configured, using HTTP element charset
+2010-11-09 17:02:36,296 [entQueue-0] DEBUG      httpclient.HttpConnection  : Open connection to 192.168.224.106:443
+2010-11-09 17:02:36,311 [entQueue-0] DEBUG                    wire.header  : >> "POST /ipbx/soap/soapserver.php HTTP/1.1[\r][\n]"
+2010-11-09 17:02:36,311 [entQueue-0] DEBUG      httpclient.HttpMethodBase  : Adding Host request header
+2010-11-09 17:02:36,311 [entQueue-0] DEBUG                    wire.header  : >> "Authorization: Basic c29hcF9hcHA6SGVzbG8xMjM0NQ==[\r][\n]"
+2010-11-09 17:02:36,311 [entQueue-0] DEBUG                    wire.header  : >> "User-Agent: Jakarta Commons-HttpClient/3.1[\r][\n]"
+2010-11-09 17:02:36,311 [entQueue-0] DEBUG                    wire.header  : >> "Host: 192.168.224.106[\r][\n]"
+2010-11-09 17:02:36,311 [entQueue-0] DEBUG                    wire.header  : >> "Content-Length: 398[\r][\n]"
+2010-11-09 17:02:36,311 [entQueue-0] DEBUG                    wire.header  : >> "Content-Type: text/xml; charset=UTF-8[\r][\n]"
+2010-11-09 17:02:36,311 [entQueue-0] DEBUG                    wire.header  : >> "[\r][\n]"
+2010-11-09 17:02:36,311 [entQueue-0] DEBUG                   wire.content  : >> "<?xml version="1.0" encoding="UTF-8"?><soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ipbx="http://ipbx.namespace"><soapenv:Header/><soapenv:Body><ipbx:VoipexVypisHovoru><filtr></filtr><vypisOd>2010-11-09T16:55:00.000+01:00</vypisOd><vypisDo>2010-11-09T17:02:00.000+01:00</vypisDo><typVypisu>1</typVypisu></ipbx:VoipexVypisHovoru></soapenv:Body></soapenv:Envelope>"
+2010-11-09 17:02:36,327 [entQueue-0] DEBUG  methods.EntityEnclosingMethod  : Request body sent
+2010-11-09 17:02:36,358 [entQueue-0] DEBUG                    wire.header  : << "HTTP/1.1 200 OK[\r][\n]"
+2010-11-09 17:02:36,358 [entQueue-0] DEBUG                    wire.header  : << "HTTP/1.1 200 OK[\r][\n]"
+2010-11-09 17:02:36,358 [entQueue-0] DEBUG                    wire.header  : << "Date: Tue, 09 Nov 2010 16:01:56 GMT[\r][\n]"
+2010-11-09 17:02:36,358 [entQueue-0] DEBUG                    wire.header  : << "Server: Apache/2.2.3 (CentOS)[\r][\n]"
+2010-11-09 17:02:36,358 [entQueue-0] DEBUG                    wire.header  : << "X-Powered-By: PHP/5.1.6[\r][\n]"
+2010-11-09 17:02:36,358 [entQueue-0] DEBUG                    wire.header  : << "Content-Length: 290[\r][\n]"
+2010-11-09 17:02:36,358 [entQueue-0] DEBUG                    wire.header  : << "Connection: close[\r][\n]"
+2010-11-09 17:02:36,358 [entQueue-0] DEBUG                    wire.header  : << "Content-Type: text/xml; charset=utf-8[\r][\n]"
+2010-11-09 17:02:36,358 [entQueue-0] DEBUG                    wire.header  : << "[\r][\n]"
+2010-11-09 17:02:36,358 [entQueue-0] DEBUG                   wire.content  : << "<?xml version="1.0" encoding="UTF-8"?>[\n]"
+2010-11-09 17:02:36,358 [entQueue-0] DEBUG                   wire.content  : << "<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ns1="http://ipbx/binding"><SOAP-ENV:Body><ns1:VoipexVypisHovoruResponse><result>0</result><vypis/></ns1:VoipexVypisHovoruResponse></SOAP-ENV:Body></SOAP-ENV:Envelope>[\n]"
+2010-11-09 17:02:36,358 [entQueue-0] DEBUG      httpclient.HttpMethodBase  : Should close connection in response to directive: close
+2010-11-09 17:02:36,358 [entQueue-0] DEBUG      httpclient.HttpConnection  : Releasing connection back to connection manager.
+2010-11-09 17:02:56,296 [entQueue-0] DEBUG       params.DefaultHttpParams  : Set parameter http.authentication.preemptive = true
+2010-11-09 17:02:56,296 [entQueue-0] DEBUG  httpclient.HttpMethodDirector  : Preemptively sending default basic credentials
+2010-11-09 17:02:56,296 [entQueue-0] DEBUG  httpclient.HttpMethodDirector  : Authenticating with BASIC <any realm>@192.168.224.106:443
+2010-11-09 17:02:56,296 [entQueue-0] DEBUG        params.HttpMethodParams  : Credential charset not configured, using HTTP element charset
+2010-11-09 17:02:56,296 [entQueue-0] DEBUG      httpclient.HttpConnection  : Open connection to 192.168.224.106:443
+2010-11-09 17:02:56,327 [entQueue-0] DEBUG                    wire.header  : >> "POST /ipbx/soap/soapserver.php HTTP/1.1[\r][\n]"
+2010-11-09 17:02:56,327 [entQueue-0] DEBUG      httpclient.HttpMethodBase  : Adding Host request header
+2010-11-09 17:02:56,327 [entQueue-0] DEBUG                    wire.header  : >> "Authorization: Basic c29hcF9hcHA6SGVzbG8xMjM0NQ==[\r][\n]"
+2010-11-09 17:02:56,327 [entQueue-0] DEBUG                    wire.header  : >> "User-Agent: Jakarta Commons-HttpClient/3.1[\r][\n]"
+2010-11-09 17:02:56,327 [entQueue-0] DEBUG                    wire.header  : >> "Host: 192.168.224.106[\r][\n]"
+2010-11-09 17:02:56,327 [entQueue-0] DEBUG                    wire.header  : >> "Content-Length: 398[\r][\n]"
+2010-11-09 17:02:56,327 [entQueue-0] DEBUG                    wire.header  : >> "Content-Type: text/xml; charset=UTF-8[\r][\n]"
+2010-11-09 17:02:56,327 [entQueue-0] DEBUG                    wire.header  : >> "[\r][\n]"
+2010-11-09 17:02:56,327 [entQueue-0] DEBUG                   wire.content  : >> "<?xml version="1.0" encoding="UTF-8"?><soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ipbx="http://ipbx.namespace"><soapenv:Header/><soapenv:Body><ipbx:VoipexVypisHovoru><filtr></filtr><vypisOd>2010-11-09T16:55:00.000+01:00</vypisOd><vypisDo>2010-11-09T17:02:00.000+01:00</vypisDo><typVypisu>1</typVypisu></ipbx:VoipexVypisHovoru></soapenv:Body></soapenv:Envelope>"
+2010-11-09 17:02:56,327 [entQueue-0] DEBUG  methods.EntityEnclosingMethod  : Request body sent
+2010-11-09 17:02:56,374 [entQueue-0] DEBUG                    wire.header  : << "HTTP/1.1 200 OK[\r][\n]"
+2010-11-09 17:02:56,374 [entQueue-0] DEBUG                    wire.header  : << "HTTP/1.1 200 OK[\r][\n]"
+2010-11-09 17:02:56,374 [entQueue-0] DEBUG                    wire.header  : << "Date: Tue, 09 Nov 2010 16:02:16 GMT[\r][\n]"
+2010-11-09 17:02:56,374 [entQueue-0] DEBUG                    wire.header  : << "Server: Apache/2.2.3 (CentOS)[\r][\n]"
+2010-11-09 17:02:56,374 [entQueue-0] DEBUG                    wire.header  : << "X-Powered-By: PHP/5.1.6[\r][\n]"
+2010-11-09 17:02:56,374 [entQueue-0] DEBUG                    wire.header  : << "Content-Length: 290[\r][\n]"
+2010-11-09 17:02:56,374 [entQueue-0] DEBUG                    wire.header  : << "Connection: close[\r][\n]"
+2010-11-09 17:02:56,374 [entQueue-0] DEBUG                    wire.header  : << "Content-Type: text/xml; charset=utf-8[\r][\n]"
+2010-11-09 17:02:56,374 [entQueue-0] DEBUG                    wire.header  : << "[\r][\n]"
+2010-11-09 17:02:56,374 [entQueue-0] DEBUG                   wire.content  : << "<?xml version="1.0" encoding="UTF-8"?>[\n]"
+2010-11-09 17:02:56,374 [entQueue-0] DEBUG                   wire.content  : << "<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ns1="http://ipbx/binding"><SOAP-ENV:Body><ns1:VoipexVypisHovoruResponse><result>0</result><vypis/></ns1:VoipexVypisHovoruResponse></SOAP-ENV:Body></SOAP-ENV:Envelope>[\n]"
+2010-11-09 17:02:56,374 [entQueue-0] DEBUG      httpclient.HttpMethodBase  : Should close connection in response to directive: close
+2010-11-09 17:02:56,374 [entQueue-0] DEBUG      httpclient.HttpConnection  : Releasing connection back to connection manager.
+2010-11-09 17:07:02,002 [entQueue-0] DEBUG          httpclient.HttpClient  : Java version: 1.6.0_13
+2010-11-09 17:07:02,002 [entQueue-0] DEBUG          httpclient.HttpClient  : Java vendor: Sun Microsystems Inc.
+2010-11-09 17:07:02,002 [entQueue-0] DEBUG          httpclient.HttpClient  : Java class path: C:\data\java\soap\App\dist\App.jar
+2010-11-09 17:07:02,002 [entQueue-0] DEBUG          httpclient.HttpClient  : Operating system name: Windows XP
+2010-11-09 17:07:02,002 [entQueue-0] DEBUG          httpclient.HttpClient  : Operating system architecture: x86
+2010-11-09 17:07:02,002 [entQueue-0] DEBUG          httpclient.HttpClient  : Operating system version: 5.1
+2010-11-09 17:07:02,362 [entQueue-0] DEBUG          httpclient.HttpClient  : SUN 1.6: SUN (DSA key/parameter generation; DSA signing; SHA-1, MD5 digests; SecureRandom; X.509 certificates; JKS keystore; PKIX CertPathValidator; PKIX CertPathBuilder; LDAP, Collection CertStores, JavaPolicy Policy; JavaLoginConfig Configuration)
+2010-11-09 17:07:02,362 [entQueue-0] DEBUG          httpclient.HttpClient  : SunRsaSign 1.5: Sun RSA signature provider
+2010-11-09 17:07:02,362 [entQueue-0] DEBUG          httpclient.HttpClient  : SunJSSE 1.6: Sun JSSE provider(PKCS12, SunX509 key/trust factories, SSLv3, TLSv1)
+2010-11-09 17:07:02,362 [entQueue-0] DEBUG          httpclient.HttpClient  : SunJCE 1.6: SunJCE Provider (implements RSA, DES, Triple DES, AES, Blowfish, ARCFOUR, RC2, PBE, Diffie-Hellman, HMAC)
+2010-11-09 17:07:02,362 [entQueue-0] DEBUG          httpclient.HttpClient  : SunJGSS 1.0: Sun (Kerberos v5, SPNEGO)
+2010-11-09 17:07:02,362 [entQueue-0] DEBUG          httpclient.HttpClient  : SunSASL 1.5: Sun SASL provider(implements client mechanisms for: DIGEST-MD5, GSSAPI, EXTERNAL, PLAIN, CRAM-MD5; server mechanisms for: DIGEST-MD5, GSSAPI, CRAM-MD5)
+2010-11-09 17:07:02,362 [entQueue-0] DEBUG          httpclient.HttpClient  : XMLDSig 1.0: XMLDSig (DOM XMLSignatureFactory; DOM KeyInfoFactory)
+2010-11-09 17:07:02,362 [entQueue-0] DEBUG          httpclient.HttpClient  : SunPCSC 1.6: Sun PC/SC provider
+2010-11-09 17:07:02,362 [entQueue-0] DEBUG          httpclient.HttpClient  : SunMSCAPI 1.6: Sun's Microsoft Crypto API provider
+2010-11-09 17:07:02,377 [entQueue-0] DEBUG       params.DefaultHttpParams  : Set parameter http.useragent = Jakarta Commons-HttpClient/3.1
+2010-11-09 17:07:02,377 [entQueue-0] DEBUG       params.DefaultHttpParams  : Set parameter http.protocol.version = HTTP/1.1
+2010-11-09 17:07:02,377 [entQueue-0] DEBUG       params.DefaultHttpParams  : Set parameter http.connection-manager.class = class org.apache.commons.httpclient.SimpleHttpConnectionManager
+2010-11-09 17:07:02,377 [entQueue-0] DEBUG       params.DefaultHttpParams  : Set parameter http.protocol.cookie-policy = default
+2010-11-09 17:07:02,377 [entQueue-0] DEBUG       params.DefaultHttpParams  : Set parameter http.protocol.element-charset = US-ASCII
+2010-11-09 17:07:02,377 [entQueue-0] DEBUG       params.DefaultHttpParams  : Set parameter http.protocol.content-charset = ISO-8859-1
+2010-11-09 17:07:02,393 [entQueue-0] DEBUG       params.DefaultHttpParams  : Set parameter http.method.retry-handler = org.apache.commons.httpclient.DefaultHttpMethodRetryHandler@1bd0dd4
+2010-11-09 17:07:02,393 [entQueue-0] DEBUG       params.DefaultHttpParams  : Set parameter http.dateparser.patterns = [EEE, dd MMM yyyy HH:mm:ss zzz, EEEE, dd-MMM-yy HH:mm:ss zzz, EEE MMM d HH:mm:ss yyyy, EEE, dd-MMM-yyyy HH:mm:ss z, EEE, dd-MMM-yyyy HH-mm-ss z, EEE, dd MMM yy HH:mm:ss z, EEE dd-MMM-yyyy HH:mm:ss z, EEE dd MMM yyyy HH:mm:ss z, EEE dd-MMM-yyyy HH-mm-ss z, EEE dd-MMM-yy HH:mm:ss z, EEE dd MMM yy HH:mm:ss z, EEE,dd-MMM-yy HH:mm:ss z, EEE,dd-MMM-yyyy HH:mm:ss z, EEE, dd-MM-yyyy HH:mm:ss z]
+2010-11-09 17:07:02,409 [entQueue-0] DEBUG       params.DefaultHttpParams  : Set parameter http.authentication.preemptive = true
+2010-11-09 17:07:02,502 [entQueue-0] DEBUG  httpclient.HttpMethodDirector  : Preemptively sending default basic credentials
+2010-11-09 17:07:02,518 [entQueue-0] DEBUG  httpclient.HttpMethodDirector  : Authenticating with BASIC <any realm>@192.168.224.106:443
+2010-11-09 17:07:02,518 [entQueue-0] DEBUG        params.HttpMethodParams  : Credential charset not configured, using HTTP element charset
+2010-11-09 17:07:02,534 [entQueue-0] DEBUG      httpclient.HttpConnection  : Open connection to 192.168.224.106:443
+2010-11-09 17:07:03,284 [entQueue-0] DEBUG                    wire.header  : >> "POST /ipbx/soap/soapserver.php HTTP/1.1[\r][\n]"
+2010-11-09 17:07:03,284 [entQueue-0] DEBUG      httpclient.HttpMethodBase  : Adding Host request header
+2010-11-09 17:07:03,299 [entQueue-0] DEBUG                    wire.header  : >> "Authorization: Basic c29hcF9hcHA6SGVzbG8xMjM0NQ==[\r][\n]"
+2010-11-09 17:07:03,299 [entQueue-0] DEBUG                    wire.header  : >> "User-Agent: Jakarta Commons-HttpClient/3.1[\r][\n]"
+2010-11-09 17:07:03,299 [entQueue-0] DEBUG                    wire.header  : >> "Host: 192.168.224.106[\r][\n]"
+2010-11-09 17:07:03,299 [entQueue-0] DEBUG                    wire.header  : >> "Content-Length: 398[\r][\n]"
+2010-11-09 17:07:03,315 [entQueue-0] DEBUG                    wire.header  : >> "Content-Type: text/xml; charset=UTF-8[\r][\n]"
+2010-11-09 17:07:03,315 [entQueue-0] DEBUG                    wire.header  : >> "[\r][\n]"
+2010-11-09 17:07:03,315 [entQueue-0] DEBUG                   wire.content  : >> "<?xml version="1.0" encoding="UTF-8"?><soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ipbx="http://ipbx.namespace"><soapenv:Header/><soapenv:Body><ipbx:VoipexVypisHovoru><filtr></filtr><vypisOd>2010-11-09T17:02:00.000+01:00</vypisOd><vypisDo>2010-11-09T17:07:00.000+01:00</vypisDo><typVypisu>1</typVypisu></ipbx:VoipexVypisHovoru></soapenv:Body></soapenv:Envelope>"
+2010-11-09 17:07:03,393 [entQueue-0] DEBUG  methods.EntityEnclosingMethod  : Request body sent
+2010-11-09 17:07:03,424 [entQueue-0] DEBUG                    wire.header  : << "HTTP/1.1 200 OK[\r][\n]"
+2010-11-09 17:07:03,424 [entQueue-0] DEBUG                    wire.header  : << "HTTP/1.1 200 OK[\r][\n]"
+2010-11-09 17:07:03,424 [entQueue-0] DEBUG                    wire.header  : << "Date: Tue, 09 Nov 2010 16:06:23 GMT[\r][\n]"
+2010-11-09 17:07:03,424 [entQueue-0] DEBUG                    wire.header  : << "Server: Apache/2.2.3 (CentOS)[\r][\n]"
+2010-11-09 17:07:03,424 [entQueue-0] DEBUG                    wire.header  : << "X-Powered-By: PHP/5.1.6[\r][\n]"
+2010-11-09 17:07:03,424 [entQueue-0] DEBUG                    wire.header  : << "Content-Length: 290[\r][\n]"
+2010-11-09 17:07:03,424 [entQueue-0] DEBUG                    wire.header  : << "Connection: close[\r][\n]"
+2010-11-09 17:07:03,424 [entQueue-0] DEBUG                    wire.header  : << "Content-Type: text/xml; charset=utf-8[\r][\n]"
+2010-11-09 17:07:03,424 [entQueue-0] DEBUG                    wire.header  : << "[\r][\n]"
+2010-11-09 17:07:03,580 [entQueue-0] DEBUG                   wire.content  : << "<?xml version="1.0" encoding="UTF-8"?>[\n]"
+2010-11-09 17:07:03,580 [entQueue-0] DEBUG                   wire.content  : << "<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ns1="http://ipbx/binding"><SOAP-ENV:Body><ns1:VoipexVypisHovoruResponse><result>0</result><vypis/></ns1:VoipexVypisHovoruResponse></SOAP-ENV:Body></SOAP-ENV:Envelope>[\n]"
+2010-11-09 17:07:03,596 [entQueue-0] DEBUG      httpclient.HttpMethodBase  : Should close connection in response to directive: close
+2010-11-09 17:07:03,596 [entQueue-0] DEBUG      httpclient.HttpConnection  : Releasing connection back to connection manager.
+2010-11-09 17:07:21,924 [entQueue-0] DEBUG       params.DefaultHttpParams  : Set parameter http.authentication.preemptive = true
+2010-11-09 17:07:21,924 [entQueue-0] DEBUG  httpclient.HttpMethodDirector  : Preemptively sending default basic credentials
+2010-11-09 17:07:21,924 [entQueue-0] DEBUG  httpclient.HttpMethodDirector  : Authenticating with BASIC <any realm>@192.168.224.106:443
+2010-11-09 17:07:21,924 [entQueue-0] DEBUG        params.HttpMethodParams  : Credential charset not configured, using HTTP element charset
+2010-11-09 17:07:21,924 [entQueue-0] DEBUG      httpclient.HttpConnection  : Open connection to 192.168.224.106:443
+2010-11-09 17:07:21,940 [entQueue-0] DEBUG                    wire.header  : >> "POST /ipbx/soap/soapserver.php HTTP/1.1[\r][\n]"
+2010-11-09 17:07:21,940 [entQueue-0] DEBUG      httpclient.HttpMethodBase  : Adding Host request header
+2010-11-09 17:07:21,940 [entQueue-0] DEBUG                    wire.header  : >> "Authorization: Basic c29hcF9hcHA6SGVzbG8xMjM0NQ==[\r][\n]"
+2010-11-09 17:07:21,940 [entQueue-0] DEBUG                    wire.header  : >> "User-Agent: Jakarta Commons-HttpClient/3.1[\r][\n]"
+2010-11-09 17:07:21,940 [entQueue-0] DEBUG                    wire.header  : >> "Host: 192.168.224.106[\r][\n]"
+2010-11-09 17:07:21,940 [entQueue-0] DEBUG                    wire.header  : >> "Content-Length: 398[\r][\n]"
+2010-11-09 17:07:21,940 [entQueue-0] DEBUG                    wire.header  : >> "Content-Type: text/xml; charset=UTF-8[\r][\n]"
+2010-11-09 17:07:21,940 [entQueue-0] DEBUG                    wire.header  : >> "[\r][\n]"
+2010-11-09 17:07:21,940 [entQueue-0] DEBUG                   wire.content  : >> "<?xml version="1.0" encoding="UTF-8"?><soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ipbx="http://ipbx.namespace"><soapenv:Header/><soapenv:Body><ipbx:VoipexVypisHovoru><filtr></filtr><vypisOd>2010-11-09T17:02:00.000+01:00</vypisOd><vypisDo>2010-11-09T17:07:00.000+01:00</vypisDo><typVypisu>1</typVypisu></ipbx:VoipexVypisHovoru></soapenv:Body></soapenv:Envelope>"
+2010-11-09 17:07:21,956 [entQueue-0] DEBUG  methods.EntityEnclosingMethod  : Request body sent
+2010-11-09 17:07:21,987 [entQueue-0] DEBUG                    wire.header  : << "HTTP/1.1 200 OK[\r][\n]"
+2010-11-09 17:07:21,987 [entQueue-0] DEBUG                    wire.header  : << "HTTP/1.1 200 OK[\r][\n]"
+2010-11-09 17:07:21,987 [entQueue-0] DEBUG                    wire.header  : << "Date: Tue, 09 Nov 2010 16:06:42 GMT[\r][\n]"
+2010-11-09 17:07:21,987 [entQueue-0] DEBUG                    wire.header  : << "Server: Apache/2.2.3 (CentOS)[\r][\n]"
+2010-11-09 17:07:21,987 [entQueue-0] DEBUG                    wire.header  : << "X-Powered-By: PHP/5.1.6[\r][\n]"
+2010-11-09 17:07:21,987 [entQueue-0] DEBUG                    wire.header  : << "Content-Length: 290[\r][\n]"
+2010-11-09 17:07:21,987 [entQueue-0] DEBUG                    wire.header  : << "Connection: close[\r][\n]"
+2010-11-09 17:07:21,987 [entQueue-0] DEBUG                    wire.header  : << "Content-Type: text/xml; charset=utf-8[\r][\n]"
+2010-11-09 17:07:21,987 [entQueue-0] DEBUG                    wire.header  : << "[\r][\n]"
+2010-11-09 17:07:21,987 [entQueue-0] DEBUG                   wire.content  : << "<?xml version="1.0" encoding="UTF-8"?>[\n]"
+2010-11-09 17:07:21,987 [entQueue-0] DEBUG                   wire.content  : << "<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ns1="http://ipbx/binding"><SOAP-ENV:Body><ns1:VoipexVypisHovoruResponse><result>0</result><vypis/></ns1:VoipexVypisHovoruResponse></SOAP-ENV:Body></SOAP-ENV:Envelope>[\n]"
+2010-11-09 17:07:21,987 [entQueue-0] DEBUG      httpclient.HttpMethodBase  : Should close connection in response to directive: close
+2010-11-09 17:07:21,987 [entQueue-0] DEBUG      httpclient.HttpConnection  : Releasing connection back to connection manager.

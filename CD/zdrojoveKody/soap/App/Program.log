@@ -1,0 +1,172 @@
+23.8.2011 12:16:36 SOAP.Menu main
+INFO: Spusteni programu
+23.8.2011 12:16:37 SOAP.Menu main
+SEVERE: klic se neshoduje
+23.8.2011 12:18:12 SOAP.Menu main
+INFO: Spusteni programu
+23.8.2011 12:22:55 SOAP.Menu main
+SEVERE: Soubor serial.ser s licencnim cislem neexistuje, ukoncuji program, PC:s12038-12644-55-124
+23.8.2011 12:23:08 SOAP.Menu main
+INFO: Spusteni programu
+23.8.2011 12:23:11 SOAP.Menu main
+INFO: Spousteni po 10000 milisekundach
+23.8.2011 12:23:11 SOAP.Menu main
+INFO: Spusteni interface dle soap.properties
+23.8.2011 12:34:25 SOAP.Menu$11 actionPerformed
+INFO: Ukoncuji Program
+23.8.2011 12:34:45 SOAP.Menu main
+INFO: Spusteni programu
+23.8.2011 12:34:47 SOAP.Menu main
+INFO: Spousteni po 10000 milisekundach
+23.8.2011 12:34:47 SOAP.Menu main
+INFO: Spusteni interface dle soap.properties
+23.8.2011 13:10:42 SOAP.Menu$11 actionPerformed
+INFO: Ukoncuji Program
+23.8.2011 13:10:52 SOAP.Menu main
+INFO: Spusteni programu
+23.8.2011 13:10:53 SOAP.Menu main
+INFO: Spousteni po 10000 milisekundach
+23.8.2011 13:10:53 SOAP.Menu main
+INFO: Spusteni interface dle soap.properties
+23.8.2011 19:07:21 SOAP.Menu$11 actionPerformed
+INFO: Ukoncuji Program
+24.8.2011 3:33:15 SOAP.Menu main
+INFO: Spusteni programu
+25.8.2011 0:05:33 SOAP.DB dbConnect
+SEVERE: Nepodarilo se napojit do databaze
+28.8.2011 23:30:19 SOAP.Menu main
+INFO: Spusteni programu
+28.8.2011 23:30:27 SOAP.Menu main
+INFO: Spousteni po 10000 milisekundach
+28.8.2011 23:30:27 SOAP.Menu main
+INFO: Spusteni interface dle soap.properties
+28.8.2011 23:31:20 SOAP.IniciaceDB <init>
+INFO: Iniciace Databaze - Maze linky a detaily linky
+28.8.2011 23:31:21 SOAP.IniciaceDB spust
+INFO: Iniciace DB - zaplneni tabulky linky z ustredny
+28.8.2011 23:33:44 SOAP.Menu$9 actionPerformed
+INFO: Automat nastartovan rucne
+28.8.2011 23:33:54 SOAP.Menu$10 actionPerformed
+INFO: Automat zastaven rucne
+28.8.2011 23:36:30 SOAP.Menu$11 actionPerformed
+INFO: Ukoncuji Program
+28.8.2011 23:57:39 SOAP.Menu main
+INFO: Spusteni programu
+28.8.2011 23:57:40 SOAP.Menu main
+INFO: Spousteni po 10000 milisekundach
+28.8.2011 23:57:40 SOAP.Menu main
+INFO: Spusteni interface dle soap.properties
+29.8.2011 0:29:45 SOAP.Menu$11 actionPerformed
+INFO: Ukoncuji Program
+29.8.2011 0:35:11 SOAP.Menu main
+INFO: Spusteni programu
+29.8.2011 0:35:12 SOAP.Menu main
+INFO: Spousteni po 10000 milisekundach
+29.8.2011 0:35:12 SOAP.Menu main
+INFO: Spusteni interface dle soap.properties
+29.8.2011 9:04:41 SOAP.DB dbConnect
+SEVERE: Nepodarilo se napojit do databaze
+29.8.2011 11:00:32 SOAP.Menu$11 actionPerformed
+INFO: Ukoncuji Program
+29.8.2011 11:52:37 SOAP.Menu main
+INFO: Spusteni programu
+29.8.2011 11:52:38 SOAP.Menu main
+INFO: Spousteni po 10000 milisekundach
+29.8.2011 11:52:38 SOAP.Menu main
+INFO: Spusteni interface dle soap.properties
+29.8.2011 11:53:10 SOAP.Menu$11 actionPerformed
+INFO: Ukoncuji Program
+29.8.2011 11:53:34 SOAP.Menu main
+INFO: Spusteni programu
+29.8.2011 11:53:35 SOAP.Menu main
+INFO: Spousteni po 10000 milisekundach
+29.8.2011 11:53:35 SOAP.Menu main
+INFO: Spusteni interface dle soap.properties
+29.8.2011 11:53:53 SOAP.Menu$11 actionPerformed
+INFO: Ukoncuji Program
+29.8.2011 12:55:43 SOAP.Menu main
+INFO: Spusteni programu
+29.8.2011 12:55:44 SOAP.Menu main
+INFO: Spousteni po 10000 milisekundach
+29.8.2011 12:55:44 SOAP.Menu main
+INFO: Spusteni interface dle soap.properties
+29.8.2011 13:02:14 SOAP.Menu$11 actionPerformed
+INFO: Ukoncuji Program
+29.8.2011 15:00:38 SOAP.Menu main
+INFO: Spusteni programu
+29.8.2011 15:00:39 SOAP.Menu main
+INFO: Spousteni po 10000 milisekundach
+29.8.2011 15:00:39 SOAP.Menu main
+INFO: Spusteni interface dle soap.properties
+29.8.2011 15:01:04 SOAP.Buzeni run
+INFO: Budim 101 volanim na 899
+29.8.2011 15:02:08 SOAP.LinkyHandler1 endDocument
+INFO: Buzeni: linku 101 se nepodarilo vzbudit, nastavuji novy termin o 3 pozdeji
+29.8.2011 15:04:09 SOAP.Buzeni run
+INFO: Budim 101 volanim na 899
+29.8.2011 15:05:11 SOAP.LinkyHandler1 endDocument
+INFO: Buzeni: linku 101 se nepodarilo vzbudit, nastavuji novy termin o 3 pozdeji
+29.8.2011 15:07:11 SOAP.Buzeni run
+INFO: Budim 101 volanim na 899
+29.8.2011 15:08:13 SOAP.LinkyHandler1 endDocument
+INFO: Buzeni: linku 101 se nepodarilo vzbudit, nastavuji novy termin o 3 pozdeji
+29.8.2011 15:10:00 SOAP.NactiVstup delej
+INFO: Buzeni: Ukoncuji buzeni na lince101, ktere jiz vice jak 12 minut proslo36
+29.8.2011 15:10:00 SOAP.Buzeni run
+INFO: Vytacim cilovou linku 898 pro linku 105
+29.8.2011 15:17:36 SOAP.Menu$11 actionPerformed
+INFO: Ukoncuji Program
+30.8.2011 20:01:51 SOAP.Menu main
+INFO: Spusteni programu
+30.8.2011 20:01:52 SOAP.Menu main
+INFO: Spousteni po 10000 milisekundach
+30.8.2011 20:01:52 SOAP.Menu main
+INFO: Spusteni interface dle soap.properties
+30.8.2011 21:36:29 SOAP.Menu$11 actionPerformed
+INFO: Ukoncuji Program
+30.8.2011 21:55:04 SOAP.Menu main
+INFO: Spusteni programu
+30.8.2011 21:55:05 SOAP.Menu main
+INFO: Spousteni po 10000 milisekundach
+30.8.2011 21:55:05 SOAP.Menu main
+INFO: Spusteni interface dle soap.properties
+30.8.2011 21:55:42 SOAP.IniciaceDB <init>
+INFO: Iniciace Databaze - Maze linky a detaily linky
+30.8.2011 21:55:42 SOAP.IniciaceDB spust
+INFO: Iniciace DB - zaplneni tabulky linky z ustredny
+30.8.2011 23:56:14 SOAP.Menu$11 actionPerformed
+INFO: Ukoncuji Program
+4.9.2011 16:48:55 SOAP.Menu main
+INFO: Spusteni programu
+4.9.2011 16:49:21 SOAP.DB dbConnect
+SEVERE: Nepodarilo se napojit do databaze
+5.9.2011 10:15:31 SOAP.Menu main
+INFO: Spusteni programu
+5.9.2011 10:16:34 SOAP.DB dbConnect
+SEVERE: Nepodarilo se napojit do databaze
+5.9.2011 10:19:13 SOAP.Menu main
+INFO: Spusteni programu
+5.9.2011 10:19:43 SOAP.DB dbConnect
+SEVERE: Nepodarilo se napojit do databaze
+5.9.2011 10:21:44 SOAP.Menu main
+INFO: Spusteni programu
+5.9.2011 10:27:15 SOAP.Menu main
+INFO: Spusteni programu
+5.9.2011 10:27:57 SOAP.DB dbConnect
+SEVERE: Nepodarilo se napojit do databaze
+5.9.2011 10:32:00 SOAP.Menu main
+INFO: Spusteni programu
+5.9.2011 10:37:34 SOAP.Menu main
+INFO: Spusteni programu
+5.9.2011 10:37:36 SOAP.Menu main
+INFO: Spousteni po 10000 milisekundach
+5.9.2011 10:37:36 SOAP.Menu main
+INFO: Spusteni interface dle soap.properties
+5.9.2011 10:37:40 SOAP.Menu$10 actionPerformed
+INFO: Automat zastaven rucne
+5.9.2011 10:44:02 SOAP.IniciaceDB <init>
+INFO: Iniciace Databaze - Maze linky a detaily linky
+5.9.2011 10:44:03 SOAP.IniciaceDB spust
+INFO: Iniciace DB - zaplneni tabulky linky z ustredny
+5.9.2011 11:04:21 SOAP.Menu$11 actionPerformed
+INFO: Ukoncuji Program

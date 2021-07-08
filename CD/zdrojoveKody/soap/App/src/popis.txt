@@ -1,0 +1,37 @@
+
+Jelikoz program pracuje s https a mssql, je treba rozbalit knihovny httpcliena a sqldriver a naimportovat je do knihoven
+Nejdrive jsem uvazoval o uziti AXIS2, ktery generuje xml na zaklade wsdl, nakonec jsem uzil vlastni skladani xml dotazu
+
+soap.properties - obsahuje nastaveni programu , prihlaseni k DB a k PBX, vcetne chovani
+v balicku Soap jsou tyto tridy:
+
+Akce.java - definice promenne akce (id,cas,cas2,akce,popis,done) nacita z db.vstup
+Buzeni.java - trida zabezpecujici buzeni
+Caracas.java - trida pro emulaci systemu caracas - urceny format pro vymenu dat mezi ustrednou a hotelovym systemem
+DB.java - trida pro praci s DB
+Fronta.java - trida pro informaci kolik aktualnich buzeni je nastaveno a jejich stav
+- tato trida neni dodelana
+IniciaceDB.java - trida pro zaplneni tabulek linek v DB z telefonni ustredny
+Linka.java - trida definujici promennou linka s get a set metodami na jednotlive promenne
+LinkyHandler.java - SAX parser XLM pro tridu SoapSpust.java zpracovavajici vetsinu odpovedi ustredny
+LinkyHandler1.java - SAX parser XLM pro tridu SoapSpust1.java pro kontrolu vzbuzeni
+Menu.java - hlavni spousteci trida s gui zakladnich funkci
+MySSLSocketFactory.java - Trida pro  SSL pripojeni na ustrednu
+- dodelat komentare
+NactiVstup.java - trida pro nacitani vstupu
+OutRouteGui.java - trida pro graficke nastaveni odchozich rout
+SoapFce.java - trida , ktera sklada pozadavky do spravnych xml kodu pro dotazy do VoIPexove usredny
+SoapSpust.java - trida, ktera posila SOAP prikazy do telefonni ustredny
+SoapSpust1.java - trida, ktera posila SOAP prikazy do telefonni ustredny o vysledku vzbuzeni
+Tarifikace.java -  trida ktera umozni nacist z ustredny hovory za dane obdobi
+Volani.java - trida graficke ovladani pro vynuceni volani z linky
+Vypis.java - dodelat, zde by mel byt vypis logu
+
+
+dodelan soap.properties mimo jar
+
+- nutne dodelat
+
+
+Pridelat zabezpeceni http://proguard.sourceforge.net/ , to muze zustat v jaru ale nepujde to rozkodovat !
+
